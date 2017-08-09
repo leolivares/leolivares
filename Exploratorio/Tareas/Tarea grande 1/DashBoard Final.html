@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> DashBoard </title>
+    <meta charset = "utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Importamos todos los recursos necesarios -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://rawgithub.com/NickQiZhu/dc.js/master/web/js/crossfilter.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dc/1.7.5/dc.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dc/1.7.5/dc.css"/>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css"/>
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="Dash.css"/>
+
+  </head>
+
+
+  <body>
+
+    <div class="Header">
+      <h1>DashBoard</h1>
+      <p id= "nombre">Leonardo Olivares</p>
+    </div>
+
+    <!--Iniciamos un container, para trabajar con bootstrap-->
+    <div class="container">
+
+      <div class="row">
+          <!--Comemzamos a agregar los titulos, tablas y mapas a la estructura de la pagina-->
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+            <div class="titulo">
+              <h2>Marker Map</h2>
+            </div>
+
+            <div id="map">
+              </div>
+
+          </div>
+
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+            <div class="titulo">
+              <h2>Heat Map</h2>
+            </div>
+
+            <div id="map2">
+              </div>
+
+          </div>
+
+        </div>
+
+      <div class="row">
+
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+
+          <div id="rowChart">
+
+            <div class="titulo">
+              <h2> RowChart </h2>
+              </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-1"></div>
+
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+
+          <div class="row">
+
+          <div id="tweetsLineChart">
+
+            <div class="titulo">
+              <h2> LineChart </h2>
+            </div>
+
+          </div>
+
+        </div>
+
+          <div class="row">
+
+            <div>
+
+              <div class="titulo">
+                <h2> DataTable </h2>
+              </div>
+
+              <table class="table table-sm table-bordered table-striped" id="data-table">
+
+                <thead class="table-inverse">
+                  <tr class='header'>
+                    <th>Screen Name</th>
+                    <th>Creation Date</th>
+                    <th>Text Tweet</th>
+                  </tr>
+                </thead>
+
+              </table>
+
+            </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+    <!--Comienzo del script para javascript-->
+    <script type="text/javascript">
+    //Se lee el archivo tweets_pos_sample utilizando d3//
+    d3.csv("tweets_pos_sample.csv" , function(data) {
+
+          var parseDate = d3.time.format("%Y-%m-%d %H:%M:%S").parse;
+          data.forEach(function(d) {
+	           d.creation_date = parseDate(d.creation_date);
+             d.lat = +d.lat;
+             d.lon = +d.lon;
+          });
+
+          //Se crean las variables con las dimensiones y grupos que seran utilizadas en los graficos y tablas
+          var ndx = crossfilter(data);
+          var all = ndx.groupAll();
+          var dailyDim = ndx.dimension(function (d) {return d3.time.day(d.creation_date)});
+          var tweetsGroup = dailyDim.group().reduceCount(function(d) {return d.creation_date});
+          var tweetslineChart  = dc.lineChart("#tweetsLineChart");
+          var RowBarChart = dc.rowChart("#rowChart");
+          var dataTable = dc.dataTable("#data-table");
+          var minDate = new Date(dailyDim.bottom(1)[0].creation_date);
+          var maxDate = new Date(dailyDim.top(1)[0].creation_date);
+          var dimCiudades = ndx.dimension(function (d) {return d.ciudad});
+          var groupCiudades = dimCiudades.group();
+          var dimUsuarios = ndx.dimension(function (d) {return d.screen_name});
+
+          //Se especifican las caracteristicas de los graficos//
+          tweetslineChart
+	           .width(800)
+             .height(300)
+             .renderHorizontalGridLines(true)
+             .renderVerticalGridLines(true)
+             .renderArea(true)
+	           .dimension(dailyDim)
+	           .group(tweetsGroup)
+             .transitionDuration(200)
+             .elasticY(true)
+             .x(d3.time.scale().domain([d3.time.day.offset(minDate, -1), d3.time.day.offset(maxDate, 1)]))
+             .xAxis();
+
+
+          RowBarChart
+            .ordering(function(d) { return -d.value })
+            .renderLabel(true)
+            .width(350)
+            .height(900)
+            .dimension(dimCiudades)
+            .group(groupCiudades)
+            .elasticX(true)
+            .xAxis().ticks(3);
+
+
+          dataTable
+            .dimension(dimUsuarios)
+            .group(function(d) { return "Lista de Tweets Seleccionados"})
+            .size(5)
+            .columns([
+              function(d) { return d.screen_name },
+              function(d) { return d.creation_date },
+              function(d) { return d.text_tweet }])
+            .sortBy(function(d){ return d.creation_date; })
+            .on('renderlet', function (table) {
+              table.select('tr.dc-table-group').remove();
+            });
+
+        //Inicializamos los graficos y tablas//
+        dc.renderAll();
+
+        //Creamos las variables para 2 mapas//
+        var map = L.map('map').setView([-33.892341, -70.544330], 2);
+        var map2 = L.map('map2').setView([-33.892341, -70.544330], 2);
+
+        var base_layer =  L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+          });
+
+        var base_layer2 = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+          });
+
+        base_layer.addTo(map);
+        base_layer2.addTo(map2);
+
+        //Se agregan los markers respectivos segun lat y lon al mapa
+        //Se mostrara el tweet al presionar el marker//
+        data.forEach(function(d) {
+           var new_marker = L.marker([d.lat, d.lon]);
+
+           new_marker.bindPopup("<p>" + d.text_tweet + "</p>");
+           new_marker.addTo(map);
+         });
+
+        //BONUS: Se crean los heat points para el heatmap
+        var new_marker2 = L.heatLayer(data,{
+          radius: 20,
+          blur: 23,
+          maxZoom: 17,
+          minOpacity: 1,
+          gradient: {0.4: 'blue', 0.6: 'lime', 0.85: 'yellow', 0.97: 'yellow', 1: 'red'}
+        });
+        new_marker2.addTo(map2);
+
+       });
+
+
+    </script>
+
+    </div>
+
+  </body>
+
+</html>

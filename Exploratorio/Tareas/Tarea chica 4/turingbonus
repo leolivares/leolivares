@@ -1,0 +1,234 @@
+name: bonus
+init: q0
+accept: qaccept
+
+// Iniciamos buscando cual es el numero con mayor cantidad de cifras
+// qcontar marca un "0" por cada cifra del numero, y al final del proceso
+// representa al numero con mayor cantidad de cifras
+
+q0,1,_,_
+qcontar,1,_,_,-,-,-
+q0,0,_,_
+qcontar,0,_,_,-,-,-
+
+qcontar,1,_,_
+qcontar,1,0,_,>,>,-
+qcontar,0,_,_
+qcontar,0,0,_,>,>,-
+qcontar,.,_,_
+qvolver,.,_,_,-,<,-
+
+qcontar,_,_,_
+qguardar,_,_,_,-,<,-
+
+qcontar,1,0,_
+qcontar,1,0,_,>,>,-
+qcontar,0,0,_
+qcontar,0,0,_,>,>,-
+qcontar,.,0,_
+qvolver,.,0,_,-,-,-
+
+qcontar,_,0,_
+qderecha,_,0,_,-,>,-
+
+qderecha,_,_,_
+qguardar,_,_,_,-,<,-
+qderecha,_,0,_
+qderecha,_,0,_,-,>,-
+
+// qguardar se encarga de almacenar en la cinta 3, la cantidad de 0 obtenidos con qcontar
+qguardar,_,0,_
+qguardar,_,_,0,-,<,<
+qguardar,_,_,_
+qposicion,_,_,_,-,-,>
+
+qvolver,.,0,_
+qvolver,.,0,_,-,<,-
+qvolver,.,_,_
+qcontar,.,_,_,>,>,-
+
+qposicion,_,_,0
+qposicion,_,_,0,-,-,>
+qposicion,_,_,_
+qarreglar,_,_,_,<,-,<
+
+// qarreglar se encarga de traducir los numeros de la cinta 1 a numeros con
+// igual cantidad de cifras en la cinta 2. Para esto, agrega 0 adelante de los
+// numeros, lo cual no altera el valor del numero.
+
+qarreglar,1,_,0
+qarreglar,_,1,0,<,<,<
+qarreglar,0,_,0
+qarreglar,_,0,0,<,<,<
+qarreglar,.,_,0
+qarreglar,.,0,0,-,<,<
+qarreglar,.,_,_
+qposicion,_,.,_,-,<,>
+
+qarreglar,_,_,0
+qarreglar,_,0,0,-,<,<
+
+qarreglar,_,_,_
+qborrar,_,_,_,-,-,>
+
+// qborrar elimina los "0" en la cinta 3
+qborrar,_,_,0
+qborrar,_,_,_,-,-,>
+qborrar,_,_,_
+qordenar,_,_,_,-,>,-
+
+// qordenar coloca el input arreglado en la cinta 1 nuevamente
+qordenar,_,0,_
+qordenar,0,_,_,>,>,-
+qordenar,_,1,_
+qordenar,1,_,_,>,>,-
+qordenar,_,.,_
+qordenar,.,_,_,>,>,-
+
+qordenar,_,_,_
+qiniciar,_,_,_,<,-,-
+
+// qiniciar posiciona el cursor al comienzo del arbol arreglado en la cinta 1
+// De esta manera comienza el proceso de verficacion de min heap, para arboles
+// con nodos di distintas cantidades de cifras.
+
+qiniciar,0,_,_
+qiniciar,0,_,_,<,-,-
+qiniciar,1,_,_
+qiniciar,1,_,_,<,-,-
+qiniciar,.,_,_
+qiniciar,.,_,_,<,-,-
+qiniciar,_,_,_
+q1,_,_,_,>,-,-
+
+//El proceso de verificacion inicia en el estado q1
+//qcopiar se encarga de copiar un numero de la primera fila a la segunda
+q1,1,_,_
+qcopiar,1,_,_,-,-,-
+q1,0,_,_
+qcopiar,0,_,_,-,-,-
+
+qcopiar,1,_,_
+qcopiar,1,1,_,>,>,-
+qcopiar,0,_,_
+qcopiar,0,0,_,>,>,-
+qcopiar,.,_,_
+qorden2,.,_,1,-,<,-
+
+// Cade vez que se copia un numero de la fila 1, se coloca un "1" en la fila 3
+// los cuales se utilizaran para poder encontrar los numeros con los que se
+// comparará. Cada "1" simboliza un punto en la fila 1, que se debe pasar para llegar
+// al numero indicado.
+
+//El estado qorden2 se encarga de colocar el marcador al inicio del numeron en la fila 2
+qorden2,.,1,1
+qorden2,.,1,1,-,<,-
+qorden2,.,0,1
+qorden2,.,0,1,-,<,-
+qorden2,.,_,1
+qorden1,.,_,1,-,>,-
+
+//qordern1 se encarga de colocar el cursor en la primera cifra del numero respectivo
+qorden1,.,0,1
+qorden1,.,0,1,>,-,>
+qorden1,.,1,1
+qorden1,.,1,1,>,-,>
+
+qorden1,_,1,1
+qaccept,_,1,1,-,-,-
+qorden1,_,0,1
+qaccept,_,0,1,-,-,-
+
+qorden1,1,1,1
+qorden1,1,1,1,>,-,-
+qorden1,0,1,1
+qorden1,0,1,1,>,-,-
+qorden1,1,0,1
+qorden1,1,0,1,>,-,-
+qorden1,0,0,1
+qorden1,0,0,1,>,-,-
+
+//qcomparar se encarga de verificar cual de los numeros es el mayor
+qorden1,1,1,_
+qcomparar,1,1,_,-,-,-
+qorden1,1,0,_
+qcomparar,1,0,_,-,-,-
+qorden1,0,1,_
+qcomparar,0,1,_,-,-,-
+qorden1,0,0,_
+qcomparar,0,0,_,-,-,-
+
+qcomparar,1,1,_
+qcomparar,1,1,_,>,>,-
+qcomparar,0,0,_
+qcomparar,0,0,_,>,>,-
+qcomparar,1,0,_
+qmover1,1,0,_,-,-,-
+qcomparar,0,1,_
+qrechazar,0,1,_,-,-,-
+
+// Si el num en la fila 1 es mayor el proceso continua
+// Si el nume en la fila 2 es mayor, el proceso termina y no es heap binario
+
+// qmover1 se encarga de mover la fila 1 del numero 2n al (2n + 1)
+qmover1,1,0,_
+qmover1,1,0,_,>,-,-
+qmover1,0,0,_
+qmover1,0,0,_,>,-,-
+qmover1,.,0,_
+qorden2,.,0,_,>,-,-
+
+// qorden2 se encarga de acomodar el cursor en el primer digito del numero en la fila 2
+// qcomparar2 se encarga de realizar la comparacion con el numero de la segunda rama
+qorden2,1,1,_
+qorden2,1,1,_,-,<,-
+qorden2,0,1,_
+qorden2,0,1,_,-,<,-
+qorden2,1,0,_
+qorden2,1,0,_,-,<,-
+qorden2,0,0,_
+qorden2,0,0,_,-,<,-
+qorden2,1,_,_
+qcomparar2,1,_,_,-,>,-
+qorden2,0,_,_
+qcomparar2,0,_,_,-,>,-
+
+qcomparar2,1,1,_
+qcomparar2,1,1,_,>,>,-
+qcomparar2,0,0,_
+qcomparar2,0,0,_,>,>,-
+qcomparar2,1,0,_
+qpreparar,1,0,_,-,-,-
+qcomparar,0,1,_
+qrechazar,0,1,_,-,-,-
+
+// qpreparar se encarga de posicionar el cursor al inicio del numero en la segunda fila
+// para proceder a ser eliminado por qlimpiar
+qpreparar,1,0,_
+qpreparar,1,0,_,-,<,-
+qpreparar,1,1,_
+qpreparar,1,1,_,-,<,-
+qpreparar,1,_,_
+qlimpiar,1,_,_,-,>,-
+
+qlimpiar,1,0,_
+qlimpiar,1,_,_,-,>,-
+qlimpiar,1,1,_
+qlimpiar,1,_,_,-,>,-
+qlimpiar,1,_,_
+qregresar,1,_,_,-,-,<
+
+// qregresar se encarga de buscar el prox numero a comparar en la primera fila
+// para esto retrocede, usando como referencia los "1" colocados en la fila 3
+qregresar,1,_,1
+qregresar,1,_,1,<,-,-
+qregresar,0,_,1
+qregresar,0,_,1,<,-,-
+qregresar,.,_,1
+qregresar,.,_,1,<,-,<
+qregresar,1,_,_
+qregresar,1,_,_,<,-,-
+qregresar,0,_,_
+qregresar,0,_,_,<,-,-
+qregresar,.,_,_
+qcopiar,.,_,_,>,-,-

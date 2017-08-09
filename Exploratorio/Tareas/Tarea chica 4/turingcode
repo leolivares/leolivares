@@ -1,0 +1,135 @@
+name: Min Heap
+init: q0
+accept: qaccept
+
+//El proceso inicia en el estado q0
+//qcopiar se encarga de copiar un numero de la primera fila a la segunda
+q0,1,_,_
+qcopiar,1,_,_,-,-,-
+q0,0,_,_
+qcopiar,0,_,_,-,-,-
+
+qcopiar,1,_,_
+qcopiar,1,1,_,>,>,-
+qcopiar,0,_,_
+qcopiar,0,0,_,>,>,-
+qcopiar,.,_,_
+qorden2,.,_,1,-,<,-
+
+// Cade vez que se copia un numero de la fila 1, se coloca un "1" en la fila 3
+// los cuales se utilizaran para poder encontrar los numeros con los que se
+// comparará. Cada "1" simboliza un punto en la fila 1, que se debe pasar para llegar
+// al numero indicado.
+
+//El estado qorden2 se encarga de colocar el marcador al inicio del numeron en la fila 2
+qorden2,.,1,1
+qorden2,.,1,1,-,<,-
+qorden2,.,0,1
+qorden2,.,0,1,-,<,-
+qorden2,.,_,1
+qorden1,.,_,1,-,>,-
+
+//qordern1 se encarga de colocar el cursor en la primera cifra del numero respectivo
+qorden1,.,0,1
+qorden1,.,0,1,>,-,>
+qorden1,.,1,1
+qorden1,.,1,1,>,-,>
+
+qorden1,_,1,1
+qaccept,_,1,1,-,-,-
+qorden1,_,0,1
+qaccept,_,0,1,-,-,-
+
+qorden1,1,1,1
+qorden1,1,1,1,>,-,-
+qorden1,0,1,1
+qorden1,0,1,1,>,-,-
+qorden1,1,0,1
+qorden1,1,0,1,>,-,-
+qorden1,0,0,1
+qorden1,0,0,1,>,-,-
+
+//qcomparar se encarga de verificar cual de los numeros es el mayor
+qorden1,1,1,_
+qcomparar,1,1,_,-,-,-
+qorden1,1,0,_
+qcomparar,1,0,_,-,-,-
+qorden1,0,1,_
+qcomparar,0,1,_,-,-,-
+qorden1,0,0,_
+qcomparar,0,0,_,-,-,-
+
+qcomparar,1,1,_
+qcomparar,1,1,_,>,>,-
+qcomparar,0,0,_
+qcomparar,0,0,_,>,>,-
+qcomparar,1,0,_
+qmover1,1,0,_,-,-,-
+qcomparar,0,1,_
+qrechazar,0,1,_,-,-,-
+
+// Si el num en la fila 1 es mayor el proceso continua
+// Si el nume en la fila 2 es mayor, el proceso termina y no es heap binario
+
+// qmover1 se encarga de mover la fila 1 del numero 2n al (2n + 1)
+qmover1,1,0,_
+qmover1,1,0,_,>,-,-
+qmover1,0,0,_
+qmover1,0,0,_,>,-,-
+qmover1,.,0,_
+qorden2,.,0,_,>,-,-
+
+// qorden2 se encarga de acomodar el cursor en el primer digito del numero en la fila 2
+// qcomparar2 se encarga de realizar la comparacion con el numero de la segunda rama
+qorden2,1,1,_
+qorden2,1,1,_,-,<,-
+qorden2,0,1,_
+qorden2,0,1,_,-,<,-
+qorden2,1,0,_
+qorden2,1,0,_,-,<,-
+qorden2,0,0,_
+qorden2,0,0,_,-,<,-
+qorden2,1,_,_
+qcomparar2,1,_,_,-,>,-
+qorden2,0,_,_
+qcomparar2,0,_,_,-,>,-
+
+qcomparar2,1,1,_
+qcomparar2,1,1,_,>,>,-
+qcomparar2,0,0,_
+qcomparar2,0,0,_,>,>,-
+qcomparar2,1,0,_
+qpreparar,1,0,_,-,-,-
+qcomparar,0,1,_
+qrechazar,0,1,_,-,-,-
+
+// qpreparar se encarga de posicionar el cursor al inicio del numero en la segunda fila
+// para proceder a ser eliminado por qlimpiar
+qpreparar,1,0,_
+qpreparar,1,0,_,-,<,-
+qpreparar,1,1,_
+qpreparar,1,1,_,-,<,-
+qpreparar,1,_,_
+qlimpiar,1,_,_,-,>,-
+
+qlimpiar,1,0,_
+qlimpiar,1,_,_,-,>,-
+qlimpiar,1,1,_
+qlimpiar,1,_,_,-,>,-
+qlimpiar,1,_,_
+qregresar,1,_,_,-,-,<
+
+// qregresar se encarga de buscar el prox numero a comparar en la primera fila
+// para esto retrocede, usando como referencia los "1" colocados en la fila 3
+qregresar,1,_,1
+qregresar,1,_,1,<,-,-
+qregresar,0,_,1
+qregresar,0,_,1,<,-,-
+qregresar,.,_,1
+qregresar,.,_,1,<,-,<
+qregresar,1,_,_
+qregresar,1,_,_,<,-,-
+qregresar,0,_,_
+qregresar,0,_,_,<,-,-
+qregresar,.,_,_
+qcopiar,.,_,_,>,-,-
