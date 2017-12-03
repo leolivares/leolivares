@@ -1,0 +1,132 @@
+{
+    "820": {
+        "faltas": 8,
+        "amarillas": 7,
+        "goles": 27,
+        "equipo": "Pescara Calcio",
+        "asistencias": 77,
+        "id": "820",
+        "nombre": "Joshua Kennedy",
+        "rojas": 7
+    },
+    "123": {
+        "faltas": 48,
+        "amarillas": 3,
+        "goles": 123,
+        "equipo": "Pescara Calcio",
+        "asistencias": 264,
+        "id": "123",
+        "nombre": "Omeruo",
+        "rojas": 2
+    },
+    "1009": {
+        "faltas": 40,
+        "amarillas": 1,
+        "goles": 98,
+        "equipo": "Pescara Calcio",
+        "asistencias": 63,
+        "id": "1009",
+        "nombre": "Lugano",
+        "rojas": 1
+    },
+    "571": {
+        "faltas": 12,
+        "amarillas": 3,
+        "goles": 48,
+        "equipo": "Pescara Calcio",
+        "asistencias": 162,
+        "id": "571",
+        "nombre": "Buffon",
+        "rojas": 6
+    },
+    "111": {
+        "faltas": 41,
+        "amarillas": 0,
+        "goles": 18,
+        "equipo": "Pescara Calcio",
+        "asistencias": 65,
+        "id": "111",
+        "nombre": "Jordan Ayew",
+        "rojas": 7
+    },
+    "501": {
+        "faltas": 36,
+        "amarillas": 4,
+        "goles": 93,
+        "equipo": "Pescara Calcio",
+        "asistencias": 94,
+        "id": "501",
+        "nombre": "Paul Pogba",
+        "rojas": 1
+    },
+    "348": {
+        "faltas": 14,
+        "amarillas": 1,
+        "goles": 126,
+        "equipo": "Pescara Calcio",
+        "asistencias": 176,
+        "id": "348",
+        "nombre": "Manuel Neuer",
+        "rojas": 5
+    },
+    "86": {
+        "faltas": 20,
+        "amarillas": 3,
+        "goles": 128,
+        "equipo": "Pescara Calcio",
+        "asistencias": 1,
+        "id": "86",
+        "nombre": "Nabil Ghilas",
+        "rojas": 9
+    },
+    "892": {
+        "faltas": 27,
+        "amarillas": 3,
+        "goles": 108,
+        "equipo": "Pescara Calcio",
+        "asistencias": 259,
+        "id": "892",
+        "nombre": "Anderson",
+        "rojas": 10
+    },
+    "498": {
+        "faltas": 23,
+        "amarillas": 3,
+        "goles": 107,
+        "equipo": "Pescara Calcio",
+        "asistencias": 186,
+        "id": "498",
+        "nombre": "Blaise Matuidi",
+        "rojas": 9
+    },
+    "431": {
+        "faltas": 49,
+        "amarillas": 0,
+        "goles": 37,
+        "equipo": "Pescara Calcio",
+        "asistencias": 108,
+        "id": "431",
+        "nombre": "R. Albiol",
+        "rojas": 3
+    },
+    "171": {
+        "faltas": 29,
+        "amarillas": 6,
+        "goles": 54,
+        "equipo": "Pescara Calcio",
+        "asistencias": 176,
+        "id": "171",
+        "nombre": "Takahashi",
+        "rojas": 3
+    },
+    "629": {
+        "faltas": 30,
+        "amarillas": 2,
+        "goles": 42,
+        "equipo": "Pescara Calcio",
+        "asistencias": 154,
+        "id": "629",
+        "nombre": "Rafael van der Vaart",
+        "rojas": 2
+    }
+}

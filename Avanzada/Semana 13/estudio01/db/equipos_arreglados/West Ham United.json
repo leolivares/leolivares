@@ -1,0 +1,132 @@
+{
+    "289": {
+        "faltas": 44,
+        "amarillas": 6,
+        "goles": 3,
+        "equipo": "West Ham United",
+        "asistencias": 110,
+        "id": "289",
+        "nombre": "Edin Vi\u00c5\u00a1\u00c4\u2021a",
+        "rojas": 10
+    },
+    "221": {
+        "faltas": 19,
+        "amarillas": 2,
+        "goles": 38,
+        "equipo": "West Ham United",
+        "asistencias": 133,
+        "id": "221",
+        "nombre": "Celso Borges",
+        "rojas": 6
+    },
+    "947": {
+        "faltas": 13,
+        "amarillas": 1,
+        "goles": 81,
+        "equipo": "West Ham United",
+        "asistencias": 153,
+        "id": "947",
+        "nombre": "C. Zapata",
+        "rojas": 2
+    },
+    "275": {
+        "faltas": 24,
+        "amarillas": 0,
+        "goles": 30,
+        "equipo": "West Ham United",
+        "asistencias": 78,
+        "id": "275",
+        "nombre": "Sejad Salihovi\u00c4\u2021",
+        "rojas": 3
+    },
+    "168": {
+        "faltas": 10,
+        "amarillas": 4,
+        "goles": 95,
+        "equipo": "West Ham United",
+        "asistencias": 124,
+        "id": "168",
+        "nombre": "Hosogai",
+        "rojas": 2
+    },
+    "408": {
+        "faltas": 10,
+        "amarillas": 3,
+        "goles": 99,
+        "equipo": "West Ham United",
+        "asistencias": 250,
+        "id": "408",
+        "nombre": "Jordan Henderson",
+        "rojas": 2
+    },
+    "22": {
+        "faltas": 26,
+        "amarillas": 6,
+        "goles": 118,
+        "equipo": "West Ham United",
+        "asistencias": 250,
+        "id": "22",
+        "nombre": "Sayouba Mand\u00c3\u00a9",
+        "rojas": 2
+    },
+    "678": {
+        "faltas": 36,
+        "amarillas": 5,
+        "goles": 36,
+        "equipo": "West Ham United",
+        "asistencias": 130,
+        "id": "678",
+        "nombre": "Andrey Yeshchenko",
+        "rojas": 2
+    },
+    "616": {
+        "faltas": 18,
+        "amarillas": 3,
+        "goles": 16,
+        "equipo": "West Ham United",
+        "asistencias": 179,
+        "id": "616",
+        "nombre": "Jasper Cillessen",
+        "rojas": 2
+    },
+    "765": {
+        "faltas": 25,
+        "amarillas": 5,
+        "goles": 110,
+        "equipo": "West Ham United",
+        "asistencias": 133,
+        "id": "765",
+        "nombre": "Clarence Goodson",
+        "rojas": 5
+    },
+    "21": {
+        "faltas": 19,
+        "amarillas": 4,
+        "goles": 65,
+        "equipo": "West Ham United",
+        "asistencias": 258,
+        "id": "21",
+        "nombre": "Giovanni Sio",
+        "rojas": 9
+    },
+    "430": {
+        "faltas": 1,
+        "amarillas": 0,
+        "goles": 114,
+        "equipo": "West Ham United",
+        "asistencias": 23,
+        "id": "430",
+        "nombre": "Fernando Pacheco",
+        "rojas": 9
+    },
+    "799": {
+        "faltas": 26,
+        "amarillas": 3,
+        "goles": 8,
+        "equipo": "West Ham United",
+        "asistencias": 267,
+        "id": "799",
+        "nombre": "Ryan McGowan",
+        "rojas": 5
+    }
+}

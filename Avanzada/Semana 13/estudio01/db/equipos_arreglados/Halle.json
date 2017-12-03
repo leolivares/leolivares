@@ -1,0 +1,132 @@
+{
+    "361": {
+        "faltas": 47,
+        "amarillas": 4,
+        "goles": 122,
+        "equipo": "Halle",
+        "asistencias": 8,
+        "id": "361",
+        "nombre": "Lars Bender",
+        "rojas": 6
+    },
+    "939": {
+        "faltas": 40,
+        "amarillas": 5,
+        "goles": 68,
+        "equipo": "Halle",
+        "asistencias": 106,
+        "id": "939",
+        "nombre": "Ospina",
+        "rojas": 1
+    },
+    "283": {
+        "faltas": 5,
+        "amarillas": 2,
+        "goles": 12,
+        "equipo": "Halle",
+        "asistencias": 111,
+        "id": "283",
+        "nombre": "Anel Had\u00c5\u00bei\u00c4\u2021",
+        "rojas": 7
+    },
+    "378": {
+        "faltas": 41,
+        "amarillas": 5,
+        "goles": 50,
+        "equipo": "Halle",
+        "asistencias": 36,
+        "id": "378",
+        "nombre": "Joe Hart",
+        "rojas": 1
+    },
+    "303": {
+        "faltas": 47,
+        "amarillas": 5,
+        "goles": 59,
+        "equipo": "Halle",
+        "asistencias": 194,
+        "id": "303",
+        "nombre": "Dedryck Boyata",
+        "rojas": 5
+    },
+    "555": {
+        "faltas": 41,
+        "amarillas": 3,
+        "goles": 63,
+        "equipo": "Halle",
+        "asistencias": 110,
+        "id": "555",
+        "nombre": "Luka Modri\u00c4\u2021",
+        "rojas": 0
+    },
+    "55": {
+        "faltas": 48,
+        "amarillas": 1,
+        "goles": 11,
+        "equipo": "Halle",
+        "asistencias": 38,
+        "id": "55",
+        "nombre": "Vincent Aboubakar",
+        "rojas": 5
+    },
+    "502": {
+        "faltas": 17,
+        "amarillas": 2,
+        "goles": 41,
+        "equipo": "Halle",
+        "asistencias": 252,
+        "id": "502",
+        "nombre": "Cl\u00c3\u00a9ment Grenier",
+        "rojas": 1
+    },
+    "611": {
+        "faltas": 22,
+        "amarillas": 1,
+        "goles": 113,
+        "equipo": "Halle",
+        "asistencias": 56,
+        "id": "611",
+        "nombre": "Mattia Destro",
+        "rojas": 3
+    },
+    "634": {
+        "faltas": 10,
+        "amarillas": 5,
+        "goles": 105,
+        "equipo": "Halle",
+        "asistencias": 127,
+        "id": "634",
+        "nombre": "Jonathan de Guzm\u00c3\u00a1n",
+        "rojas": 2
+    },
+    "332": {
+        "faltas": 1,
+        "amarillas": 7,
+        "goles": 121,
+        "equipo": "Halle",
+        "asistencias": 191,
+        "id": "332",
+        "nombre": "Valon Behrami",
+        "rojas": 7
+    },
+    "251": {
+        "faltas": 9,
+        "amarillas": 2,
+        "goles": 118,
+        "equipo": "Halle",
+        "asistencias": 237,
+        "id": "251",
+        "nombre": "Roger Espinoza",
+        "rojas": 10
+    },
+    "614": {
+        "faltas": 36,
+        "amarillas": 0,
+        "goles": 84,
+        "equipo": "Halle",
+        "asistencias": 243,
+        "id": "614",
+        "nombre": "Fabio Borini",
+        "rojas": 7
+    }
+}

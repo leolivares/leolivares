@@ -1,0 +1,132 @@
+{
+    "744": {
+        "faltas": 4,
+        "amarillas": 3,
+        "goles": 124,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 226,
+        "id": "744",
+        "nombre": "H. Herrera",
+        "rojas": 9
+    },
+    "809": {
+        "faltas": 2,
+        "amarillas": 2,
+        "goles": 68,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 192,
+        "id": "809",
+        "nombre": "Dario Vido\u00c5\u00a1i\u00c4\u2021",
+        "rojas": 3
+    },
+    "10": {
+        "faltas": 45,
+        "amarillas": 0,
+        "goles": 128,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 150,
+        "id": "10",
+        "nombre": "Ousmane Viera",
+        "rojas": 6
+    },
+    "161": {
+        "faltas": 29,
+        "amarillas": 3,
+        "goles": 93,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 160,
+        "id": "161",
+        "nombre": "Konno",
+        "rojas": 1
+    },
+    "210": {
+        "faltas": 29,
+        "amarillas": 1,
+        "goles": 84,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 111,
+        "id": "210",
+        "nombre": "Esteban Alvarado",
+        "rojas": 2
+    },
+    "354": {
+        "faltas": 27,
+        "amarillas": 0,
+        "goles": 17,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 197,
+        "id": "354",
+        "nombre": "Mats Hummels",
+        "rojas": 10
+    },
+    "400": {
+        "faltas": 19,
+        "amarillas": 3,
+        "goles": 91,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 83,
+        "id": "400",
+        "nombre": "Jordan Rossiter",
+        "rojas": 9
+    },
+    "766": {
+        "faltas": 10,
+        "amarillas": 7,
+        "goles": 111,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 253,
+        "id": "766",
+        "nombre": "Michael Parkhurst",
+        "rojas": 8
+    },
+    "182": {
+        "faltas": 20,
+        "amarillas": 6,
+        "goles": 95,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 222,
+        "id": "182",
+        "nombre": "Yuya Osako",
+        "rojas": 5
+    },
+    "76": {
+        "faltas": 15,
+        "amarillas": 0,
+        "goles": 48,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 51,
+        "id": "76",
+        "nombre": "Ryad Boudebouz",
+        "rojas": 5
+    },
+    "144": {
+        "faltas": 49,
+        "amarillas": 7,
+        "goles": 72,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 113,
+        "id": "144",
+        "nombre": "Muhammed",
+        "rojas": 8
+    },
+    "539": {
+        "faltas": 15,
+        "amarillas": 2,
+        "goles": 125,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 161,
+        "id": "539",
+        "nombre": "Theofanis Gekas",
+        "rojas": 7
+    },
+    "625": {
+        "faltas": 20,
+        "amarillas": 5,
+        "goles": 77,
+        "equipo": "FC Gleisdorf 09",
+        "asistencias": 99,
+        "id": "625",
+        "nombre": "Paul Verhaegh",
+        "rojas": 3
+    }
+}

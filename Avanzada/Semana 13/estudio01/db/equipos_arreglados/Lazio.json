@@ -1,0 +1,132 @@
+{
+    "310": {
+        "faltas": 33,
+        "amarillas": 0,
+        "goles": 90,
+        "equipo": "Lazio",
+        "asistencias": 200,
+        "id": "310",
+        "nombre": "Kevin De Bruyne",
+        "rojas": 5
+    },
+    "557": {
+        "faltas": 14,
+        "amarillas": 6,
+        "goles": 50,
+        "equipo": "Lazio",
+        "asistencias": 127,
+        "id": "557",
+        "nombre": "Ognjen Vukojevi\u00c4\u2021",
+        "rojas": 7
+    },
+    "484": {
+        "faltas": 31,
+        "amarillas": 6,
+        "goles": 33,
+        "equipo": "Lazio",
+        "asistencias": 80,
+        "id": "484",
+        "nombre": "Mathieu Debuchy",
+        "rojas": 1
+    },
+    "722": {
+        "faltas": 10,
+        "amarillas": 0,
+        "goles": 4,
+        "equipo": "Lazio",
+        "asistencias": 208,
+        "id": "722",
+        "nombre": "Reza Ghoochannejhad",
+        "rojas": 9
+    },
+    "20": {
+        "faltas": 9,
+        "amarillas": 4,
+        "goles": 48,
+        "equipo": "Lazio",
+        "asistencias": 104,
+        "id": "20",
+        "nombre": "Seydou Doumbia",
+        "rojas": 5
+    },
+    "61": {
+        "faltas": 26,
+        "amarillas": 4,
+        "goles": 115,
+        "equipo": "Lazio",
+        "asistencias": 138,
+        "id": "61",
+        "nombre": "Madjid Bougherra",
+        "rojas": 4
+    },
+    "325": {
+        "faltas": 38,
+        "amarillas": 6,
+        "goles": 112,
+        "equipo": "Lazio",
+        "asistencias": 144,
+        "id": "325",
+        "nombre": "Ricardo Rodr\u00c3\u00adguez",
+        "rojas": 0
+    },
+    "290": {
+        "faltas": 29,
+        "amarillas": 3,
+        "goles": 27,
+        "equipo": "Lazio",
+        "asistencias": 81,
+        "id": "290",
+        "nombre": "Thibaut Courtois",
+        "rojas": 6
+    },
+    "1038": {
+        "faltas": 23,
+        "amarillas": 0,
+        "goles": 111,
+        "equipo": "Lazio",
+        "asistencias": 223,
+        "id": "1038",
+        "nombre": "Teofilo Guti\u00c3\u00a9rrez",
+        "rojas": 9
+    },
+    "519": {
+        "faltas": 30,
+        "amarillas": 0,
+        "goles": 18,
+        "equipo": "Lazio",
+        "asistencias": 190,
+        "id": "519",
+        "nombre": "Sokratis Papastathopoulos",
+        "rojas": 6
+    },
+    "445": {
+        "faltas": 6,
+        "amarillas": 0,
+        "goles": 9,
+        "equipo": "Lazio",
+        "asistencias": 12,
+        "id": "445",
+        "nombre": "Nacho",
+        "rojas": 1
+    },
+    "695": {
+        "faltas": 50,
+        "amarillas": 1,
+        "goles": 49,
+        "equipo": "Lazio",
+        "asistencias": 91,
+        "id": "695",
+        "nombre": "Maksim Kanunnikov",
+        "rojas": 3
+    },
+    "1051": {
+        "faltas": 46,
+        "amarillas": 0,
+        "goles": 128,
+        "equipo": "Lazio",
+        "asistencias": 236,
+        "id": "1051",
+        "nombre": "Socratis Papastathopoulos",
+        "rojas": 2
+    }
+}

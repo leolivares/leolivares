@@ -1,0 +1,132 @@
+{
+    "932": {
+        "faltas": 31,
+        "amarillas": 3,
+        "goles": 10,
+        "equipo": "Wiesbaden",
+        "asistencias": 61,
+        "id": "932",
+        "nombre": "J. Fernandes",
+        "rojas": 6
+    },
+    "395": {
+        "faltas": 32,
+        "amarillas": 1,
+        "goles": 34,
+        "equipo": "Wiesbaden",
+        "asistencias": 157,
+        "id": "395",
+        "nombre": "Jon Flanagan",
+        "rojas": 9
+    },
+    "87": {
+        "faltas": 42,
+        "amarillas": 1,
+        "goles": 120,
+        "equipo": "Wiesbaden",
+        "asistencias": 64,
+        "id": "87",
+        "nombre": "Adam Kwarasey",
+        "rojas": 4
+    },
+    "376": {
+        "faltas": 17,
+        "amarillas": 0,
+        "goles": 26,
+        "equipo": "Wiesbaden",
+        "asistencias": 60,
+        "id": "376",
+        "nombre": "Serge Gnabry",
+        "rojas": 0
+    },
+    "468": {
+        "faltas": 39,
+        "amarillas": 3,
+        "goles": 39,
+        "equipo": "Wiesbaden",
+        "asistencias": 266,
+        "id": "468",
+        "nombre": "Suso",
+        "rojas": 5
+    },
+    "401": {
+        "faltas": 14,
+        "amarillas": 5,
+        "goles": 122,
+        "equipo": "Wiesbaden",
+        "asistencias": 260,
+        "id": "401",
+        "nombre": "Reece James",
+        "rojas": 7
+    },
+    "628": {
+        "faltas": 48,
+        "amarillas": 4,
+        "goles": 53,
+        "equipo": "Wiesbaden",
+        "asistencias": 196,
+        "id": "628",
+        "nombre": "Nathan Ak\u00c3\u00a9",
+        "rojas": 2
+    },
+    "581": {
+        "faltas": 3,
+        "amarillas": 3,
+        "goles": 97,
+        "equipo": "Wiesbaden",
+        "asistencias": 117,
+        "id": "581",
+        "nombre": "Bonucci",
+        "rojas": 2
+    },
+    "148": {
+        "faltas": 4,
+        "amarillas": 0,
+        "goles": 5,
+        "equipo": "Wiesbaden",
+        "asistencias": 48,
+        "id": "148",
+        "nombre": "Victor Obinna",
+        "rojas": 9
+    },
+    "655": {
+        "faltas": 23,
+        "amarillas": 6,
+        "goles": 123,
+        "equipo": "Wiesbaden",
+        "asistencias": 89,
+        "id": "655",
+        "nombre": "Lu\u00c3\u00ads Neto",
+        "rojas": 7
+    },
+    "295": {
+        "faltas": 46,
+        "amarillas": 5,
+        "goles": 124,
+        "equipo": "Wiesbaden",
+        "asistencias": 43,
+        "id": "295",
+        "nombre": "Vincent Kompany",
+        "rojas": 3
+    },
+    "391": {
+        "faltas": 25,
+        "amarillas": 6,
+        "goles": 39,
+        "equipo": "Wiesbaden",
+        "asistencias": 215,
+        "id": "391",
+        "nombre": "John Terry",
+        "rojas": 1
+    },
+    "689": {
+        "faltas": 3,
+        "amarillas": 2,
+        "goles": 25,
+        "equipo": "Wiesbaden",
+        "asistencias": 196,
+        "id": "689",
+        "nombre": "Viktor Fayzulin",
+        "rojas": 8
+    }
+}

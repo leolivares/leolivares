@@ -1,0 +1,132 @@
+{
+    "691": {
+        "faltas": 7,
+        "amarillas": 1,
+        "goles": 70,
+        "equipo": "Chievo",
+        "asistencias": 164,
+        "id": "691",
+        "nombre": "Oleg Shatov",
+        "rojas": 5
+    },
+    "768": {
+        "faltas": 5,
+        "amarillas": 7,
+        "goles": 39,
+        "equipo": "Chievo",
+        "asistencias": 151,
+        "id": "768",
+        "nombre": "Fabian Johnson",
+        "rojas": 6
+    },
+    "540": {
+        "faltas": 20,
+        "amarillas": 4,
+        "goles": 96,
+        "equipo": "Chievo",
+        "asistencias": 39,
+        "id": "540",
+        "nombre": "Kostas Mitroglou",
+        "rojas": 1
+    },
+    "888": {
+        "faltas": 26,
+        "amarillas": 2,
+        "goles": 128,
+        "equipo": "Chievo",
+        "asistencias": 166,
+        "id": "888",
+        "nombre": "Willian",
+        "rojas": 3
+    },
+    "774": {
+        "faltas": 1,
+        "amarillas": 6,
+        "goles": 52,
+        "equipo": "Chievo",
+        "asistencias": 217,
+        "id": "774",
+        "nombre": "DeAndre Yedlin",
+        "rojas": 10
+    },
+    "131": {
+        "faltas": 0,
+        "amarillas": 7,
+        "goles": 123,
+        "equipo": "Chievo",
+        "asistencias": 146,
+        "id": "131",
+        "nombre": "Onazi",
+        "rojas": 8
+    },
+    "321": {
+        "faltas": 42,
+        "amarillas": 6,
+        "goles": 83,
+        "equipo": "Chievo",
+        "asistencias": 44,
+        "id": "321",
+        "nombre": "Philippe Senderos",
+        "rojas": 2
+    },
+    "273": {
+        "faltas": 38,
+        "amarillas": 7,
+        "goles": 48,
+        "equipo": "Chievo",
+        "asistencias": 243,
+        "id": "273",
+        "nombre": "Miralem Pjani\u00c4\u2021",
+        "rojas": 0
+    },
+    "439": {
+        "faltas": 33,
+        "amarillas": 4,
+        "goles": 77,
+        "equipo": "Chievo",
+        "asistencias": 1,
+        "id": "439",
+        "nombre": "Alberto Moreno",
+        "rojas": 5
+    },
+    "876": {
+        "faltas": 34,
+        "amarillas": 6,
+        "goles": 32,
+        "equipo": "Chievo",
+        "asistencias": 136,
+        "id": "876",
+        "nombre": "Guilherme Siqueira",
+        "rojas": 10
+    },
+    "673": {
+        "faltas": 15,
+        "amarillas": 2,
+        "goles": 73,
+        "equipo": "Chievo",
+        "asistencias": 36,
+        "id": "673",
+        "nombre": "Yuri Lodygin",
+        "rojas": 0
+    },
+    "607": {
+        "faltas": 41,
+        "amarillas": 0,
+        "goles": 18,
+        "equipo": "Chievo",
+        "asistencias": 73,
+        "id": "607",
+        "nombre": "El Shaarawy",
+        "rojas": 0
+    },
+    "172": {
+        "faltas": 44,
+        "amarillas": 2,
+        "goles": 62,
+        "equipo": "Chievo",
+        "asistencias": 176,
+        "id": "172",
+        "nombre": "Hotaru Yamaguchi",
+        "rojas": 7
+    }
+}

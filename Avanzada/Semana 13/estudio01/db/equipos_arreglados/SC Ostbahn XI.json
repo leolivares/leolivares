@@ -1,0 +1,132 @@
+{
+    "1049": {
+        "faltas": 16,
+        "amarillas": 5,
+        "goles": 80,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 165,
+        "id": "1049",
+        "nombre": "Alexander Kokorin",
+        "rojas": 0
+    },
+    "537": {
+        "faltas": 18,
+        "amarillas": 4,
+        "goles": 125,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 226,
+        "id": "537",
+        "nombre": "Dimitris Salpingidis",
+        "rojas": 6
+    },
+    "714": {
+        "faltas": 28,
+        "amarillas": 2,
+        "goles": 62,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 44,
+        "id": "714",
+        "nombre": "Mohammad Reza Khalatbari",
+        "rojas": 2
+    },
+    "250": {
+        "faltas": 31,
+        "amarillas": 6,
+        "goles": 109,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 165,
+        "id": "250",
+        "nombre": "Marvin Ch\u00c3\u00a1vez",
+        "rojas": 3
+    },
+    "462": {
+        "faltas": 35,
+        "amarillas": 1,
+        "goles": 116,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 113,
+        "id": "462",
+        "nombre": "David Fuster",
+        "rojas": 1
+    },
+    "72": {
+        "faltas": 30,
+        "amarillas": 3,
+        "goles": 48,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 211,
+        "id": "72",
+        "nombre": "Hassan Yebda",
+        "rojas": 5
+    },
+    "98": {
+        "faltas": 17,
+        "amarillas": 0,
+        "goles": 54,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 87,
+        "id": "98",
+        "nombre": "Sulley Muntari",
+        "rojas": 7
+    },
+    "1037": {
+        "faltas": 46,
+        "amarillas": 1,
+        "goles": 53,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 15,
+        "id": "1037",
+        "nombre": "Jorge Vald\u00c3\u00advia",
+        "rojas": 7
+    },
+    "190": {
+        "faltas": 11,
+        "amarillas": 7,
+        "goles": 26,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 237,
+        "id": "190",
+        "nombre": "Lee Yong",
+        "rojas": 4
+    },
+    "11": {
+        "faltas": 26,
+        "amarillas": 1,
+        "goles": 15,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 95,
+        "id": "11",
+        "nombre": "Constant Djakpa",
+        "rojas": 0
+    },
+    "259": {
+        "faltas": 13,
+        "amarillas": 2,
+        "goles": 114,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 136,
+        "id": "259",
+        "nombre": "Rony Mart\u00c3\u00adnez",
+        "rojas": 8
+    },
+    "612": {
+        "faltas": 37,
+        "amarillas": 2,
+        "goles": 89,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 98,
+        "id": "612",
+        "nombre": "Lorenzo Insigne",
+        "rojas": 1
+    },
+    "959": {
+        "faltas": 10,
+        "amarillas": 0,
+        "goles": 12,
+        "equipo": "SC Ostbahn XI",
+        "asistencias": 65,
+        "id": "959",
+        "nombre": "Chara",
+        "rojas": 9
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "448": {
+        "faltas": 4,
+        "amarillas": 2,
+        "goles": 120,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 204,
+        "id": "448",
+        "nombre": "Xavi",
+        "rojas": 8
+    },
+    "836": {
+        "faltas": 20,
+        "amarillas": 6,
+        "goles": 53,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 255,
+        "id": "836",
+        "nombre": "Lisandro Ezequiel L\u00c3\u00b3pez",
+        "rojas": 5
+    },
+    "654": {
+        "faltas": 27,
+        "amarillas": 4,
+        "goles": 52,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 67,
+        "id": "654",
+        "nombre": "Ricardo Costa",
+        "rojas": 2
+    },
+    "51": {
+        "faltas": 33,
+        "amarillas": 6,
+        "goles": 57,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 88,
+        "id": "51",
+        "nombre": "Nicolas N'Koulou",
+        "rojas": 1
+    },
+    "832": {
+        "faltas": 8,
+        "amarillas": 0,
+        "goles": 31,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 165,
+        "id": "832",
+        "nombre": "Mart\u00c3\u00adn Demichelis",
+        "rojas": 7
+    },
+    "1050": {
+        "faltas": 8,
+        "amarillas": 0,
+        "goles": 92,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 127,
+        "id": "1050",
+        "nombre": "Klaas Jan Huntelaar",
+        "rojas": 6
+    },
+    "435": {
+        "faltas": 14,
+        "amarillas": 2,
+        "goles": 109,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 256,
+        "id": "435",
+        "nombre": "Arbeloa",
+        "rojas": 7
+    },
+    "547": {
+        "faltas": 28,
+        "amarillas": 3,
+        "goles": 106,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 142,
+        "id": "547",
+        "nombre": "Danijel Pranji\u00c4\u2021",
+        "rojas": 9
+    },
+    "810": {
+        "faltas": 7,
+        "amarillas": 1,
+        "goles": 123,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 133,
+        "id": "810",
+        "nombre": "Tommy Oar",
+        "rojas": 6
+    },
+    "890": {
+        "faltas": 21,
+        "amarillas": 6,
+        "goles": 4,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 224,
+        "id": "890",
+        "nombre": "Marcelinho",
+        "rojas": 3
+    },
+    "875": {
+        "faltas": 0,
+        "amarillas": 2,
+        "goles": 52,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 9,
+        "id": "875",
+        "nombre": "Henrique",
+        "rojas": 3
+    },
+    "855": {
+        "faltas": 29,
+        "amarillas": 1,
+        "goles": 26,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 46,
+        "id": "855",
+        "nombre": "Ag\u00c3\u00bcero",
+        "rojas": 5
+    },
+    "461": {
+        "faltas": 18,
+        "amarillas": 0,
+        "goles": 69,
+        "equipo": "M\u00c3\u00a1laga",
+        "asistencias": 211,
+        "id": "461",
+        "nombre": "Sa\u00c3\u00bal \u00c3\u2018\u00c3\u00adguez",
+        "rojas": 9
+    }
+}

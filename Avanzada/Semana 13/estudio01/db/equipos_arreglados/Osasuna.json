@@ -1,0 +1,132 @@
+{
+    "905": {
+        "faltas": 26,
+        "amarillas": 6,
+        "goles": 6,
+        "equipo": "Osasuna",
+        "asistencias": 115,
+        "id": "905",
+        "nombre": "Bravo",
+        "rojas": 6
+    },
+    "1018": {
+        "faltas": 45,
+        "amarillas": 3,
+        "goles": 43,
+        "equipo": "Osasuna",
+        "asistencias": 95,
+        "id": "1018",
+        "nombre": "Alejandro Silva",
+        "rojas": 1
+    },
+    "807": {
+        "faltas": 31,
+        "amarillas": 4,
+        "goles": 83,
+        "equipo": "Osasuna",
+        "asistencias": 128,
+        "id": "807",
+        "nombre": "Mile Jedinak",
+        "rojas": 1
+    },
+    "89": {
+        "faltas": 4,
+        "amarillas": 4,
+        "goles": 60,
+        "equipo": "Osasuna",
+        "asistencias": 209,
+        "id": "89",
+        "nombre": "Steven Adams",
+        "rojas": 9
+    },
+    "102": {
+        "faltas": 40,
+        "amarillas": 2,
+        "goles": 109,
+        "equipo": "Osasuna",
+        "asistencias": 264,
+        "id": "102",
+        "nombre": "Andr\u00c3\u00a9 Ayew",
+        "rojas": 0
+    },
+    "463": {
+        "faltas": 27,
+        "amarillas": 0,
+        "goles": 77,
+        "equipo": "Osasuna",
+        "asistencias": 146,
+        "id": "463",
+        "nombre": "Isco",
+        "rojas": 9
+    },
+    "566": {
+        "faltas": 2,
+        "amarillas": 6,
+        "goles": 103,
+        "equipo": "Osasuna",
+        "asistencias": 140,
+        "id": "566",
+        "nombre": "Eduardo",
+        "rojas": 0
+    },
+    "39": {
+        "faltas": 3,
+        "amarillas": 7,
+        "goles": 74,
+        "equipo": "Osasuna",
+        "asistencias": 33,
+        "id": "39",
+        "nombre": "St\u00c3\u00a9phane Mbia",
+        "rojas": 10
+    },
+    "610": {
+        "faltas": 0,
+        "amarillas": 4,
+        "goles": 6,
+        "equipo": "Osasuna",
+        "asistencias": 221,
+        "id": "610",
+        "nombre": "Giuseppe Rossi",
+        "rojas": 7
+    },
+    "779": {
+        "faltas": 2,
+        "amarillas": 2,
+        "goles": 119,
+        "equipo": "Osasuna",
+        "asistencias": 238,
+        "id": "779",
+        "nombre": "Alejandro Bedoya",
+        "rojas": 8
+    },
+    "641": {
+        "faltas": 27,
+        "amarillas": 5,
+        "goles": 16,
+        "equipo": "Osasuna",
+        "asistencias": 243,
+        "id": "641",
+        "nombre": "Tonny Vilhena",
+        "rojas": 1
+    },
+    "840": {
+        "faltas": 31,
+        "amarillas": 4,
+        "goles": 74,
+        "equipo": "Osasuna",
+        "asistencias": 137,
+        "id": "840",
+        "nombre": "Di Mar\u00c3\u00ada",
+        "rojas": 4
+    },
+    "738": {
+        "faltas": 47,
+        "amarillas": 3,
+        "goles": 7,
+        "equipo": "Osasuna",
+        "asistencias": 6,
+        "id": "738",
+        "nombre": "Rafael M\u00c3\u00a1rquez",
+        "rojas": 4
+    }
+}

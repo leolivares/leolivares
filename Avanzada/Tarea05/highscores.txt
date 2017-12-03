@@ -1,0 +1,10 @@
+Player,27015,4
+Leo Olivares,21465,3
+Player,13850,2
+Player,10995,2
+Ori y Niko de super team ,8765,2
+Player,6610,1
+Player,5850,2
+Ori and Niko the super team,5780,2
+Player,3865,1
+Leonardo Olivares,3780,1

@@ -1,0 +1,132 @@
+{
+    "399": {
+        "faltas": 44,
+        "amarillas": 2,
+        "goles": 99,
+        "equipo": "LASK Linz",
+        "asistencias": 250,
+        "id": "399",
+        "nombre": "Jack Dunn",
+        "rojas": 7
+    },
+    "881": {
+        "faltas": 14,
+        "amarillas": 2,
+        "goles": 13,
+        "equipo": "LASK Linz",
+        "asistencias": 25,
+        "id": "881",
+        "nombre": "Hernanes",
+        "rojas": 4
+    },
+    "176": {
+        "faltas": 36,
+        "amarillas": 1,
+        "goles": 45,
+        "equipo": "LASK Linz",
+        "asistencias": 25,
+        "id": "176",
+        "nombre": "Kagawa",
+        "rojas": 10
+    },
+    "524": {
+        "faltas": 15,
+        "amarillas": 5,
+        "goles": 67,
+        "equipo": "LASK Linz",
+        "asistencias": 32,
+        "id": "524",
+        "nombre": "Kostas Manolas",
+        "rojas": 6
+    },
+    "46": {
+        "faltas": 43,
+        "amarillas": 5,
+        "goles": 119,
+        "equipo": "LASK Linz",
+        "asistencias": 66,
+        "id": "46",
+        "nombre": "Mohammadou Idrissou",
+        "rojas": 10
+    },
+    "975": {
+        "faltas": 10,
+        "amarillas": 1,
+        "goles": 4,
+        "equipo": "LASK Linz",
+        "asistencias": 62,
+        "id": "975",
+        "nombre": "Banguera",
+        "rojas": 7
+    },
+    "455": {
+        "faltas": 46,
+        "amarillas": 6,
+        "goles": 43,
+        "equipo": "LASK Linz",
+        "asistencias": 116,
+        "id": "455",
+        "nombre": "Xabi Alonso",
+        "rojas": 8
+    },
+    "721": {
+        "faltas": 9,
+        "amarillas": 7,
+        "goles": 12,
+        "equipo": "LASK Linz",
+        "asistencias": 82,
+        "id": "721",
+        "nombre": "Karim Ansarifard",
+        "rojas": 3
+    },
+    "208": {
+        "faltas": 15,
+        "amarillas": 7,
+        "goles": 48,
+        "equipo": "LASK Linz",
+        "asistencias": 116,
+        "id": "208",
+        "nombre": "Patrick Pemberton",
+        "rojas": 1
+    },
+    "732": {
+        "faltas": 18,
+        "amarillas": 6,
+        "goles": 28,
+        "equipo": "LASK Linz",
+        "asistencias": 158,
+        "id": "732",
+        "nombre": "H. Moreno",
+        "rojas": 1
+    },
+    "739": {
+        "faltas": 18,
+        "amarillas": 5,
+        "goles": 86,
+        "equipo": "LASK Linz",
+        "asistencias": 7,
+        "id": "739",
+        "nombre": "Andr\u00c3\u00a9s Guardado",
+        "rojas": 3
+    },
+    "329": {
+        "faltas": 34,
+        "amarillas": 2,
+        "goles": 67,
+        "equipo": "LASK Linz",
+        "asistencias": 45,
+        "id": "329",
+        "nombre": "Saidy Janko",
+        "rojas": 8
+    },
+    "187": {
+        "faltas": 45,
+        "amarillas": 4,
+        "goles": 25,
+        "equipo": "LASK Linz",
+        "asistencias": 94,
+        "id": "187",
+        "nombre": "Kwak Tae-Hwi",
+        "rojas": 0
+    }
+}

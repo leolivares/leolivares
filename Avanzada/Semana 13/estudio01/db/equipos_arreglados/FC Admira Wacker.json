@@ -1,0 +1,132 @@
+{
+    "407": {
+        "faltas": 1,
+        "amarillas": 2,
+        "goles": 92,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 71,
+        "id": "407",
+        "nombre": "Jack Wilshere",
+        "rojas": 9
+    },
+    "62": {
+        "faltas": 8,
+        "amarillas": 6,
+        "goles": 109,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 273,
+        "id": "62",
+        "nombre": "Rafik Halliche",
+        "rojas": 2
+    },
+    "141": {
+        "faltas": 22,
+        "amarillas": 0,
+        "goles": 117,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 71,
+        "id": "141",
+        "nombre": "Musa",
+        "rojas": 5
+    },
+    "305": {
+        "faltas": 14,
+        "amarillas": 4,
+        "goles": 119,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 53,
+        "id": "305",
+        "nombre": "Marouane Fellaini",
+        "rojas": 4
+    },
+    "411": {
+        "faltas": 33,
+        "amarillas": 1,
+        "goles": 96,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 37,
+        "id": "411",
+        "nombre": "Lewis Baker",
+        "rojas": 0
+    },
+    "239": {
+        "faltas": 29,
+        "amarillas": 2,
+        "goles": 13,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 48,
+        "id": "239",
+        "nombre": "Luis L\u00c3\u00b3pez",
+        "rojas": 1
+    },
+    "133": {
+        "faltas": 25,
+        "amarillas": 6,
+        "goles": 70,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 77,
+        "id": "133",
+        "nombre": "Mba",
+        "rojas": 7
+    },
+    "842": {
+        "faltas": 25,
+        "amarillas": 7,
+        "goles": 102,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 34,
+        "id": "842",
+        "nombre": "Gago",
+        "rojas": 8
+    },
+    "338": {
+        "faltas": 15,
+        "amarillas": 0,
+        "goles": 101,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 85,
+        "id": "338",
+        "nombre": "Pajtim Kasami",
+        "rojas": 4
+    },
+    "551": {
+        "faltas": 46,
+        "amarillas": 5,
+        "goles": 115,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 274,
+        "id": "551",
+        "nombre": "Gordon Schildenfeld",
+        "rojas": 6
+    },
+    "257": {
+        "faltas": 40,
+        "amarillas": 1,
+        "goles": 53,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 191,
+        "id": "257",
+        "nombre": "Jerry Bengtson",
+        "rojas": 8
+    },
+    "878": {
+        "faltas": 50,
+        "amarillas": 4,
+        "goles": 1,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 218,
+        "id": "878",
+        "nombre": "Ricardinho",
+        "rojas": 5
+    },
+    "137": {
+        "faltas": 9,
+        "amarillas": 3,
+        "goles": 48,
+        "equipo": "FC Admira Wacker",
+        "asistencias": 216,
+        "id": "137",
+        "nombre": "Joel Obi",
+        "rojas": 3
+    }
+}

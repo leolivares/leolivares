@@ -1,0 +1,132 @@
+{
+    "355": {
+        "faltas": 31,
+        "amarillas": 2,
+        "goles": 116,
+        "equipo": "SR Donaufeld",
+        "asistencias": 146,
+        "id": "355",
+        "nombre": "Benedikt H\u00c3\u00b6wedes",
+        "rojas": 3
+    },
+    "1003": {
+        "faltas": 39,
+        "amarillas": 1,
+        "goles": 125,
+        "equipo": "SR Donaufeld",
+        "asistencias": 131,
+        "id": "1003",
+        "nombre": "J. Ayov\u00c3\u00ad",
+        "rojas": 10
+    },
+    "619": {
+        "faltas": 40,
+        "amarillas": 2,
+        "goles": 113,
+        "equipo": "SR Donaufeld",
+        "asistencias": 271,
+        "id": "619",
+        "nombre": "Ron Vlaar",
+        "rojas": 8
+    },
+    "302": {
+        "faltas": 7,
+        "amarillas": 4,
+        "goles": 3,
+        "equipo": "SR Donaufeld",
+        "asistencias": 197,
+        "id": "302",
+        "nombre": "Marnick Vermijl",
+        "rojas": 3
+    },
+    "601": {
+        "faltas": 3,
+        "amarillas": 4,
+        "goles": 54,
+        "equipo": "SR Donaufeld",
+        "asistencias": 214,
+        "id": "601",
+        "nombre": "Claudio Marchisio",
+        "rojas": 0
+    },
+    "262": {
+        "faltas": 7,
+        "amarillas": 7,
+        "goles": 87,
+        "equipo": "SR Donaufeld",
+        "asistencias": 141,
+        "id": "262",
+        "nombre": "Jasmin Fejzi\u00c4\u2021",
+        "rojas": 0
+    },
+    "685": {
+        "faltas": 25,
+        "amarillas": 4,
+        "goles": 41,
+        "equipo": "SR Donaufeld",
+        "asistencias": 30,
+        "id": "685",
+        "nombre": "Yuri Zhirkov",
+        "rojas": 4
+    },
+    "686": {
+        "faltas": 14,
+        "amarillas": 2,
+        "goles": 54,
+        "equipo": "SR Donaufeld",
+        "asistencias": 80,
+        "id": "686",
+        "nombre": "Roman Shirokov",
+        "rojas": 10
+    },
+    "873": {
+        "faltas": 40,
+        "amarillas": 1,
+        "goles": 48,
+        "equipo": "SR Donaufeld",
+        "asistencias": 95,
+        "id": "873",
+        "nombre": "Maicon",
+        "rojas": 6
+    },
+    "232": {
+        "faltas": 14,
+        "amarillas": 7,
+        "goles": 37,
+        "equipo": "SR Donaufeld",
+        "asistencias": 257,
+        "id": "232",
+        "nombre": "Bryan Ruiz",
+        "rojas": 4
+    },
+    "1010": {
+        "faltas": 23,
+        "amarillas": 1,
+        "goles": 57,
+        "equipo": "SR Donaufeld",
+        "asistencias": 20,
+        "id": "1010",
+        "nombre": "God\u00c3\u00adn",
+        "rojas": 8
+    },
+    "13": {
+        "faltas": 35,
+        "amarillas": 2,
+        "goles": 78,
+        "equipo": "SR Donaufeld",
+        "asistencias": 3,
+        "id": "13",
+        "nombre": "Cheick Tiot\u00c3\u00a9",
+        "rojas": 5
+    },
+    "9": {
+        "faltas": 35,
+        "amarillas": 5,
+        "goles": 66,
+        "equipo": "SR Donaufeld",
+        "asistencias": 192,
+        "id": "9",
+        "nombre": "Benjamin Angoua",
+        "rojas": 9
+    }
+}

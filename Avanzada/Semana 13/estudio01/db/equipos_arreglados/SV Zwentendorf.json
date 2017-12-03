@@ -1,0 +1,132 @@
+{
+    "403": {
+        "faltas": 1,
+        "amarillas": 3,
+        "goles": 45,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 109,
+        "id": "403",
+        "nombre": "Steven Gerrard",
+        "rojas": 5
+    },
+    "757": {
+        "faltas": 24,
+        "amarillas": 5,
+        "goles": 109,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 97,
+        "id": "757",
+        "nombre": "J. Hern\u00c3\u00a1ndez",
+        "rojas": 8
+    },
+    "475": {
+        "faltas": 24,
+        "amarillas": 3,
+        "goles": 108,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 2,
+        "id": "475",
+        "nombre": "\u00c3\u0081lvaro Negredo",
+        "rojas": 2
+    },
+    "919": {
+        "faltas": 27,
+        "amarillas": 6,
+        "goles": 48,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 207,
+        "id": "919",
+        "nombre": "Carmona",
+        "rojas": 3
+    },
+    "200": {
+        "faltas": 20,
+        "amarillas": 2,
+        "goles": 104,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 180,
+        "id": "200",
+        "nombre": "Park Jong-Woo",
+        "rojas": 7
+    },
+    "35": {
+        "faltas": 39,
+        "amarillas": 0,
+        "goles": 90,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 183,
+        "id": "35",
+        "nombre": "Ga\u00c3\u00abtan Bong",
+        "rojas": 4
+    },
+    "71": {
+        "faltas": 27,
+        "amarillas": 6,
+        "goles": 13,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 221,
+        "id": "71",
+        "nombre": "Adl\u00c3\u00a8ne Guedioura",
+        "rojas": 2
+    },
+    "526": {
+        "faltas": 27,
+        "amarillas": 7,
+        "goles": 0,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 86,
+        "id": "526",
+        "nombre": "Dimitris Siovas",
+        "rojas": 5
+    },
+    "854": {
+        "faltas": 17,
+        "amarillas": 6,
+        "goles": 19,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 0,
+        "id": "854",
+        "nombre": "Messi",
+        "rojas": 10
+    },
+    "330": {
+        "faltas": 32,
+        "amarillas": 6,
+        "goles": 57,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 178,
+        "id": "330",
+        "nombre": "Tranquillo Barnetta",
+        "rojas": 9
+    },
+    "279": {
+        "faltas": 49,
+        "amarillas": 2,
+        "goles": 28,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 101,
+        "id": "279",
+        "nombre": "Miroslav Stevanovi\u00c4\u2021",
+        "rojas": 1
+    },
+    "750": {
+        "faltas": 37,
+        "amarillas": 2,
+        "goles": 9,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 168,
+        "id": "750",
+        "nombre": "Juan Carlos Medina",
+        "rojas": 2
+    },
+    "37": {
+        "faltas": 16,
+        "amarillas": 6,
+        "goles": 44,
+        "equipo": "SV Zwentendorf",
+        "asistencias": 199,
+        "id": "37",
+        "nombre": "Jean-Armel Kana-Biyik",
+        "rojas": 10
+    }
+}

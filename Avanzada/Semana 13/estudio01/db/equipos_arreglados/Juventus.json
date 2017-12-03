@@ -1,0 +1,132 @@
+{
+    "132": {
+        "faltas": 4,
+        "amarillas": 3,
+        "goles": 119,
+        "equipo": "Juventus",
+        "asistencias": 0,
+        "id": "132",
+        "nombre": "Eze",
+        "rojas": 8
+    },
+    "787": {
+        "faltas": 44,
+        "amarillas": 2,
+        "goles": 14,
+        "equipo": "Juventus",
+        "asistencias": 14,
+        "id": "787",
+        "nombre": "Jozy Altidore",
+        "rojas": 1
+    },
+    "997": {
+        "faltas": 5,
+        "amarillas": 4,
+        "goles": 4,
+        "equipo": "Juventus",
+        "asistencias": 141,
+        "id": "997",
+        "nombre": "Carlos Gruezo",
+        "rojas": 0
+    },
+    "953": {
+        "faltas": 42,
+        "amarillas": 2,
+        "goles": 39,
+        "equipo": "Juventus",
+        "asistencias": 274,
+        "id": "953",
+        "nombre": "Santiago Arias",
+        "rojas": 1
+    },
+    "97": {
+        "faltas": 24,
+        "amarillas": 5,
+        "goles": 2,
+        "equipo": "Juventus",
+        "asistencias": 133,
+        "id": "97",
+        "nombre": "Jeff Schlupp",
+        "rojas": 4
+    },
+    "434": {
+        "faltas": 36,
+        "amarillas": 2,
+        "goles": 20,
+        "equipo": "Juventus",
+        "asistencias": 36,
+        "id": "434",
+        "nombre": "Ramos",
+        "rojas": 6
+    },
+    "384": {
+        "faltas": 41,
+        "amarillas": 3,
+        "goles": 124,
+        "equipo": "Juventus",
+        "asistencias": 136,
+        "id": "384",
+        "nombre": "Glen Johnson",
+        "rojas": 0
+    },
+    "107": {
+        "faltas": 39,
+        "amarillas": 6,
+        "goles": 54,
+        "equipo": "Juventus",
+        "asistencias": 171,
+        "id": "107",
+        "nombre": "Afriyie Acquah",
+        "rojas": 1
+    },
+    "529": {
+        "faltas": 15,
+        "amarillas": 0,
+        "goles": 80,
+        "equipo": "Juventus",
+        "asistencias": 239,
+        "id": "529",
+        "nombre": "Kostas Katsouranis",
+        "rojas": 8
+    },
+    "564": {
+        "faltas": 20,
+        "amarillas": 7,
+        "goles": 96,
+        "equipo": "Juventus",
+        "asistencias": 55,
+        "id": "564",
+        "nombre": "Mario Pa\u00c5\u00a1ali\u00c4\u2021",
+        "rojas": 6
+    },
+    "105": {
+        "faltas": 44,
+        "amarillas": 5,
+        "goles": 119,
+        "equipo": "Juventus",
+        "asistencias": 40,
+        "id": "105",
+        "nombre": "Albert Adomah",
+        "rojas": 0
+    },
+    "580": {
+        "faltas": 43,
+        "amarillas": 6,
+        "goles": 4,
+        "equipo": "Juventus",
+        "asistencias": 140,
+        "id": "580",
+        "nombre": "Barzagli",
+        "rojas": 4
+    },
+    "478": {
+        "faltas": 10,
+        "amarillas": 4,
+        "goles": 27,
+        "equipo": "Juventus",
+        "asistencias": 81,
+        "id": "478",
+        "nombre": "Jes\u00c3\u00a9",
+        "rojas": 0
+    }
+}

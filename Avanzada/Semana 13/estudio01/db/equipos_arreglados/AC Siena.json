@@ -1,0 +1,132 @@
+{
+    "737": {
+        "faltas": 40,
+        "amarillas": 2,
+        "goles": 10,
+        "equipo": "AC Siena",
+        "asistencias": 78,
+        "id": "737",
+        "nombre": "D. Reyes",
+        "rojas": 10
+    },
+    "179": {
+        "faltas": 10,
+        "amarillas": 2,
+        "goles": 8,
+        "equipo": "AC Siena",
+        "asistencias": 61,
+        "id": "179",
+        "nombre": "Inui",
+        "rojas": 5
+    },
+    "333": {
+        "faltas": 36,
+        "amarillas": 1,
+        "goles": 4,
+        "equipo": "AC Siena",
+        "asistencias": 57,
+        "id": "333",
+        "nombre": "Gelson Fernandes",
+        "rojas": 3
+    },
+    "92": {
+        "faltas": 45,
+        "amarillas": 5,
+        "goles": 5,
+        "equipo": "AC Siena",
+        "asistencias": 229,
+        "id": "92",
+        "nombre": "John Boye",
+        "rojas": 10
+    },
+    "458": {
+        "faltas": 12,
+        "amarillas": 3,
+        "goles": 114,
+        "equipo": "AC Siena",
+        "asistencias": 103,
+        "id": "458",
+        "nombre": "Mario Su\u00c3\u00a1rez",
+        "rojas": 4
+    },
+    "234": {
+        "faltas": 2,
+        "amarillas": 4,
+        "goles": 89,
+        "equipo": "AC Siena",
+        "asistencias": 75,
+        "id": "234",
+        "nombre": "Joel Campbell",
+        "rojas": 7
+    },
+    "712": {
+        "faltas": 17,
+        "amarillas": 7,
+        "goles": 8,
+        "equipo": "AC Siena",
+        "asistencias": 43,
+        "id": "712",
+        "nombre": "Javad Nekounam",
+        "rojas": 3
+    },
+    "85": {
+        "faltas": 3,
+        "amarillas": 4,
+        "goles": 53,
+        "equipo": "AC Siena",
+        "asistencias": 125,
+        "id": "85",
+        "nombre": "Islam Slimani",
+        "rojas": 1
+    },
+    "241": {
+        "faltas": 39,
+        "amarillas": 7,
+        "goles": 20,
+        "equipo": "AC Siena",
+        "asistencias": 139,
+        "id": "241",
+        "nombre": "V\u00c3\u00adctor Bern\u00c3\u00a1rdez",
+        "rojas": 10
+    },
+    "66": {
+        "faltas": 5,
+        "amarillas": 2,
+        "goles": 121,
+        "equipo": "AC Siena",
+        "asistencias": 245,
+        "id": "66",
+        "nombre": "Liassine Cadamuro-Benta\u00c3\u00afba",
+        "rojas": 6
+    },
+    "648": {
+        "faltas": 29,
+        "amarillas": 5,
+        "goles": 27,
+        "equipo": "AC Siena",
+        "asistencias": 179,
+        "id": "648",
+        "nombre": "Rui Patr\u00c3\u00adcio",
+        "rojas": 4
+    },
+    "414": {
+        "faltas": 4,
+        "amarillas": 7,
+        "goles": 8,
+        "equipo": "AC Siena",
+        "asistencias": 82,
+        "id": "414",
+        "nombre": "Jesse Lingard",
+        "rojas": 5
+    },
+    "224": {
+        "faltas": 16,
+        "amarillas": 2,
+        "goles": 39,
+        "equipo": "AC Siena",
+        "asistencias": 3,
+        "id": "224",
+        "nombre": "Carlos Hern\u00c3\u00a1ndez",
+        "rojas": 3
+    }
+}

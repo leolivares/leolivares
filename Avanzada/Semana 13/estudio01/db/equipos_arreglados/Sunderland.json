@@ -1,0 +1,132 @@
+{
+    "382": {
+        "faltas": 48,
+        "amarillas": 2,
+        "goles": 79,
+        "equipo": "Sunderland",
+        "asistencias": 219,
+        "id": "382",
+        "nombre": "Sam Johnstone",
+        "rojas": 2
+    },
+    "1033": {
+        "faltas": 36,
+        "amarillas": 6,
+        "goles": 14,
+        "equipo": "Sunderland",
+        "asistencias": 0,
+        "id": "1033",
+        "nombre": "Christian Stuani",
+        "rojas": 5
+    },
+    "490": {
+        "faltas": 38,
+        "amarillas": 5,
+        "goles": 32,
+        "equipo": "Sunderland",
+        "asistencias": 268,
+        "id": "490",
+        "nombre": "\u00c3\u2030ric Abidal",
+        "rojas": 6
+    },
+    "44": {
+        "faltas": 49,
+        "amarillas": 4,
+        "goles": 74,
+        "equipo": "Sunderland",
+        "asistencias": 220,
+        "id": "44",
+        "nombre": "Samuel Eto'o",
+        "rojas": 5
+    },
+    "643": {
+        "faltas": 42,
+        "amarillas": 1,
+        "goles": 108,
+        "equipo": "Sunderland",
+        "asistencias": 64,
+        "id": "643",
+        "nombre": "Dirk Kuyt",
+        "rojas": 6
+    },
+    "746": {
+        "faltas": 42,
+        "amarillas": 5,
+        "goles": 44,
+        "equipo": "Sunderland",
+        "asistencias": 263,
+        "id": "746",
+        "nombre": "A. Guardado",
+        "rojas": 10
+    },
+    "823": {
+        "faltas": 26,
+        "amarillas": 2,
+        "goles": 123,
+        "equipo": "Sunderland",
+        "asistencias": 94,
+        "id": "823",
+        "nombre": "Romero",
+        "rojas": 10
+    },
+    "297": {
+        "faltas": 32,
+        "amarillas": 7,
+        "goles": 119,
+        "equipo": "Sunderland",
+        "asistencias": 12,
+        "id": "297",
+        "nombre": "Thomas Vermaelen",
+        "rojas": 0
+    },
+    "433": {
+        "faltas": 29,
+        "amarillas": 3,
+        "goles": 0,
+        "equipo": "Sunderland",
+        "asistencias": 106,
+        "id": "433",
+        "nombre": "Azpilicueta",
+        "rojas": 7
+    },
+    "642": {
+        "faltas": 32,
+        "amarillas": 2,
+        "goles": 75,
+        "equipo": "Sunderland",
+        "asistencias": 2,
+        "id": "642",
+        "nombre": "Ibrahim Afellay",
+        "rojas": 2
+    },
+    "101": {
+        "faltas": 46,
+        "amarillas": 7,
+        "goles": 19,
+        "equipo": "Sunderland",
+        "asistencias": 124,
+        "id": "101",
+        "nombre": "Emmanuel Agyemang-Badu",
+        "rojas": 6
+    },
+    "870": {
+        "faltas": 48,
+        "amarillas": 2,
+        "goles": 124,
+        "equipo": "Sunderland",
+        "asistencias": 62,
+        "id": "870",
+        "nombre": "Dante",
+        "rojas": 7
+    },
+    "174": {
+        "faltas": 50,
+        "amarillas": 7,
+        "goles": 97,
+        "equipo": "Sunderland",
+        "asistencias": 9,
+        "id": "174",
+        "nombre": "Kiyotake",
+        "rojas": 5
+    }
+}

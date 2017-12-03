@@ -1,0 +1,132 @@
+{
+    "803": {
+        "faltas": 3,
+        "amarillas": 2,
+        "goles": 118,
+        "equipo": "Granada",
+        "asistencias": 248,
+        "id": "803",
+        "nombre": "Alex Wilkinson",
+        "rojas": 7
+    },
+    "184": {
+        "faltas": 27,
+        "amarillas": 7,
+        "goles": 56,
+        "equipo": "Granada",
+        "asistencias": 117,
+        "id": "184",
+        "nombre": "Jung Sung-Ryong",
+        "rojas": 9
+    },
+    "565": {
+        "faltas": 14,
+        "amarillas": 0,
+        "goles": 26,
+        "equipo": "Granada",
+        "asistencias": 126,
+        "id": "565",
+        "nombre": "Ivica Oli\u00c4\u2021",
+        "rojas": 2
+    },
+    "805": {
+        "faltas": 0,
+        "amarillas": 6,
+        "goles": 83,
+        "equipo": "Granada",
+        "asistencias": 177,
+        "id": "805",
+        "nombre": "Mark Bresciano",
+        "rojas": 3
+    },
+    "623": {
+        "faltas": 35,
+        "amarillas": 5,
+        "goles": 75,
+        "equipo": "Granada",
+        "asistencias": 242,
+        "id": "623",
+        "nombre": "Patrick van Aanholt",
+        "rojas": 5
+    },
+    "896": {
+        "faltas": 33,
+        "amarillas": 6,
+        "goles": 65,
+        "equipo": "Granada",
+        "asistencias": 175,
+        "id": "896",
+        "nombre": "J\u00c3\u00b4",
+        "rojas": 6
+    },
+    "447": {
+        "faltas": 12,
+        "amarillas": 1,
+        "goles": 55,
+        "equipo": "Granada",
+        "asistencias": 17,
+        "id": "447",
+        "nombre": "A. Iniesta",
+        "rojas": 3
+    },
+    "814": {
+        "faltas": 47,
+        "amarillas": 4,
+        "goles": 78,
+        "equipo": "Granada",
+        "asistencias": 175,
+        "id": "814",
+        "nombre": "Adam Sarota",
+        "rojas": 0
+    },
+    "918": {
+        "faltas": 10,
+        "amarillas": 0,
+        "goles": 107,
+        "equipo": "Granada",
+        "asistencias": 93,
+        "id": "918",
+        "nombre": "Isla",
+        "rojas": 8
+    },
+    "999": {
+        "faltas": 5,
+        "amarillas": 4,
+        "goles": 36,
+        "equipo": "Granada",
+        "asistencias": 150,
+        "id": "999",
+        "nombre": "Cristian Penilla",
+        "rojas": 8
+    },
+    "735": {
+        "faltas": 5,
+        "amarillas": 2,
+        "goles": 93,
+        "equipo": "Granada",
+        "asistencias": 156,
+        "id": "735",
+        "nombre": "G. Flores",
+        "rojas": 7
+    },
+    "169": {
+        "faltas": 42,
+        "amarillas": 0,
+        "goles": 69,
+        "equipo": "Granada",
+        "asistencias": 255,
+        "id": "169",
+        "nombre": "Nakamura",
+        "rojas": 9
+    },
+    "151": {
+        "faltas": 18,
+        "amarillas": 3,
+        "goles": 4,
+        "equipo": "Granada",
+        "asistencias": 87,
+        "id": "151",
+        "nombre": "Uche Nwofor",
+        "rojas": 2
+    }
+}

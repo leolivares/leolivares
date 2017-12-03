@@ -1,0 +1,132 @@
+{
+    "488": {
+        "faltas": 14,
+        "amarillas": 5,
+        "goles": 84,
+        "equipo": "Hamburger SV",
+        "asistencias": 105,
+        "id": "488",
+        "nombre": "Eliaquim Mangala",
+        "rojas": 5
+    },
+    "541": {
+        "faltas": 32,
+        "amarillas": 4,
+        "goles": 88,
+        "equipo": "Hamburger SV",
+        "asistencias": 70,
+        "id": "541",
+        "nombre": "Dimitris Diamantakos",
+        "rojas": 8
+    },
+    "1004": {
+        "faltas": 42,
+        "amarillas": 5,
+        "goles": 12,
+        "equipo": "Hamburger SV",
+        "asistencias": 18,
+        "id": "1004",
+        "nombre": "E. Valencia",
+        "rojas": 9
+    },
+    "48": {
+        "faltas": 19,
+        "amarillas": 7,
+        "goles": 101,
+        "equipo": "Hamburger SV",
+        "asistencias": 112,
+        "id": "48",
+        "nombre": "Benjamin Moukandjo",
+        "rojas": 3
+    },
+    "377": {
+        "faltas": 23,
+        "amarillas": 0,
+        "goles": 11,
+        "equipo": "Hamburger SV",
+        "asistencias": 101,
+        "id": "377",
+        "nombre": "Samed Ye\u00c5\u0178il",
+        "rojas": 10
+    },
+    "864": {
+        "faltas": 11,
+        "amarillas": 5,
+        "goles": 37,
+        "equipo": "Hamburger SV",
+        "asistencias": 76,
+        "id": "864",
+        "nombre": "Victor",
+        "rojas": 8
+    },
+    "17": {
+        "faltas": 20,
+        "amarillas": 0,
+        "goles": 48,
+        "equipo": "Hamburger SV",
+        "asistencias": 57,
+        "id": "17",
+        "nombre": "Salomon Kalou",
+        "rojas": 2
+    },
+    "615": {
+        "faltas": 35,
+        "amarillas": 6,
+        "goles": 6,
+        "equipo": "Hamburger SV",
+        "asistencias": 44,
+        "id": "615",
+        "nombre": "Michel Vorm",
+        "rojas": 6
+    },
+    "135": {
+        "faltas": 11,
+        "amarillas": 7,
+        "goles": 115,
+        "equipo": "Hamburger SV",
+        "asistencias": 241,
+        "id": "135",
+        "nombre": "Victor Moses",
+        "rojas": 9
+    },
+    "145": {
+        "faltas": 10,
+        "amarillas": 3,
+        "goles": 123,
+        "equipo": "Hamburger SV",
+        "asistencias": 119,
+        "id": "145",
+        "nombre": "Ujah",
+        "rojas": 5
+    },
+    "720": {
+        "faltas": 36,
+        "amarillas": 3,
+        "goles": 107,
+        "equipo": "Hamburger SV",
+        "asistencias": 37,
+        "id": "720",
+        "nombre": "Bakhtiar Rahmani",
+        "rojas": 9
+    },
+    "559": {
+        "faltas": 6,
+        "amarillas": 0,
+        "goles": 87,
+        "equipo": "Hamburger SV",
+        "asistencias": 157,
+        "id": "559",
+        "nombre": "Milan Badelj",
+        "rojas": 1
+    },
+    "152": {
+        "faltas": 27,
+        "amarillas": 3,
+        "goles": 87,
+        "equipo": "Hamburger SV",
+        "asistencias": 118,
+        "id": "152",
+        "nombre": "Michel Babatunde",
+        "rojas": 3
+    }
+}

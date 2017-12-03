@@ -1,0 +1,132 @@
+{
+    "770": {
+        "faltas": 13,
+        "amarillas": 7,
+        "goles": 76,
+        "equipo": "Karlsruhe",
+        "asistencias": 33,
+        "id": "770",
+        "nombre": "Brad Evans",
+        "rojas": 10
+    },
+    "645": {
+        "faltas": 47,
+        "amarillas": 6,
+        "goles": 16,
+        "equipo": "Karlsruhe",
+        "asistencias": 29,
+        "id": "645",
+        "nombre": "Klaas-Jan Huntelaar",
+        "rojas": 2
+    },
+    "134": {
+        "faltas": 9,
+        "amarillas": 4,
+        "goles": 77,
+        "equipo": "Karlsruhe",
+        "asistencias": 131,
+        "id": "134",
+        "nombre": "Ejike Uzoenyi",
+        "rojas": 2
+    },
+    "866": {
+        "faltas": 9,
+        "amarillas": 1,
+        "goles": 98,
+        "equipo": "Karlsruhe",
+        "asistencias": 92,
+        "id": "866",
+        "nombre": "Dani Alves",
+        "rojas": 3
+    },
+    "136": {
+        "faltas": 36,
+        "amarillas": 5,
+        "goles": 127,
+        "equipo": "Karlsruhe",
+        "asistencias": 43,
+        "id": "136",
+        "nombre": "Nnamdi Oduamadi",
+        "rojas": 9
+    },
+    "910": {
+        "faltas": 26,
+        "amarillas": 7,
+        "goles": 106,
+        "equipo": "Karlsruhe",
+        "asistencias": 244,
+        "id": "910",
+        "nombre": "Mena",
+        "rojas": 4
+    },
+    "717": {
+        "faltas": 48,
+        "amarillas": 0,
+        "goles": 101,
+        "equipo": "Karlsruhe",
+        "asistencias": 238,
+        "id": "717",
+        "nombre": "Ashkan Dejagah",
+        "rojas": 2
+    },
+    "106": {
+        "faltas": 34,
+        "amarillas": 3,
+        "goles": 97,
+        "equipo": "Karlsruhe",
+        "asistencias": 247,
+        "id": "106",
+        "nombre": "Kevin-Prince Boateng",
+        "rojas": 5
+    },
+    "30": {
+        "faltas": 31,
+        "amarillas": 4,
+        "goles": 63,
+        "equipo": "Karlsruhe",
+        "asistencias": 136,
+        "id": "30",
+        "nombre": "Charles Itandje",
+        "rojas": 7
+    },
+    "608": {
+        "faltas": 39,
+        "amarillas": 4,
+        "goles": 62,
+        "equipo": "Karlsruhe",
+        "asistencias": 228,
+        "id": "608",
+        "nombre": "Cerci",
+        "rojas": 2
+    },
+    "319": {
+        "faltas": 8,
+        "amarillas": 2,
+        "goles": 124,
+        "equipo": "Karlsruhe",
+        "asistencias": 10,
+        "id": "319",
+        "nombre": "Germano Vailati",
+        "rojas": 2
+    },
+    "99": {
+        "faltas": 29,
+        "amarillas": 1,
+        "goles": 45,
+        "equipo": "Karlsruhe",
+        "asistencias": 267,
+        "id": "99",
+        "nombre": "Kwadwo Asamoah",
+        "rojas": 4
+    },
+    "981": {
+        "faltas": 35,
+        "amarillas": 4,
+        "goles": 50,
+        "equipo": "Karlsruhe",
+        "asistencias": 163,
+        "id": "981",
+        "nombre": "Achilier",
+        "rojas": 2
+    }
+}

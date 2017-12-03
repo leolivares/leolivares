@@ -1,0 +1,132 @@
+{
+    "77": {
+        "faltas": 41,
+        "amarillas": 7,
+        "goles": 111,
+        "equipo": "Hertha BSC",
+        "asistencias": 230,
+        "id": "77",
+        "nombre": "Saphir Ta\u00c3\u00afder",
+        "rojas": 1
+    },
+    "970": {
+        "faltas": 46,
+        "amarillas": 1,
+        "goles": 122,
+        "equipo": "Hertha BSC",
+        "asistencias": 244,
+        "id": "970",
+        "nombre": "Moreno",
+        "rojas": 8
+    },
+    "951": {
+        "faltas": 45,
+        "amarillas": 5,
+        "goles": 25,
+        "equipo": "Hertha BSC",
+        "asistencias": 19,
+        "id": "951",
+        "nombre": "Valencia",
+        "rojas": 7
+    },
+    "121": {
+        "faltas": 4,
+        "amarillas": 6,
+        "goles": 125,
+        "equipo": "Hertha BSC",
+        "asistencias": 111,
+        "id": "121",
+        "nombre": "Kwambe",
+        "rojas": 3
+    },
+    "598": {
+        "faltas": 2,
+        "amarillas": 1,
+        "goles": 7,
+        "equipo": "Hertha BSC",
+        "asistencias": 112,
+        "id": "598",
+        "nombre": "Marco Parolo",
+        "rojas": 2
+    },
+    "650": {
+        "faltas": 24,
+        "amarillas": 5,
+        "goles": 104,
+        "equipo": "Hertha BSC",
+        "asistencias": 53,
+        "id": "650",
+        "nombre": "Bruno Alves",
+        "rojas": 8
+    },
+    "343": {
+        "faltas": 45,
+        "amarillas": 2,
+        "goles": 15,
+        "equipo": "Hertha BSC",
+        "asistencias": 178,
+        "id": "343",
+        "nombre": "Mario Gavranovi\u00c4\u2021",
+        "rojas": 7
+    },
+    "1017": {
+        "faltas": 39,
+        "amarillas": 6,
+        "goles": 115,
+        "equipo": "Hertha BSC",
+        "asistencias": 230,
+        "id": "1017",
+        "nombre": "Jos\u00c3\u00a9 Mar\u00c3\u00ada Gim\u00c3\u00a9nez",
+        "rojas": 6
+    },
+    "698": {
+        "faltas": 21,
+        "amarillas": 5,
+        "goles": 1,
+        "equipo": "Hertha BSC",
+        "asistencias": 113,
+        "id": "698",
+        "nombre": "Daniel Davari",
+        "rojas": 2
+    },
+    "740": {
+        "faltas": 1,
+        "amarillas": 3,
+        "goles": 122,
+        "equipo": "Hertha BSC",
+        "asistencias": 208,
+        "id": "740",
+        "nombre": "Paul Aguilar",
+        "rojas": 6
+    },
+    "829": {
+        "faltas": 46,
+        "amarillas": 5,
+        "goles": 49,
+        "equipo": "Hertha BSC",
+        "asistencias": 89,
+        "id": "829",
+        "nombre": "Fern\u00c3\u00a1ndez",
+        "rojas": 8
+    },
+    "651": {
+        "faltas": 25,
+        "amarillas": 4,
+        "goles": 17,
+        "equipo": "Hertha BSC",
+        "asistencias": 274,
+        "id": "651",
+        "nombre": "Pepe",
+        "rojas": 6
+    },
+    "584": {
+        "faltas": 8,
+        "amarillas": 6,
+        "goles": 120,
+        "equipo": "Hertha BSC",
+        "asistencias": 43,
+        "id": "584",
+        "nombre": "Manuel Pasqual",
+        "rojas": 2
+    }
+}

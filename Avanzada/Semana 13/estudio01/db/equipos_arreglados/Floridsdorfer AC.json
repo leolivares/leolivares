@@ -1,0 +1,132 @@
+{
+    "600": {
+        "faltas": 17,
+        "amarillas": 5,
+        "goles": 25,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 178,
+        "id": "600",
+        "nombre": "Simone Pepe",
+        "rojas": 2
+    },
+    "1032": {
+        "faltas": 3,
+        "amarillas": 1,
+        "goles": 22,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 166,
+        "id": "1032",
+        "nombre": "Cavani",
+        "rojas": 7
+    },
+    "246": {
+        "faltas": 28,
+        "amarillas": 5,
+        "goles": 23,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 33,
+        "id": "246",
+        "nombre": "Juan Pablo Montes",
+        "rojas": 7
+    },
+    "531": {
+        "faltas": 0,
+        "amarillas": 0,
+        "goles": 69,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 75,
+        "id": "531",
+        "nombre": "Giannis Fetfatzidis",
+        "rojas": 9
+    },
+    "428": {
+        "faltas": 8,
+        "amarillas": 0,
+        "goles": 49,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 82,
+        "id": "428",
+        "nombre": "Miguel \u00c3\u0081ngel Moy\u00c3\u00a0",
+        "rojas": 0
+    },
+    "374": {
+        "faltas": 18,
+        "amarillas": 5,
+        "goles": 108,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 67,
+        "id": "374",
+        "nombre": "Andr\u00c3\u00a9 Sch\u00c3\u00bcrrle",
+        "rojas": 5
+    },
+    "90": {
+        "faltas": 48,
+        "amarillas": 1,
+        "goles": 28,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 224,
+        "id": "90",
+        "nombre": "Samuel Inkoom",
+        "rojas": 1
+    },
+    "693": {
+        "faltas": 21,
+        "amarillas": 1,
+        "goles": 62,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 53,
+        "id": "693",
+        "nombre": "Aleksandr Kerzhakov",
+        "rojas": 8
+    },
+    "862": {
+        "faltas": 34,
+        "amarillas": 5,
+        "goles": 62,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 100,
+        "id": "862",
+        "nombre": "Jefferson",
+        "rojas": 1
+    },
+    "1026": {
+        "faltas": 41,
+        "amarillas": 1,
+        "goles": 43,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 33,
+        "id": "1026",
+        "nombre": "Gast\u00c3\u00b3n Ram\u00c3\u00adrez",
+        "rojas": 5
+    },
+    "143": {
+        "faltas": 39,
+        "amarillas": 2,
+        "goles": 44,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 29,
+        "id": "143",
+        "nombre": "Akpala",
+        "rojas": 2
+    },
+    "12": {
+        "faltas": 27,
+        "amarillas": 3,
+        "goles": 99,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 234,
+        "id": "12",
+        "nombre": "Yaya Tour\u00c3\u00a9",
+        "rojas": 1
+    },
+    "18": {
+        "faltas": 23,
+        "amarillas": 4,
+        "goles": 22,
+        "equipo": "Floridsdorfer AC",
+        "asistencias": 169,
+        "id": "18",
+        "nombre": "Gervinho",
+        "rojas": 0
+    }
+}

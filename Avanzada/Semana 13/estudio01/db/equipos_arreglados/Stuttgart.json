@@ -1,0 +1,132 @@
+{
+    "569": {
+        "faltas": 24,
+        "amarillas": 3,
+        "goles": 49,
+        "equipo": "Stuttgart",
+        "asistencias": 204,
+        "id": "569",
+        "nombre": "Ante Rebi\u00c4\u2021",
+        "rojas": 2
+    },
+    "769": {
+        "faltas": 17,
+        "amarillas": 2,
+        "goles": 109,
+        "equipo": "Stuttgart",
+        "asistencias": 229,
+        "id": "769",
+        "nombre": "Omar Gonzalez",
+        "rojas": 9
+    },
+    "845": {
+        "faltas": 36,
+        "amarillas": 6,
+        "goles": 49,
+        "equipo": "Stuttgart",
+        "asistencias": 68,
+        "id": "845",
+        "nombre": "Jos\u00c3\u00a9 Ernesto Sosa",
+        "rojas": 2
+    },
+    "562": {
+        "faltas": 40,
+        "amarillas": 1,
+        "goles": 89,
+        "equipo": "Stuttgart",
+        "asistencias": 149,
+        "id": "562",
+        "nombre": "Marcelo Brozovi\u00c4\u2021",
+        "rojas": 4
+    },
+    "741": {
+        "faltas": 1,
+        "amarillas": 1,
+        "goles": 21,
+        "equipo": "Stuttgart",
+        "asistencias": 274,
+        "id": "741",
+        "nombre": "Miguel Lay\u00c3\u00ban",
+        "rojas": 6
+    },
+    "124": {
+        "faltas": 3,
+        "amarillas": 5,
+        "goles": 87,
+        "equipo": "Stuttgart",
+        "asistencias": 227,
+        "id": "124",
+        "nombre": "Joseph Yobo",
+        "rojas": 7
+    },
+    "886": {
+        "faltas": 46,
+        "amarillas": 6,
+        "goles": 72,
+        "equipo": "Stuttgart",
+        "asistencias": 68,
+        "id": "886",
+        "nombre": "Ramires",
+        "rojas": 6
+    },
+    "420": {
+        "faltas": 49,
+        "amarillas": 6,
+        "goles": 12,
+        "equipo": "Stuttgart",
+        "asistencias": 270,
+        "id": "420",
+        "nombre": "Theo Walcott",
+        "rojas": 9
+    },
+    "365": {
+        "faltas": 46,
+        "amarillas": 0,
+        "goles": 110,
+        "equipo": "Stuttgart",
+        "asistencias": 139,
+        "id": "365",
+        "nombre": "Matthias Ginter",
+        "rojas": 6
+    },
+    "934": {
+        "faltas": 25,
+        "amarillas": 0,
+        "goles": 126,
+        "equipo": "Stuttgart",
+        "asistencias": 236,
+        "id": "934",
+        "nombre": "Suazo",
+        "rojas": 7
+    },
+    "859": {
+        "faltas": 32,
+        "amarillas": 3,
+        "goles": 104,
+        "equipo": "Stuttgart",
+        "asistencias": 122,
+        "id": "859",
+        "nombre": "Franco Di Santo",
+        "rojas": 9
+    },
+    "385": {
+        "faltas": 5,
+        "amarillas": 0,
+        "goles": 16,
+        "equipo": "Stuttgart",
+        "asistencias": 224,
+        "id": "385",
+        "nombre": "Phil Jagielka",
+        "rojas": 5
+    },
+    "419": {
+        "faltas": 26,
+        "amarillas": 1,
+        "goles": 112,
+        "equipo": "Stuttgart",
+        "asistencias": 23,
+        "id": "419",
+        "nombre": "Rickie Lambert",
+        "rojas": 5
+    }
+}

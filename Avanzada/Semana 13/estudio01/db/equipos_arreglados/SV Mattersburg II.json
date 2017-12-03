@@ -1,0 +1,132 @@
+{
+    "311": {
+        "faltas": 23,
+        "amarillas": 6,
+        "goles": 44,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 242,
+        "id": "311",
+        "nombre": "Nacer Chadli",
+        "rojas": 4
+    },
+    "380": {
+        "faltas": 49,
+        "amarillas": 0,
+        "goles": 100,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 56,
+        "id": "380",
+        "nombre": "Fraser Forster",
+        "rojas": 4
+    },
+    "269": {
+        "faltas": 18,
+        "amarillas": 7,
+        "goles": 66,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 262,
+        "id": "269",
+        "nombre": "Ervin Zukanovi\u00c4\u2021",
+        "rojas": 9
+    },
+    "229": {
+        "faltas": 40,
+        "amarillas": 3,
+        "goles": 26,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 63,
+        "id": "229",
+        "nombre": "Diego Calvo",
+        "rojas": 7
+    },
+    "858": {
+        "faltas": 22,
+        "amarillas": 7,
+        "goles": 54,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 140,
+        "id": "858",
+        "nombre": "Rodrigo Palacio",
+        "rojas": 8
+    },
+    "850": {
+        "faltas": 34,
+        "amarillas": 3,
+        "goles": 127,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 52,
+        "id": "850",
+        "nombre": "Fabi\u00c3\u00a1n Rinaudo",
+        "rojas": 2
+    },
+    "231": {
+        "faltas": 42,
+        "amarillas": 0,
+        "goles": 111,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 77,
+        "id": "231",
+        "nombre": "\u00c3\u0081lvaro Sabor\u00c3\u00ado",
+        "rojas": 7
+    },
+    "421": {
+        "faltas": 29,
+        "amarillas": 4,
+        "goles": 106,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 149,
+        "id": "421",
+        "nombre": "Jerome Sinclair",
+        "rojas": 1
+    },
+    "834": {
+        "faltas": 29,
+        "amarillas": 6,
+        "goles": 8,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 95,
+        "id": "834",
+        "nombre": "Hugo Campagnaro",
+        "rojas": 10
+    },
+    "677": {
+        "faltas": 36,
+        "amarillas": 4,
+        "goles": 49,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 192,
+        "id": "677",
+        "nombre": "Dmitri Kombarov",
+        "rojas": 8
+    },
+    "733": {
+        "faltas": 13,
+        "amarillas": 6,
+        "goles": 22,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 268,
+        "id": "733",
+        "nombre": "J. Torres",
+        "rojas": 4
+    },
+    "154": {
+        "faltas": 24,
+        "amarillas": 6,
+        "goles": 92,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 247,
+        "id": "154",
+        "nombre": "Kawashima",
+        "rojas": 1
+    },
+    "793": {
+        "faltas": 16,
+        "amarillas": 2,
+        "goles": 62,
+        "equipo": "SV Mattersburg II",
+        "asistencias": 213,
+        "id": "793",
+        "nombre": "Mitchell Langerak",
+        "rojas": 9
+    }
+}

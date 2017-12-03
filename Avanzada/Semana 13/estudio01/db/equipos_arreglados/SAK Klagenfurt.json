@@ -1,0 +1,132 @@
+{
+    "28": {
+        "faltas": 30,
+        "amarillas": 0,
+        "goles": 18,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 48,
+        "id": "28",
+        "nombre": "Lacina Traor\u00c3\u00a9",
+        "rojas": 1
+    },
+    "153": {
+        "faltas": 15,
+        "amarillas": 4,
+        "goles": 27,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 46,
+        "id": "153",
+        "nombre": "Michael Uchebo",
+        "rojas": 6
+    },
+    "467": {
+        "faltas": 17,
+        "amarillas": 2,
+        "goles": 95,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 56,
+        "id": "467",
+        "nombre": "Santi Cazorla",
+        "rojas": 8
+    },
+    "73": {
+        "faltas": 26,
+        "amarillas": 2,
+        "goles": 103,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 187,
+        "id": "73",
+        "nombre": "Foued Kadir",
+        "rojas": 9
+    },
+    "715": {
+        "faltas": 33,
+        "amarillas": 0,
+        "goles": 99,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 230,
+        "id": "715",
+        "nombre": "Masoud Shojaei",
+        "rojas": 9
+    },
+    "243": {
+        "faltas": 5,
+        "amarillas": 5,
+        "goles": 111,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 109,
+        "id": "243",
+        "nombre": "Osman Ch\u00c3\u00a1vez",
+        "rojas": 0
+    },
+    "127": {
+        "faltas": 13,
+        "amarillas": 7,
+        "goles": 56,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 274,
+        "id": "127",
+        "nombre": "Ogu",
+        "rojas": 3
+    },
+    "635": {
+        "faltas": 20,
+        "amarillas": 4,
+        "goles": 104,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 17,
+        "id": "635",
+        "nombre": "Jordy Clasie",
+        "rojas": 4
+    },
+    "500": {
+        "faltas": 37,
+        "amarillas": 5,
+        "goles": 64,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 161,
+        "id": "500",
+        "nombre": "Rio Mavuba",
+        "rojas": 0
+    },
+    "515": {
+        "faltas": 19,
+        "amarillas": 7,
+        "goles": 117,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 227,
+        "id": "515",
+        "nombre": "Stefanos Kapino",
+        "rojas": 6
+    },
+    "316": {
+        "faltas": 36,
+        "amarillas": 7,
+        "goles": 64,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 202,
+        "id": "316",
+        "nombre": "Diego Benaglio",
+        "rojas": 6
+    },
+    "702": {
+        "faltas": 43,
+        "amarillas": 0,
+        "goles": 87,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 182,
+        "id": "702",
+        "nombre": "Ehsan Hajsafi",
+        "rojas": 5
+    },
+    "593": {
+        "faltas": 46,
+        "amarillas": 1,
+        "goles": 60,
+        "equipo": "SAK Klagenfurt",
+        "asistencias": 60,
+        "id": "593",
+        "nombre": "Pirlo",
+        "rojas": 6
+    }
+}

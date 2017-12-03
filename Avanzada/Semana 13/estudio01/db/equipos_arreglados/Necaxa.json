@@ -1,0 +1,132 @@
+{
+    "646": {
+        "faltas": 19,
+        "amarillas": 3,
+        "goles": 102,
+        "equipo": "Necaxa",
+        "asistencias": 70,
+        "id": "646",
+        "nombre": "Jeremain Lens",
+        "rojas": 7
+    },
+    "304": {
+        "faltas": 18,
+        "amarillas": 0,
+        "goles": 61,
+        "equipo": "Necaxa",
+        "asistencias": 52,
+        "id": "304",
+        "nombre": "Mousa Demb\u00c3\u00a9l\u00c3\u00a9",
+        "rojas": 3
+    },
+    "424": {
+        "faltas": 0,
+        "amarillas": 5,
+        "goles": 92,
+        "equipo": "Necaxa",
+        "asistencias": 42,
+        "id": "424",
+        "nombre": "I. Casillas",
+        "rojas": 1
+    },
+    "725": {
+        "faltas": 12,
+        "amarillas": 5,
+        "goles": 123,
+        "equipo": "Necaxa",
+        "asistencias": 65,
+        "id": "725",
+        "nombre": "Sardar Azmoun",
+        "rojas": 4
+    },
+    "763": {
+        "faltas": 22,
+        "amarillas": 7,
+        "goles": 78,
+        "equipo": "Necaxa",
+        "asistencias": 79,
+        "id": "763",
+        "nombre": "Nick Rimando",
+        "rojas": 1
+    },
+    "585": {
+        "faltas": 15,
+        "amarillas": 3,
+        "goles": 74,
+        "equipo": "Necaxa",
+        "asistencias": 4,
+        "id": "585",
+        "nombre": "Gabriel Paletta",
+        "rojas": 4
+    },
+    "322": {
+        "faltas": 3,
+        "amarillas": 0,
+        "goles": 9,
+        "equipo": "Necaxa",
+        "asistencias": 62,
+        "id": "322",
+        "nombre": "Johan Djourou",
+        "rojas": 9
+    },
+    "197": {
+        "faltas": 3,
+        "amarillas": 7,
+        "goles": 4,
+        "equipo": "Necaxa",
+        "asistencias": 271,
+        "id": "197",
+        "nombre": "Koo Ja-Cheol",
+        "rojas": 4
+    },
+    "3": {
+        "faltas": 33,
+        "amarillas": 4,
+        "goles": 115,
+        "equipo": "Necaxa",
+        "asistencias": 265,
+        "id": "3",
+        "nombre": "Badra Ali Sangar\u00c3\u00a9",
+        "rojas": 9
+    },
+    "452": {
+        "faltas": 47,
+        "amarillas": 4,
+        "goles": 109,
+        "equipo": "Necaxa",
+        "asistencias": 74,
+        "id": "452",
+        "nombre": "S. Cazorla",
+        "rojas": 4
+    },
+    "282": {
+        "faltas": 36,
+        "amarillas": 7,
+        "goles": 70,
+        "equipo": "Necaxa",
+        "asistencias": 170,
+        "id": "282",
+        "nombre": "Zoran Kvr\u00c5\u00bei\u00c4\u2021",
+        "rojas": 8
+    },
+    "503": {
+        "faltas": 30,
+        "amarillas": 2,
+        "goles": 115,
+        "equipo": "Necaxa",
+        "asistencias": 79,
+        "id": "503",
+        "nombre": "Antoine Griezmann",
+        "rojas": 3
+    },
+    "675": {
+        "faltas": 7,
+        "amarillas": 1,
+        "goles": 17,
+        "equipo": "Necaxa",
+        "asistencias": 141,
+        "id": "675",
+        "nombre": "Sergei Ignashevich",
+        "rojas": 3
+    }
+}

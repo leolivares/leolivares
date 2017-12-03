@@ -1,0 +1,132 @@
+{
+    "1044": {
+        "faltas": 42,
+        "amarillas": 2,
+        "goles": 120,
+        "equipo": "Galeana",
+        "asistencias": 107,
+        "id": "1044",
+        "nombre": "Marcos Ure\u00c3\u00b1a",
+        "rojas": 5
+    },
+    "457": {
+        "faltas": 1,
+        "amarillas": 0,
+        "goles": 98,
+        "equipo": "Galeana",
+        "asistencias": 37,
+        "id": "457",
+        "nombre": "Ander Iturraspe",
+        "rojas": 4
+    },
+    "489": {
+        "faltas": 45,
+        "amarillas": 0,
+        "goles": 65,
+        "equipo": "Galeana",
+        "asistencias": 119,
+        "id": "489",
+        "nombre": "Lucas Digne",
+        "rojas": 4
+    },
+    "1002": {
+        "faltas": 49,
+        "amarillas": 4,
+        "goles": 117,
+        "equipo": "Galeana",
+        "asistencias": 46,
+        "id": "1002",
+        "nombre": "J. Rojas",
+        "rojas": 5
+    },
+    "701": {
+        "faltas": 10,
+        "amarillas": 1,
+        "goles": 23,
+        "equipo": "Galeana",
+        "asistencias": 219,
+        "id": "701",
+        "nombre": "Jalal Hosseini",
+        "rojas": 7
+    },
+    "264": {
+        "faltas": 50,
+        "amarillas": 3,
+        "goles": 11,
+        "equipo": "Galeana",
+        "asistencias": 117,
+        "id": "264",
+        "nombre": "Emir Spahi\u00c4\u2021",
+        "rojas": 6
+    },
+    "47": {
+        "faltas": 24,
+        "amarillas": 1,
+        "goles": 54,
+        "equipo": "Galeana",
+        "asistencias": 188,
+        "id": "47",
+        "nombre": "Maxim Choupo-Moting",
+        "rojas": 8
+    },
+    "920": {
+        "faltas": 0,
+        "amarillas": 7,
+        "goles": 109,
+        "equipo": "Galeana",
+        "asistencias": 16,
+        "id": "920",
+        "nombre": "Millar",
+        "rojas": 9
+    },
+    "156": {
+        "faltas": 10,
+        "amarillas": 7,
+        "goles": 123,
+        "equipo": "Galeana",
+        "asistencias": 266,
+        "id": "156",
+        "nombre": "Gonda",
+        "rojas": 1
+    },
+    "119": {
+        "faltas": 0,
+        "amarillas": 1,
+        "goles": 116,
+        "equipo": "Galeana",
+        "asistencias": 202,
+        "id": "119",
+        "nombre": "Ambrose",
+        "rojas": 3
+    },
+    "186": {
+        "faltas": 0,
+        "amarillas": 0,
+        "goles": 92,
+        "equipo": "Galeana",
+        "asistencias": 114,
+        "id": "186",
+        "nombre": "Lee Bum-Young",
+        "rojas": 9
+    },
+    "592": {
+        "faltas": 13,
+        "amarillas": 2,
+        "goles": 12,
+        "equipo": "Galeana",
+        "asistencias": 176,
+        "id": "592",
+        "nombre": "Montolivo",
+        "rojas": 9
+    },
+    "54": {
+        "faltas": 19,
+        "amarillas": 0,
+        "goles": 107,
+        "equipo": "Galeana",
+        "asistencias": 116,
+        "id": "54",
+        "nombre": "Edgar Salli",
+        "rojas": 1
+    }
+}

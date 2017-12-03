@@ -1,0 +1,132 @@
+{
+    "271": {
+        "faltas": 32,
+        "amarillas": 5,
+        "goles": 4,
+        "equipo": "Barcelona B",
+        "asistencias": 190,
+        "id": "271",
+        "nombre": "Sead Kola\u00c5\u00a1inac",
+        "rojas": 4
+    },
+    "237": {
+        "faltas": 43,
+        "amarillas": 3,
+        "goles": 109,
+        "equipo": "Barcelona B",
+        "asistencias": 99,
+        "id": "237",
+        "nombre": "Noel Valladares",
+        "rojas": 1
+    },
+    "535": {
+        "faltas": 8,
+        "amarillas": 4,
+        "goles": 94,
+        "equipo": "Barcelona B",
+        "asistencias": 263,
+        "id": "535",
+        "nombre": "Andreas Samaris",
+        "rojas": 3
+    },
+    "285": {
+        "faltas": 18,
+        "amarillas": 2,
+        "goles": 34,
+        "equipo": "Barcelona B",
+        "asistencias": 269,
+        "id": "285",
+        "nombre": "Sr\u00c4\u2018an Stani\u00c4\u2021",
+        "rojas": 7
+    },
+    "1001": {
+        "faltas": 27,
+        "amarillas": 4,
+        "goles": 110,
+        "equipo": "Barcelona B",
+        "asistencias": 54,
+        "id": "1001",
+        "nombre": "F. Martinez",
+        "rojas": 3
+    },
+    "821": {
+        "faltas": 8,
+        "amarillas": 6,
+        "goles": 61,
+        "equipo": "Barcelona B",
+        "asistencias": 166,
+        "id": "821",
+        "nombre": "Mathew Leckie",
+        "rojas": 0
+    },
+    "638": {
+        "faltas": 0,
+        "amarillas": 3,
+        "goles": 15,
+        "equipo": "Barcelona B",
+        "asistencias": 28,
+        "id": "638",
+        "nombre": "Georginio Wijnaldum",
+        "rojas": 8
+    },
+    "523": {
+        "faltas": 48,
+        "amarillas": 2,
+        "goles": 18,
+        "equipo": "Barcelona B",
+        "asistencias": 62,
+        "id": "523",
+        "nombre": "Giorgos Tzavellas",
+        "rojas": 4
+    },
+    "745": {
+        "faltas": 2,
+        "amarillas": 2,
+        "goles": 23,
+        "equipo": "Barcelona B",
+        "asistencias": 234,
+        "id": "745",
+        "nombre": "J. Zavala",
+        "rojas": 4
+    },
+    "476": {
+        "faltas": 17,
+        "amarillas": 2,
+        "goles": 3,
+        "equipo": "Barcelona B",
+        "asistencias": 75,
+        "id": "476",
+        "nombre": "Diego Costa",
+        "rojas": 3
+    },
+    "456": {
+        "faltas": 19,
+        "amarillas": 6,
+        "goles": 77,
+        "equipo": "Barcelona B",
+        "asistencias": 210,
+        "id": "456",
+        "nombre": "Koke",
+        "rojas": 1
+    },
+    "238": {
+        "faltas": 44,
+        "amarillas": 0,
+        "goles": 39,
+        "equipo": "Barcelona B",
+        "asistencias": 137,
+        "id": "238",
+        "nombre": "Donis Escober",
+        "rojas": 7
+    },
+    "1006": {
+        "faltas": 37,
+        "amarillas": 7,
+        "goles": 38,
+        "equipo": "Barcelona B",
+        "asistencias": 82,
+        "id": "1006",
+        "nombre": "Armando Wila",
+        "rojas": 2
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "272": {
+        "faltas": 39,
+        "amarillas": 3,
+        "goles": 63,
+        "equipo": "FC Gratkorn",
+        "asistencias": 103,
+        "id": "272",
+        "nombre": "Zvjezdan Misimovi\u00c4\u2021",
+        "rojas": 6
+    },
+    "331": {
+        "faltas": 26,
+        "amarillas": 5,
+        "goles": 53,
+        "equipo": "FC Gratkorn",
+        "asistencias": 56,
+        "id": "331",
+        "nombre": "G\u00c3\u00b6khan Inler",
+        "rojas": 6
+    },
+    "957": {
+        "faltas": 18,
+        "amarillas": 4,
+        "goles": 121,
+        "equipo": "FC Gratkorn",
+        "asistencias": 266,
+        "id": "957",
+        "nombre": "Aguilar",
+        "rojas": 1
+    },
+    "352": {
+        "faltas": 13,
+        "amarillas": 5,
+        "goles": 103,
+        "equipo": "FC Gratkorn",
+        "asistencias": 100,
+        "id": "352",
+        "nombre": "Per Mertesacker",
+        "rojas": 7
+    },
+    "373": {
+        "faltas": 34,
+        "amarillas": 4,
+        "goles": 90,
+        "equipo": "FC Gratkorn",
+        "asistencias": 192,
+        "id": "373",
+        "nombre": "Gedion Zelalem",
+        "rojas": 10
+    },
+    "777": {
+        "faltas": 34,
+        "amarillas": 2,
+        "goles": 65,
+        "equipo": "FC Gratkorn",
+        "asistencias": 109,
+        "id": "777",
+        "nombre": "Jermaine Jones",
+        "rojas": 5
+    },
+    "1019": {
+        "faltas": 43,
+        "amarillas": 1,
+        "goles": 51,
+        "equipo": "FC Gratkorn",
+        "asistencias": 109,
+        "id": "1019",
+        "nombre": "Guillermo Varela",
+        "rojas": 2
+    },
+    "590": {
+        "faltas": 32,
+        "amarillas": 5,
+        "goles": 47,
+        "equipo": "FC Gratkorn",
+        "asistencias": 5,
+        "id": "590",
+        "nombre": "Marchisio",
+        "rojas": 4
+    },
+    "207": {
+        "faltas": 47,
+        "amarillas": 3,
+        "goles": 13,
+        "equipo": "FC Gratkorn",
+        "asistencias": 48,
+        "id": "207",
+        "nombre": "Keylor Navas",
+        "rojas": 9
+    },
+    "436": {
+        "faltas": 21,
+        "amarillas": 6,
+        "goles": 37,
+        "equipo": "FC Gratkorn",
+        "asistencias": 141,
+        "id": "436",
+        "nombre": "Jordi Alba",
+        "rojas": 10
+    },
+    "49": {
+        "faltas": 33,
+        "amarillas": 5,
+        "goles": 38,
+        "equipo": "FC Gratkorn",
+        "asistencias": 182,
+        "id": "49",
+        "nombre": "Sammy N'Djock",
+        "rojas": 0
+    },
+    "813": {
+        "faltas": 16,
+        "amarillas": 1,
+        "goles": 93,
+        "equipo": "FC Gratkorn",
+        "asistencias": 250,
+        "id": "813",
+        "nombre": "Tom Rogi\u00c4\u2021",
+        "rojas": 2
+    },
+    "800": {
+        "faltas": 43,
+        "amarillas": 7,
+        "goles": 35,
+        "equipo": "FC Gratkorn",
+        "asistencias": 165,
+        "id": "800",
+        "nombre": "Ivan Franji\u00c4\u2021",
+        "rojas": 5
+    }
+}

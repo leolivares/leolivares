@@ -1,0 +1,132 @@
+{
+    "114": {
+        "faltas": 46,
+        "amarillas": 4,
+        "goles": 65,
+        "equipo": "Livorno",
+        "asistencias": 156,
+        "id": "114",
+        "nombre": "Ejide",
+        "rojas": 5
+    },
+    "160": {
+        "faltas": 11,
+        "amarillas": 0,
+        "goles": 66,
+        "equipo": "Livorno",
+        "asistencias": 217,
+        "id": "160",
+        "nombre": "Uchida",
+        "rojas": 3
+    },
+    "120": {
+        "faltas": 15,
+        "amarillas": 2,
+        "goles": 69,
+        "equipo": "Livorno",
+        "asistencias": 126,
+        "id": "120",
+        "nombre": "Egwuekwe",
+        "rojas": 10
+    },
+    "758": {
+        "faltas": 3,
+        "amarillas": 4,
+        "goles": 115,
+        "equipo": "Livorno",
+        "asistencias": 109,
+        "id": "758",
+        "nombre": "R. Jim\u00c3\u00a9nez",
+        "rojas": 10
+    },
+    "790": {
+        "faltas": 10,
+        "amarillas": 7,
+        "goles": 115,
+        "equipo": "Livorno",
+        "asistencias": 195,
+        "id": "790",
+        "nombre": "Aron J\u00c3\u00b3hannsson",
+        "rojas": 3
+    },
+    "1029": {
+        "faltas": 41,
+        "amarillas": 3,
+        "goles": 65,
+        "equipo": "Livorno",
+        "asistencias": 210,
+        "id": "1029",
+        "nombre": "Forl\u00c3\u00a1n",
+        "rojas": 8
+    },
+    "922": {
+        "faltas": 19,
+        "amarillas": 1,
+        "goles": 9,
+        "equipo": "Livorno",
+        "asistencias": 205,
+        "id": "922",
+        "nombre": "Aranguiz",
+        "rojas": 8
+    },
+    "293": {
+        "faltas": 32,
+        "amarillas": 5,
+        "goles": 105,
+        "equipo": "Livorno",
+        "asistencias": 23,
+        "id": "293",
+        "nombre": "Koen Casteels",
+        "rojas": 5
+    },
+    "505": {
+        "faltas": 13,
+        "amarillas": 7,
+        "goles": 107,
+        "equipo": "Livorno",
+        "asistencias": 33,
+        "id": "505",
+        "nombre": "Mathieu Flamini",
+        "rojas": 3
+    },
+    "158": {
+        "faltas": 43,
+        "amarillas": 5,
+        "goles": 92,
+        "equipo": "Livorno",
+        "asistencias": 43,
+        "id": "158",
+        "nombre": "G. Sakai",
+        "rojas": 1
+    },
+    "100": {
+        "faltas": 50,
+        "amarillas": 5,
+        "goles": 85,
+        "equipo": "Livorno",
+        "asistencias": 148,
+        "id": "100",
+        "nombre": "Michael Essien",
+        "rojas": 10
+    },
+    "789": {
+        "faltas": 11,
+        "amarillas": 6,
+        "goles": 58,
+        "equipo": "Livorno",
+        "asistencias": 14,
+        "id": "789",
+        "nombre": "Terrence Boyd",
+        "rojas": 6
+    },
+    "728": {
+        "faltas": 3,
+        "amarillas": 1,
+        "goles": 71,
+        "equipo": "Livorno",
+        "asistencias": 246,
+        "id": "728",
+        "nombre": "A. Talavera",
+        "rojas": 2
+    }
+}

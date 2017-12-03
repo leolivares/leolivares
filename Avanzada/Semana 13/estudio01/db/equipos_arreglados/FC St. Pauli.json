@@ -1,0 +1,132 @@
+{
+    "42": {
+        "faltas": 47,
+        "amarillas": 0,
+        "goles": 7,
+        "equipo": "FC St. Pauli",
+        "asistencias": 93,
+        "id": "42",
+        "nombre": "Eyong Enoh",
+        "rojas": 2
+    },
+    "683": {
+        "faltas": 7,
+        "amarillas": 6,
+        "goles": 48,
+        "equipo": "FC St. Pauli",
+        "asistencias": 61,
+        "id": "683",
+        "nombre": "Igor Denisov",
+        "rojas": 3
+    },
+    "413": {
+        "faltas": 39,
+        "amarillas": 1,
+        "goles": 120,
+        "equipo": "FC St. Pauli",
+        "asistencias": 202,
+        "id": "413",
+        "nombre": "Ashley Young",
+        "rojas": 5
+    },
+    "27": {
+        "faltas": 46,
+        "amarillas": 7,
+        "goles": 111,
+        "equipo": "FC St. Pauli",
+        "asistencias": 234,
+        "id": "27",
+        "nombre": "Isma\u00c3\u00abl Diomande",
+        "rojas": 5
+    },
+    "514": {
+        "faltas": 1,
+        "amarillas": 1,
+        "goles": 99,
+        "equipo": "FC St. Pauli",
+        "asistencias": 158,
+        "id": "514",
+        "nombre": "Orestis Karnezis",
+        "rojas": 8
+    },
+    "796": {
+        "faltas": 14,
+        "amarillas": 4,
+        "goles": 111,
+        "equipo": "FC St. Pauli",
+        "asistencias": 52,
+        "id": "796",
+        "nombre": "Mark Schwarzer",
+        "rojas": 3
+    },
+    "485": {
+        "faltas": 49,
+        "amarillas": 5,
+        "goles": 117,
+        "equipo": "FC St. Pauli",
+        "asistencias": 140,
+        "id": "485",
+        "nombre": "Mamadou Sakho",
+        "rojas": 9
+    },
+    "235": {
+        "faltas": 10,
+        "amarillas": 3,
+        "goles": 42,
+        "equipo": "FC St. Pauli",
+        "asistencias": 157,
+        "id": "235",
+        "nombre": "Marco Ure\u00c3\u00b1a",
+        "rojas": 0
+    },
+    "287": {
+        "faltas": 16,
+        "amarillas": 4,
+        "goles": 59,
+        "equipo": "FC St. Pauli",
+        "asistencias": 127,
+        "id": "287",
+        "nombre": "Vedad Ibi\u00c5\u00a1evi\u00c4\u2021",
+        "rojas": 10
+    },
+    "483": {
+        "faltas": 1,
+        "amarillas": 1,
+        "goles": 92,
+        "equipo": "FC St. Pauli",
+        "asistencias": 104,
+        "id": "483",
+        "nombre": "Bacary Sagna",
+        "rojas": 10
+    },
+    "558": {
+        "faltas": 12,
+        "amarillas": 1,
+        "goles": 14,
+        "equipo": "FC St. Pauli",
+        "asistencias": 167,
+        "id": "558",
+        "nombre": "Ivan Peri\u00c5\u00a1i\u00c4\u2021",
+        "rojas": 2
+    },
+    "183": {
+        "faltas": 2,
+        "amarillas": 3,
+        "goles": 65,
+        "equipo": "FC St. Pauli",
+        "asistencias": 207,
+        "id": "183",
+        "nombre": "Manabu Sait\u00c5\u008d",
+        "rojas": 6
+    },
+    "748": {
+        "faltas": 32,
+        "amarillas": 1,
+        "goles": 81,
+        "equipo": "FC St. Pauli",
+        "asistencias": 133,
+        "id": "748",
+        "nombre": "Marco Fabi\u00c3\u00a1n",
+        "rojas": 5
+    }
+}

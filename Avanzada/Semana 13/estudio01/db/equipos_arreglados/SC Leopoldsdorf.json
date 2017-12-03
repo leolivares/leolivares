@@ -1,0 +1,132 @@
+{
+    "247": {
+        "faltas": 18,
+        "amarillas": 1,
+        "goles": 64,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 33,
+        "id": "247",
+        "nombre": "Wilson Palacios",
+        "rojas": 9
+    },
+    "707": {
+        "faltas": 26,
+        "amarillas": 0,
+        "goles": 120,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 175,
+        "id": "707",
+        "nombre": "Hashem Beikzadeh",
+        "rojas": 7
+    },
+    "958": {
+        "faltas": 31,
+        "amarillas": 6,
+        "goles": 12,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 262,
+        "id": "958",
+        "nombre": "Rodr\u00c3\u00adguez",
+        "rojas": 1
+    },
+    "493": {
+        "faltas": 28,
+        "amarillas": 3,
+        "goles": 76,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 58,
+        "id": "493",
+        "nombre": "Kurt Zouma",
+        "rojas": 3
+    },
+    "731": {
+        "faltas": 0,
+        "amarillas": 7,
+        "goles": 122,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 65,
+        "id": "731",
+        "nombre": "S. Meza",
+        "rojas": 6
+    },
+    "618": {
+        "faltas": 28,
+        "amarillas": 6,
+        "goles": 72,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 256,
+        "id": "618",
+        "nombre": "Jeroen Zoet",
+        "rojas": 1
+    },
+    "253": {
+        "faltas": 17,
+        "amarillas": 4,
+        "goles": 60,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 10,
+        "id": "253",
+        "nombre": "Arnold Peralta",
+        "rojas": 1
+    },
+    "532": {
+        "faltas": 49,
+        "amarillas": 5,
+        "goles": 54,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 81,
+        "id": "532",
+        "nombre": "Lazaros Christodoulopoulos",
+        "rojas": 9
+    },
+    "83": {
+        "faltas": 45,
+        "amarillas": 1,
+        "goles": 21,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 43,
+        "id": "83",
+        "nombre": "Rafik Djebbour",
+        "rojas": 9
+    },
+    "64": {
+        "faltas": 19,
+        "amarillas": 3,
+        "goles": 47,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 144,
+        "id": "64",
+        "nombre": "Carl Medjani",
+        "rojas": 2
+    },
+    "364": {
+        "faltas": 29,
+        "amarillas": 2,
+        "goles": 50,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 192,
+        "id": "364",
+        "nombre": "Thomas M\u00c3\u00bcller",
+        "rojas": 6
+    },
+    "916": {
+        "faltas": 38,
+        "amarillas": 1,
+        "goles": 56,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 215,
+        "id": "916",
+        "nombre": "Mauricio Isla",
+        "rojas": 3
+    },
+    "963": {
+        "faltas": 28,
+        "amarillas": 2,
+        "goles": 45,
+        "equipo": "SC Leopoldsdorf",
+        "asistencias": 138,
+        "id": "963",
+        "nombre": "Juan Guillermo Cuadrado",
+        "rojas": 9
+    }
+}

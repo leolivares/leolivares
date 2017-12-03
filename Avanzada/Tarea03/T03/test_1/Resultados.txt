@@ -1,0 +1,60 @@
+﻿-------------------- Consulta 1 --------------------
+Error: Not Acceptable
+-------------------- Consulta 2 --------------------
+Emilio Gabriele
+-------------------- Consulta 3 --------------------
+Error: Not Acceptable
+-------------------- Consulta 4 --------------------
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Luis Leiva
+Felipe Pezoa
+-------------------- Consulta 5 --------------------
+Jesús De Nazaret
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Octavio Vera
+Gabriel Lyon
+Gustavo Prudencio
+Germán Contreras
+Luis Leiva
+Felipe Pezoa
+-------------------- Consulta 6 --------------------
+Hakalamax Atalapastruka
+Henry Boys
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Octavio Vera
+Gabriel Lyon
+Isaac Carrera
+Gustavo Prudencio
+Germán Contreras
+Jurgen Heysen
+Luis Leiva
+Felipe Pezoa
+-------------------- Consulta 7 --------------------
+Error: Not Acceptable
+-------------------- Consulta 8 --------------------
+albina
+-------------------- Consulta 9 --------------------
+albina
+-------------------- Consulta 10 --------------------
+Sebastian Cruz
+-------------------- Consulta 11 --------------------
+El Chuña
+-------------------- Consulta 12 --------------------
+Blanco
+-------------------- Consulta 13 --------------------
+Daltonismo, Miopia
+-------------------- Consulta 14 --------------------
+Atleta
+-------------------- Consulta 15 --------------------
+Daltonismo, Miopia

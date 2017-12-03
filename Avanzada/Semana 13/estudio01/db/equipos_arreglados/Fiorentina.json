@@ -1,0 +1,132 @@
+{
+    "552": {
+        "faltas": 25,
+        "amarillas": 0,
+        "goles": 15,
+        "equipo": "Fiorentina",
+        "asistencias": 57,
+        "id": "552",
+        "nombre": "\u00c5\u00a0ime Vrsaljko",
+        "rojas": 6
+    },
+    "1042": {
+        "faltas": 1,
+        "amarillas": 7,
+        "goles": 123,
+        "equipo": "Fiorentina",
+        "asistencias": 246,
+        "id": "1042",
+        "nombre": "Georgios Samaras",
+        "rojas": 6
+    },
+    "166": {
+        "faltas": 2,
+        "amarillas": 0,
+        "goles": 39,
+        "equipo": "Fiorentina",
+        "asistencias": 57,
+        "id": "166",
+        "nombre": "Honda",
+        "rojas": 7
+    },
+    "710": {
+        "faltas": 5,
+        "amarillas": 1,
+        "goles": 33,
+        "equipo": "Fiorentina",
+        "asistencias": 259,
+        "id": "710",
+        "nombre": "Mohammad Reza Khanzadeh",
+        "rojas": 3
+    },
+    "847": {
+        "faltas": 19,
+        "amarillas": 7,
+        "goles": 8,
+        "equipo": "Fiorentina",
+        "asistencias": 77,
+        "id": "847",
+        "nombre": "Augusto Fern\u00c3\u00a1ndez",
+        "rojas": 10
+    },
+    "938": {
+        "faltas": 33,
+        "amarillas": 0,
+        "goles": 113,
+        "equipo": "Fiorentina",
+        "asistencias": 25,
+        "id": "938",
+        "nombre": "Mauricio Pinilla",
+        "rojas": 8
+    },
+    "560": {
+        "faltas": 31,
+        "amarillas": 5,
+        "goles": 95,
+        "equipo": "Fiorentina",
+        "asistencias": 28,
+        "id": "560",
+        "nombre": "Mateo Kova\u00c4\u008di\u00c4\u2021",
+        "rojas": 7
+    },
+    "663": {
+        "faltas": 19,
+        "amarillas": 1,
+        "goles": 95,
+        "equipo": "Fiorentina",
+        "asistencias": 13,
+        "id": "663",
+        "nombre": "Vieirinha",
+        "rojas": 7
+    },
+    "499": {
+        "faltas": 31,
+        "amarillas": 1,
+        "goles": 30,
+        "equipo": "Fiorentina",
+        "asistencias": 221,
+        "id": "499",
+        "nombre": "Moussa Sissoko",
+        "rojas": 7
+    },
+    "554": {
+        "faltas": 46,
+        "amarillas": 2,
+        "goles": 35,
+        "equipo": "Fiorentina",
+        "asistencias": 78,
+        "id": "554",
+        "nombre": "Niko Kranj\u00c4\u008dar",
+        "rojas": 0
+    },
+    "1041": {
+        "faltas": 41,
+        "amarillas": 7,
+        "goles": 98,
+        "equipo": "Fiorentina",
+        "asistencias": 99,
+        "id": "1041",
+        "nombre": "Juan Cuadrado",
+        "rojas": 0
+    },
+    "67": {
+        "faltas": 1,
+        "amarillas": 4,
+        "goles": 103,
+        "equipo": "Fiorentina",
+        "asistencias": 231,
+        "id": "67",
+        "nombre": "Faouzi Ghoulam",
+        "rojas": 7
+    },
+    "185": {
+        "faltas": 6,
+        "amarillas": 7,
+        "goles": 102,
+        "equipo": "Fiorentina",
+        "asistencias": 192,
+        "id": "185",
+        "nombre": "Kim Seung-Gyu",
+        "rojas": 8
+    }
+}

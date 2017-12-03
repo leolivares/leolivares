@@ -1,0 +1,132 @@
+{
+    "276": {
+        "faltas": 0,
+        "amarillas": 4,
+        "goles": 98,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 151,
+        "id": "276",
+        "nombre": "Haris Medunjanin",
+        "rojas": 6
+    },
+    "606": {
+        "faltas": 19,
+        "amarillas": 4,
+        "goles": 69,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 178,
+        "id": "606",
+        "nombre": "Gilardino",
+        "rojas": 3
+    },
+    "930": {
+        "faltas": 47,
+        "amarillas": 2,
+        "goles": 89,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 242,
+        "id": "930",
+        "nombre": "Pablo Hern\u00c3\u00a1ndez",
+        "rojas": 4
+    },
+    "857": {
+        "faltas": 42,
+        "amarillas": 4,
+        "goles": 62,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 243,
+        "id": "857",
+        "nombre": "Lavezzi",
+        "rojas": 0
+    },
+    "222": {
+        "faltas": 22,
+        "amarillas": 1,
+        "goles": 68,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 171,
+        "id": "222",
+        "nombre": "Christian Bola\u00c3\u00b1os",
+        "rojas": 5
+    },
+    "719": {
+        "faltas": 6,
+        "amarillas": 1,
+        "goles": 28,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 50,
+        "id": "719",
+        "nombre": "Alireza Jahanbakhsh",
+        "rojas": 5
+    },
+    "492": {
+        "faltas": 10,
+        "amarillas": 5,
+        "goles": 53,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 123,
+        "id": "492",
+        "nombre": "Alexandre Barthe",
+        "rojas": 2
+    },
+    "760": {
+        "faltas": 49,
+        "amarillas": 5,
+        "goles": 82,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 208,
+        "id": "760",
+        "nombre": "Alan Pulido",
+        "rojas": 10
+    },
+    "828": {
+        "faltas": 33,
+        "amarillas": 2,
+        "goles": 24,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 30,
+        "id": "828",
+        "nombre": "Zabaleta",
+        "rojas": 1
+    },
+    "56": {
+        "faltas": 49,
+        "amarillas": 6,
+        "goles": 43,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 83,
+        "id": "56",
+        "nombre": "Fabrice Olinga",
+        "rojas": 7
+    },
+    "509": {
+        "faltas": 8,
+        "amarillas": 5,
+        "goles": 84,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 268,
+        "id": "509",
+        "nombre": "Karim Benzema",
+        "rojas": 7
+    },
+    "587": {
+        "faltas": 38,
+        "amarillas": 6,
+        "goles": 58,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 21,
+        "id": "587",
+        "nombre": "Angelo Ogbonna",
+        "rojas": 8
+    },
+    "827": {
+        "faltas": 44,
+        "amarillas": 0,
+        "goles": 118,
+        "equipo": "SC Austria Lustenau",
+        "asistencias": 180,
+        "id": "827",
+        "nombre": "Willy Caballero",
+        "rojas": 9
+    }
+}

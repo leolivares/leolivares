@@ -1,0 +1,132 @@
+{
+    "690": {
+        "faltas": 11,
+        "amarillas": 1,
+        "goles": 102,
+        "equipo": "TSV St. Johann",
+        "asistencias": 46,
+        "id": "690",
+        "nombre": "Aleksandr Samedov",
+        "rojas": 7
+    },
+    "516": {
+        "faltas": 39,
+        "amarillas": 2,
+        "goles": 54,
+        "equipo": "TSV St. Johann",
+        "asistencias": 70,
+        "id": "516",
+        "nombre": "Panagiotis Glykos",
+        "rojas": 10
+    },
+    "206": {
+        "faltas": 3,
+        "amarillas": 5,
+        "goles": 25,
+        "equipo": "TSV St. Johann",
+        "asistencias": 92,
+        "id": "206",
+        "nombre": "Son Heung-Min",
+        "rojas": 5
+    },
+    "175": {
+        "faltas": 3,
+        "amarillas": 4,
+        "goles": 84,
+        "equipo": "TSV St. Johann",
+        "asistencias": 218,
+        "id": "175",
+        "nombre": "Okazaki",
+        "rojas": 6
+    },
+    "31": {
+        "faltas": 4,
+        "amarillas": 3,
+        "goles": 14,
+        "equipo": "TSV St. Johann",
+        "asistencias": 163,
+        "id": "31",
+        "nombre": "Aur\u00c3\u00a9lien Chedjou",
+        "rojas": 5
+    },
+    "1036": {
+        "faltas": 42,
+        "amarillas": 6,
+        "goles": 11,
+        "equipo": "TSV St. Johann",
+        "asistencias": 200,
+        "id": "1036",
+        "nombre": "Alexis S\u00c3\u00a1nchez",
+        "rojas": 1
+    },
+    "942": {
+        "faltas": 46,
+        "amarillas": 1,
+        "goles": 128,
+        "equipo": "TSV St. Johann",
+        "asistencias": 180,
+        "id": "942",
+        "nombre": "Faryd Mondrag\u00c3\u00b3n",
+        "rojas": 2
+    },
+    "388": {
+        "faltas": 46,
+        "amarillas": 6,
+        "goles": 85,
+        "equipo": "TSV St. Johann",
+        "asistencias": 265,
+        "id": "388",
+        "nombre": "Chris Smalling",
+        "rojas": 9
+    },
+    "369": {
+        "faltas": 0,
+        "amarillas": 6,
+        "goles": 88,
+        "equipo": "TSV St. Johann",
+        "asistencias": 131,
+        "id": "369",
+        "nombre": "Mario G\u00c3\u00b6tze",
+        "rojas": 6
+    },
+    "928": {
+        "faltas": 6,
+        "amarillas": 3,
+        "goles": 102,
+        "equipo": "TSV St. Johann",
+        "asistencias": 215,
+        "id": "928",
+        "nombre": "Charles Ar\u00c3\u00a1nguiz",
+        "rojas": 0
+    },
+    "444": {
+        "faltas": 12,
+        "amarillas": 7,
+        "goles": 41,
+        "equipo": "TSV St. Johann",
+        "asistencias": 46,
+        "id": "444",
+        "nombre": "Javi Manquillo",
+        "rojas": 0
+    },
+    "945": {
+        "faltas": 25,
+        "amarillas": 3,
+        "goles": 57,
+        "equipo": "TSV St. Johann",
+        "asistencias": 166,
+        "id": "945",
+        "nombre": "Yepes",
+        "rojas": 5
+    },
+    "81": {
+        "faltas": 10,
+        "amarillas": 6,
+        "goles": 55,
+        "equipo": "TSV St. Johann",
+        "asistencias": 212,
+        "id": "81",
+        "nombre": "Amir Karaoui",
+        "rojas": 10
+    }
+}

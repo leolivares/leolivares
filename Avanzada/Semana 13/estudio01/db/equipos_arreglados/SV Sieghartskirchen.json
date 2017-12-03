@@ -1,0 +1,132 @@
+{
+    "838": {
+        "faltas": 12,
+        "amarillas": 4,
+        "goles": 104,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 70,
+        "id": "838",
+        "nombre": "Cristian Ansaldi",
+        "rojas": 9
+    },
+    "899": {
+        "faltas": 37,
+        "amarillas": 7,
+        "goles": 101,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 199,
+        "id": "899",
+        "nombre": "Rafael",
+        "rojas": 10
+    },
+    "266": {
+        "faltas": 16,
+        "amarillas": 5,
+        "goles": 110,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 241,
+        "id": "266",
+        "nombre": "Avdija Vr\u00c5\u00a1ajevi\u00c4\u2021",
+        "rojas": 5
+    },
+    "709": {
+        "faltas": 46,
+        "amarillas": 6,
+        "goles": 93,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 7,
+        "id": "709",
+        "nombre": "Ahmad Alenemeh",
+        "rojas": 10
+    },
+    "327": {
+        "faltas": 1,
+        "amarillas": 4,
+        "goles": 118,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 259,
+        "id": "327",
+        "nombre": "Michael Lang",
+        "rojas": 4
+    },
+    "340": {
+        "faltas": 7,
+        "amarillas": 1,
+        "goles": 99,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 80,
+        "id": "340",
+        "nombre": "Fabian Frei",
+        "rojas": 4
+    },
+    "359": {
+        "faltas": 8,
+        "amarillas": 0,
+        "goles": 71,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 84,
+        "id": "359",
+        "nombre": "Mesut \u00c3\u2013zil",
+        "rojas": 6
+    },
+    "914": {
+        "faltas": 32,
+        "amarillas": 4,
+        "goles": 68,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 121,
+        "id": "914",
+        "nombre": "Medel",
+        "rojas": 0
+    },
+    "596": {
+        "faltas": 41,
+        "amarillas": 7,
+        "goles": 118,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 105,
+        "id": "596",
+        "nombre": "Thiago Motta",
+        "rojas": 4
+    },
+    "422": {
+        "faltas": 39,
+        "amarillas": 5,
+        "goles": 96,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 2,
+        "id": "422",
+        "nombre": "Will Keane",
+        "rojas": 2
+    },
+    "177": {
+        "faltas": 6,
+        "amarillas": 3,
+        "goles": 18,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 238,
+        "id": "177",
+        "nombre": "Havenaar",
+        "rojas": 7
+    },
+    "692": {
+        "faltas": 43,
+        "amarillas": 7,
+        "goles": 34,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 102,
+        "id": "692",
+        "nombre": "Pavel Mogilevets",
+        "rojas": 6
+    },
+    "510": {
+        "faltas": 18,
+        "amarillas": 0,
+        "goles": 31,
+        "equipo": "SV Sieghartskirchen",
+        "asistencias": 114,
+        "id": "510",
+        "nombre": "Olivier Giroud",
+        "rojas": 7
+    }
+}

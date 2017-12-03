@@ -1,0 +1,132 @@
+{
+    "620": {
+        "faltas": 48,
+        "amarillas": 7,
+        "goles": 72,
+        "equipo": "SV Reutte",
+        "asistencias": 246,
+        "id": "620",
+        "nombre": "Bruno Martins Indi",
+        "rojas": 0
+    },
+    "706": {
+        "faltas": 3,
+        "amarillas": 0,
+        "goles": 125,
+        "equipo": "SV Reutte",
+        "asistencias": 20,
+        "id": "706",
+        "nombre": "Mehrdad Pouladi",
+        "rojas": 1
+    },
+    "320": {
+        "faltas": 46,
+        "amarillas": 0,
+        "goles": 46,
+        "equipo": "SV Reutte",
+        "asistencias": 273,
+        "id": "320",
+        "nombre": "Stephan Lichtsteiner",
+        "rojas": 4
+    },
+    "830": {
+        "faltas": 37,
+        "amarillas": 6,
+        "goles": 27,
+        "equipo": "SV Reutte",
+        "asistencias": 40,
+        "id": "830",
+        "nombre": "Garay",
+        "rojas": 6
+    },
+    "927": {
+        "faltas": 7,
+        "amarillas": 7,
+        "goles": 50,
+        "equipo": "SV Reutte",
+        "asistencias": 16,
+        "id": "927",
+        "nombre": "Jos\u00c3\u00a9 Pedro Fuenzalida",
+        "rojas": 0
+    },
+    "164": {
+        "faltas": 21,
+        "amarillas": 5,
+        "goles": 42,
+        "equipo": "SV Reutte",
+        "asistencias": 62,
+        "id": "164",
+        "nombre": "Yoshida",
+        "rojas": 0
+    },
+    "33": {
+        "faltas": 31,
+        "amarillas": 6,
+        "goles": 80,
+        "equipo": "SV Reutte",
+        "asistencias": 23,
+        "id": "33",
+        "nombre": "Benoit Assou-Ekotto",
+        "rojas": 1
+    },
+    "980": {
+        "faltas": 27,
+        "amarillas": 2,
+        "goles": 27,
+        "equipo": "SV Reutte",
+        "asistencias": 141,
+        "id": "980",
+        "nombre": "W. Ayov\u00c3\u00ad",
+        "rojas": 4
+    },
+    "277": {
+        "faltas": 33,
+        "amarillas": 0,
+        "goles": 50,
+        "equipo": "SV Reutte",
+        "asistencias": 66,
+        "id": "277",
+        "nombre": "Senad Luli\u00c4\u2021",
+        "rojas": 10
+    },
+    "108": {
+        "faltas": 43,
+        "amarillas": 5,
+        "goles": 25,
+        "equipo": "SV Reutte",
+        "asistencias": 257,
+        "id": "108",
+        "nombre": "Enoch Adu",
+        "rojas": 6
+    },
+    "923": {
+        "faltas": 45,
+        "amarillas": 1,
+        "goles": 25,
+        "equipo": "SV Reutte",
+        "asistencias": 142,
+        "id": "923",
+        "nombre": "D\u00c3\u00adaz",
+        "rojas": 4
+    },
+    "427": {
+        "faltas": 40,
+        "amarillas": 3,
+        "goles": 87,
+        "equipo": "SV Reutte",
+        "asistencias": 258,
+        "id": "427",
+        "nombre": "David de Gea",
+        "rojas": 8
+    },
+    "389": {
+        "faltas": 28,
+        "amarillas": 0,
+        "goles": 10,
+        "equipo": "SV Reutte",
+        "asistencias": 266,
+        "id": "389",
+        "nombre": "Phil Jones",
+        "rojas": 0
+    }
+}

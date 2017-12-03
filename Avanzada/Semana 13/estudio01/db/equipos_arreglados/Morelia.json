@@ -1,0 +1,132 @@
+{
+    "393": {
+        "faltas": 40,
+        "amarillas": 3,
+        "goles": 73,
+        "equipo": "Morelia",
+        "asistencias": 117,
+        "id": "393",
+        "nombre": "Calum Chambers",
+        "rojas": 1
+    },
+    "917": {
+        "faltas": 5,
+        "amarillas": 4,
+        "goles": 19,
+        "equipo": "Morelia",
+        "asistencias": 144,
+        "id": "917",
+        "nombre": "Miiko Albornoz",
+        "rojas": 8
+    },
+    "574": {
+        "faltas": 26,
+        "amarillas": 5,
+        "goles": 127,
+        "equipo": "Morelia",
+        "asistencias": 162,
+        "id": "574",
+        "nombre": "Mattia Perin",
+        "rojas": 10
+    },
+    "412": {
+        "faltas": 34,
+        "amarillas": 1,
+        "goles": 106,
+        "equipo": "Morelia",
+        "asistencias": 235,
+        "id": "412",
+        "nombre": "Michael Carrick",
+        "rojas": 6
+    },
+    "824": {
+        "faltas": 10,
+        "amarillas": 5,
+        "goles": 79,
+        "equipo": "Morelia",
+        "asistencias": 238,
+        "id": "824",
+        "nombre": "And\u00c3\u00baja",
+        "rojas": 2
+    },
+    "449": {
+        "faltas": 31,
+        "amarillas": 5,
+        "goles": 19,
+        "equipo": "Morelia",
+        "asistencias": 219,
+        "id": "449",
+        "nombre": "F\u00c3\u00a0bregas",
+        "rojas": 3
+    },
+    "887": {
+        "faltas": 44,
+        "amarillas": 4,
+        "goles": 74,
+        "equipo": "Morelia",
+        "asistencias": 6,
+        "id": "887",
+        "nombre": "Fernandinho",
+        "rojas": 0
+    },
+    "1045": {
+        "faltas": 19,
+        "amarillas": 2,
+        "goles": 61,
+        "equipo": "Morelia",
+        "asistencias": 272,
+        "id": "1045",
+        "nombre": "Lee Keunho",
+        "rojas": 5
+    },
+    "897": {
+        "faltas": 37,
+        "amarillas": 5,
+        "goles": 63,
+        "equipo": "Morelia",
+        "asistencias": 106,
+        "id": "897",
+        "nombre": "J\u00c3\u00banior Quixad\u00c3\u00a1",
+        "rojas": 4
+    },
+    "578": {
+        "faltas": 24,
+        "amarillas": 2,
+        "goles": 125,
+        "equipo": "Morelia",
+        "asistencias": 117,
+        "id": "578",
+        "nombre": "Astori",
+        "rojas": 9
+    },
+    "504": {
+        "faltas": 2,
+        "amarillas": 1,
+        "goles": 124,
+        "equipo": "Morelia",
+        "asistencias": 62,
+        "id": "504",
+        "nombre": "Anicet Abel",
+        "rojas": 7
+    },
+    "8": {
+        "faltas": 1,
+        "amarillas": 1,
+        "goles": 112,
+        "equipo": "Morelia",
+        "asistencias": 163,
+        "id": "8",
+        "nombre": "Sol Bamba",
+        "rojas": 7
+    },
+    "300": {
+        "faltas": 31,
+        "amarillas": 6,
+        "goles": 71,
+        "equipo": "Morelia",
+        "asistencias": 272,
+        "id": "300",
+        "nombre": "Anthony Vanden Borre",
+        "rojas": 7
+    }
+}

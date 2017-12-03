@@ -1,0 +1,132 @@
+{
+    "979": {
+        "faltas": 44,
+        "amarillas": 0,
+        "goles": 83,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 97,
+        "id": "979",
+        "nombre": "Campos",
+        "rojas": 10
+    },
+    "254": {
+        "faltas": 48,
+        "amarillas": 5,
+        "goles": 36,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 87,
+        "id": "254",
+        "nombre": "Luis Garrido",
+        "rojas": 0
+    },
+    "990": {
+        "faltas": 34,
+        "amarillas": 1,
+        "goles": 57,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 208,
+        "id": "990",
+        "nombre": "Arroyo",
+        "rojas": 10
+    },
+    "528": {
+        "faltas": 2,
+        "amarillas": 5,
+        "goles": 70,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 196,
+        "id": "528",
+        "nombre": "Giorgos Karagounis",
+        "rojas": 1
+    },
+    "139": {
+        "faltas": 5,
+        "amarillas": 6,
+        "goles": 99,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 188,
+        "id": "139",
+        "nombre": "Reuben Gabriel",
+        "rojas": 3
+    },
+    "19": {
+        "faltas": 40,
+        "amarillas": 1,
+        "goles": 120,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 206,
+        "id": "19",
+        "nombre": "Wilfried Bony",
+        "rojas": 2
+    },
+    "336": {
+        "faltas": 5,
+        "amarillas": 3,
+        "goles": 35,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 85,
+        "id": "336",
+        "nombre": "Granit Xhaka",
+        "rojas": 1
+    },
+    "4": {
+        "faltas": 20,
+        "amarillas": 0,
+        "goles": 78,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 33,
+        "id": "4",
+        "nombre": "Sylvain Gbohouo",
+        "rojas": 9
+    },
+    "167": {
+        "faltas": 36,
+        "amarillas": 6,
+        "goles": 22,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 178,
+        "id": "167",
+        "nombre": "End\u00c5\u008d",
+        "rojas": 7
+    },
+    "453": {
+        "faltas": 37,
+        "amarillas": 7,
+        "goles": 67,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 217,
+        "id": "453",
+        "nombre": "Silva",
+        "rojas": 1
+    },
+    "256": {
+        "faltas": 28,
+        "amarillas": 7,
+        "goles": 34,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 185,
+        "id": "256",
+        "nombre": "Carlo Costly",
+        "rojas": 3
+    },
+    "658": {
+        "faltas": 11,
+        "amarillas": 7,
+        "goles": 66,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 20,
+        "id": "658",
+        "nombre": "Nani",
+        "rojas": 7
+    },
+    "429": {
+        "faltas": 40,
+        "amarillas": 5,
+        "goles": 115,
+        "equipo": "Kapfenberger SV",
+        "asistencias": 30,
+        "id": "429",
+        "nombre": "Roberto",
+        "rojas": 0
+    }
+}

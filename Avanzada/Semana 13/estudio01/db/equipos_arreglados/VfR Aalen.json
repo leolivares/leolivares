@@ -1,0 +1,132 @@
+{
+    "138": {
+        "faltas": 33,
+        "amarillas": 5,
+        "goles": 75,
+        "equipo": "VfR Aalen",
+        "asistencias": 60,
+        "id": "138",
+        "nombre": "Nosa Igiebor",
+        "rojas": 2
+    },
+    "216": {
+        "faltas": 32,
+        "amarillas": 3,
+        "goles": 36,
+        "equipo": "VfR Aalen",
+        "asistencias": 21,
+        "id": "216",
+        "nombre": "Cristian Gamboa",
+        "rojas": 1
+    },
+    "474": {
+        "faltas": 28,
+        "amarillas": 1,
+        "goles": 75,
+        "equipo": "VfR Aalen",
+        "asistencias": 99,
+        "id": "474",
+        "nombre": "Fernando Llorente",
+        "rojas": 3
+    },
+    "895": {
+        "faltas": 48,
+        "amarillas": 0,
+        "goles": 75,
+        "equipo": "VfR Aalen",
+        "asistencias": 64,
+        "id": "895",
+        "nombre": "Hulk",
+        "rojas": 1
+    },
+    "694": {
+        "faltas": 23,
+        "amarillas": 5,
+        "goles": 83,
+        "equipo": "VfR Aalen",
+        "asistencias": 104,
+        "id": "694",
+        "nombre": "Aleksandr Kokorin",
+        "rojas": 6
+    },
+    "88": {
+        "faltas": 19,
+        "amarillas": 2,
+        "goles": 28,
+        "equipo": "VfR Aalen",
+        "asistencias": 137,
+        "id": "88",
+        "nombre": "Fatau Dauda",
+        "rojas": 8
+    },
+    "230": {
+        "faltas": 34,
+        "amarillas": 7,
+        "goles": 114,
+        "equipo": "VfR Aalen",
+        "asistencias": 273,
+        "id": "230",
+        "nombre": "Hansell Arauz",
+        "rojas": 9
+    },
+    "978": {
+        "faltas": 8,
+        "amarillas": 5,
+        "goles": 91,
+        "equipo": "VfR Aalen",
+        "asistencias": 259,
+        "id": "978",
+        "nombre": "Erazo",
+        "rojas": 7
+    },
+    "749": {
+        "faltas": 29,
+        "amarillas": 0,
+        "goles": 71,
+        "equipo": "VfR Aalen",
+        "asistencias": 242,
+        "id": "749",
+        "nombre": "Luis Montes",
+        "rojas": 0
+    },
+    "747": {
+        "faltas": 35,
+        "amarillas": 7,
+        "goles": 99,
+        "equipo": "VfR Aalen",
+        "asistencias": 178,
+        "id": "747",
+        "nombre": "Carlos Pe\u00c3\u00b1a",
+        "rojas": 2
+    },
+    "63": {
+        "faltas": 26,
+        "amarillas": 7,
+        "goles": 20,
+        "equipo": "VfR Aalen",
+        "asistencias": 80,
+        "id": "63",
+        "nombre": "Djamel Mesbah",
+        "rojas": 5
+    },
+    "860": {
+        "faltas": 1,
+        "amarillas": 3,
+        "goles": 1,
+        "equipo": "VfR Aalen",
+        "asistencias": 71,
+        "id": "860",
+        "nombre": "Carlos T\u00c3\u00a9vez",
+        "rojas": 3
+    },
+    "681": {
+        "faltas": 18,
+        "amarillas": 6,
+        "goles": 28,
+        "equipo": "VfR Aalen",
+        "asistencias": 217,
+        "id": "681",
+        "nombre": "Georgi Shchennikov",
+        "rojas": 9
+    }
+}

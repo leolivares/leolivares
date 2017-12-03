@@ -1,0 +1,132 @@
+{
+    "122": {
+        "faltas": 45,
+        "amarillas": 1,
+        "goles": 88,
+        "equipo": "Castilla",
+        "asistencias": 8,
+        "id": "122",
+        "nombre": "Benjamin",
+        "rojas": 4
+    },
+    "605": {
+        "faltas": 19,
+        "amarillas": 1,
+        "goles": 71,
+        "equipo": "Castilla",
+        "asistencias": 78,
+        "id": "605",
+        "nombre": "Giovinco",
+        "rojas": 8
+    },
+    "299": {
+        "faltas": 22,
+        "amarillas": 0,
+        "goles": 19,
+        "equipo": "Castilla",
+        "asistencias": 196,
+        "id": "299",
+        "nombre": "Nicolas Lombaerts",
+        "rojas": 8
+    },
+    "969": {
+        "faltas": 16,
+        "amarillas": 4,
+        "goles": 96,
+        "equipo": "Castilla",
+        "asistencias": 28,
+        "id": "969",
+        "nombre": "Guti\u00c3\u00a9rrez",
+        "rojas": 5
+    },
+    "553": {
+        "faltas": 12,
+        "amarillas": 5,
+        "goles": 41,
+        "equipo": "Castilla",
+        "asistencias": 147,
+        "id": "553",
+        "nombre": "Igor Bubnji\u00c4\u2021",
+        "rojas": 9
+    },
+    "933": {
+        "faltas": 19,
+        "amarillas": 2,
+        "goles": 116,
+        "equipo": "Castilla",
+        "asistencias": 134,
+        "id": "933",
+        "nombre": "Vargas",
+        "rojas": 10
+    },
+    "263": {
+        "faltas": 3,
+        "amarillas": 4,
+        "goles": 51,
+        "equipo": "Castilla",
+        "asistencias": 159,
+        "id": "263",
+        "nombre": "Dejan Bandovi\u00c4\u2021",
+        "rojas": 0
+    },
+    "244": {
+        "faltas": 29,
+        "amarillas": 1,
+        "goles": 122,
+        "equipo": "Castilla",
+        "asistencias": 244,
+        "id": "244",
+        "nombre": "Juan Carlos Garc\u00c3\u00ada",
+        "rojas": 4
+    },
+    "670": {
+        "faltas": 1,
+        "amarillas": 7,
+        "goles": 57,
+        "equipo": "Castilla",
+        "asistencias": 66,
+        "id": "670",
+        "nombre": "Hugo Almeida",
+        "rojas": 9
+    },
+    "576": {
+        "faltas": 0,
+        "amarillas": 4,
+        "goles": 3,
+        "equipo": "Castilla",
+        "asistencias": 82,
+        "id": "576",
+        "nombre": "Maggio",
+        "rojas": 9
+    },
+    "112": {
+        "faltas": 43,
+        "amarillas": 7,
+        "goles": 17,
+        "equipo": "Castilla",
+        "asistencias": 113,
+        "id": "112",
+        "nombre": "David Accam",
+        "rojas": 1
+    },
+    "773": {
+        "faltas": 35,
+        "amarillas": 6,
+        "goles": 91,
+        "equipo": "Castilla",
+        "asistencias": 13,
+        "id": "773",
+        "nombre": "John Brooks",
+        "rojas": 2
+    },
+    "621": {
+        "faltas": 16,
+        "amarillas": 2,
+        "goles": 11,
+        "equipo": "Castilla",
+        "asistencias": 95,
+        "id": "621",
+        "nombre": "Daryl Janmaat",
+        "rojas": 5
+    }
+}

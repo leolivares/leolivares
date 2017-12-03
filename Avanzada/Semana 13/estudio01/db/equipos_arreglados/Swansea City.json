@@ -1,0 +1,132 @@
+{
+    "868": {
+        "faltas": 15,
+        "amarillas": 4,
+        "goles": 47,
+        "equipo": "Swansea City",
+        "asistencias": 271,
+        "id": "868",
+        "nombre": "David Luiz",
+        "rojas": 1
+    },
+    "904": {
+        "faltas": 36,
+        "amarillas": 4,
+        "goles": 105,
+        "equipo": "Swansea City",
+        "asistencias": 271,
+        "id": "904",
+        "nombre": "Neymar Jr",
+        "rojas": 9
+    },
+    "998": {
+        "faltas": 11,
+        "amarillas": 4,
+        "goles": 44,
+        "equipo": "Swansea City",
+        "asistencias": 135,
+        "id": "998",
+        "nombre": "\u00c3\u0081ngel Mena",
+        "rojas": 9
+    },
+    "1031": {
+        "faltas": 18,
+        "amarillas": 4,
+        "goles": 107,
+        "equipo": "Swansea City",
+        "asistencias": 76,
+        "id": "1031",
+        "nombre": "Ram\u00c3\u00adrez",
+        "rojas": 3
+    },
+    "128": {
+        "faltas": 38,
+        "amarillas": 1,
+        "goles": 98,
+        "equipo": "Swansea City",
+        "asistencias": 257,
+        "id": "128",
+        "nombre": "Mikel",
+        "rojas": 5
+    },
+    "188": {
+        "faltas": 29,
+        "amarillas": 0,
+        "goles": 2,
+        "equipo": "Swansea City",
+        "asistencias": 138,
+        "id": "188",
+        "nombre": "Hong Jeong-Ho",
+        "rojas": 7
+    },
+    "228": {
+        "faltas": 42,
+        "amarillas": 0,
+        "goles": 100,
+        "equipo": "Swansea City",
+        "asistencias": 112,
+        "id": "228",
+        "nombre": "Esteban Granados",
+        "rojas": 9
+    },
+    "579": {
+        "faltas": 37,
+        "amarillas": 0,
+        "goles": 24,
+        "equipo": "Swansea City",
+        "asistencias": 18,
+        "id": "579",
+        "nombre": "De Sciglio",
+        "rojas": 3
+    },
+    "988": {
+        "faltas": 21,
+        "amarillas": 3,
+        "goles": 90,
+        "equipo": "Swansea City",
+        "asistencias": 197,
+        "id": "988",
+        "nombre": "Noboa",
+        "rojas": 10
+    },
+    "542": {
+        "faltas": 18,
+        "amarillas": 1,
+        "goles": 31,
+        "equipo": "Swansea City",
+        "asistencias": 236,
+        "id": "542",
+        "nombre": "Stipe Pletikosa",
+        "rojas": 9
+    },
+    "480": {
+        "faltas": 49,
+        "amarillas": 1,
+        "goles": 90,
+        "equipo": "Swansea City",
+        "asistencias": 140,
+        "id": "480",
+        "nombre": "Micka\u00c3\u00abl Landreau",
+        "rojas": 5
+    },
+    "903": {
+        "faltas": 17,
+        "amarillas": 2,
+        "goles": 31,
+        "equipo": "Swansea City",
+        "asistencias": 88,
+        "id": "903",
+        "nombre": "Andreas Pereira",
+        "rojas": 9
+    },
+    "835": {
+        "faltas": 30,
+        "amarillas": 5,
+        "goles": 38,
+        "equipo": "Swansea City",
+        "asistencias": 180,
+        "id": "835",
+        "nombre": "Jos\u00c3\u00a9 Mar\u00c3\u00ada Basanta",
+        "rojas": 10
+    }
+}

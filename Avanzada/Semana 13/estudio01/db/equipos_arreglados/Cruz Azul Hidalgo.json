@@ -1,0 +1,132 @@
+{
+    "203": {
+        "faltas": 5,
+        "amarillas": 0,
+        "goles": 70,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 85,
+        "id": "203",
+        "nombre": "Lee Keun-Ho",
+        "rojas": 4
+    },
+    "844": {
+        "faltas": 11,
+        "amarillas": 7,
+        "goles": 128,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 26,
+        "id": "844",
+        "nombre": "Maxi Rodr\u00c3\u00adguez",
+        "rojas": 2
+    },
+    "624": {
+        "faltas": 17,
+        "amarillas": 4,
+        "goles": 1,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 99,
+        "id": "624",
+        "nombre": "Jo\u00c3\u00abl Veltman",
+        "rojas": 3
+    },
+    "507": {
+        "faltas": 23,
+        "amarillas": 2,
+        "goles": 85,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 258,
+        "id": "507",
+        "nombre": "Francis Coquelin",
+        "rojas": 4
+    },
+    "1015": {
+        "faltas": 7,
+        "amarillas": 3,
+        "goles": 41,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 161,
+        "id": "1015",
+        "nombre": "C\u00c3\u00a1ceres",
+        "rojas": 10
+    },
+    "1": {
+        "faltas": 42,
+        "amarillas": 3,
+        "goles": 99,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 111,
+        "id": "1",
+        "nombre": "Boubacar Barry",
+        "rojas": 9
+    },
+    "626": {
+        "faltas": 29,
+        "amarillas": 3,
+        "goles": 104,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 69,
+        "id": "626",
+        "nombre": "Terence Kongolo",
+        "rojas": 7
+    },
+    "877": {
+        "faltas": 25,
+        "amarillas": 5,
+        "goles": 3,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 239,
+        "id": "877",
+        "nombre": "Miranda",
+        "rojas": 6
+    },
+    "518": {
+        "faltas": 42,
+        "amarillas": 4,
+        "goles": 27,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 23,
+        "id": "518",
+        "nombre": "Loukas Vyntra",
+        "rojas": 2
+    },
+    "334": {
+        "faltas": 46,
+        "amarillas": 5,
+        "goles": 110,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 8,
+        "id": "334",
+        "nombre": "Blerim D\u00c5\u00beemaili",
+        "rojas": 2
+    },
+    "404": {
+        "faltas": 16,
+        "amarillas": 0,
+        "goles": 124,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 144,
+        "id": "404",
+        "nombre": "Frank Lampard",
+        "rojas": 5
+    },
+    "7": {
+        "faltas": 14,
+        "amarillas": 7,
+        "goles": 83,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 64,
+        "id": "7",
+        "nombre": "Arthur Boka",
+        "rojas": 6
+    },
+    "909": {
+        "faltas": 14,
+        "amarillas": 0,
+        "goles": 43,
+        "equipo": "Cruz Azul Hidalgo",
+        "asistencias": 74,
+        "id": "909",
+        "nombre": "Paulo Garc\u00c3\u00a9s",
+        "rojas": 2
+    }
+}

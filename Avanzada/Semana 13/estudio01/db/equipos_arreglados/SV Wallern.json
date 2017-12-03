@@ -1,0 +1,132 @@
+{
+    "522": {
+        "faltas": 22,
+        "amarillas": 3,
+        "goles": 86,
+        "equipo": "SV Wallern",
+        "asistencias": 253,
+        "id": "522",
+        "nombre": "Vangelis Moras",
+        "rojas": 2
+    },
+    "533": {
+        "faltas": 44,
+        "amarillas": 5,
+        "goles": 118,
+        "equipo": "SV Wallern",
+        "asistencias": 198,
+        "id": "533",
+        "nombre": "Panagiotis Kone",
+        "rojas": 6
+    },
+    "644": {
+        "faltas": 12,
+        "amarillas": 3,
+        "goles": 19,
+        "equipo": "SV Wallern",
+        "asistencias": 225,
+        "id": "644",
+        "nombre": "Robin van Persie",
+        "rojas": 1
+    },
+    "34": {
+        "faltas": 31,
+        "amarillas": 1,
+        "goles": 91,
+        "equipo": "SV Wallern",
+        "asistencias": 52,
+        "id": "34",
+        "nombre": "Dany Nounkeu",
+        "rojas": 8
+    },
+    "397": {
+        "faltas": 19,
+        "amarillas": 7,
+        "goles": 17,
+        "equipo": "SV Wallern",
+        "asistencias": 14,
+        "id": "397",
+        "nombre": "Raheem Sterling",
+        "rojas": 4
+    },
+    "586": {
+        "faltas": 3,
+        "amarillas": 2,
+        "goles": 128,
+        "equipo": "SV Wallern",
+        "asistencias": 249,
+        "id": "586",
+        "nombre": "Matteo Darmian",
+        "rojas": 7
+    },
+    "233": {
+        "faltas": 28,
+        "amarillas": 3,
+        "goles": 35,
+        "equipo": "SV Wallern",
+        "asistencias": 227,
+        "id": "233",
+        "nombre": "Randall Brenes",
+        "rojas": 7
+    },
+    "1030": {
+        "faltas": 36,
+        "amarillas": 0,
+        "goles": 28,
+        "equipo": "SV Wallern",
+        "asistencias": 23,
+        "id": "1030",
+        "nombre": "Hern\u00c3\u00a1ndez",
+        "rojas": 4
+    },
+    "165": {
+        "faltas": 13,
+        "amarillas": 6,
+        "goles": 25,
+        "equipo": "SV Wallern",
+        "asistencias": 242,
+        "id": "165",
+        "nombre": "Masato Morishige",
+        "rojas": 9
+    },
+    "597": {
+        "faltas": 3,
+        "amarillas": 2,
+        "goles": 79,
+        "equipo": "SV Wallern",
+        "asistencias": 255,
+        "id": "597",
+        "nombre": "Marco Verratti",
+        "rojas": 4
+    },
+    "955": {
+        "faltas": 19,
+        "amarillas": 1,
+        "goles": 88,
+        "equipo": "SV Wallern",
+        "asistencias": 135,
+        "id": "955",
+        "nombre": "Brayan Angulo",
+        "rojas": 7
+    },
+    "995": {
+        "faltas": 7,
+        "amarillas": 2,
+        "goles": 54,
+        "equipo": "SV Wallern",
+        "asistencias": 112,
+        "id": "995",
+        "nombre": "Pedro Qui\u00c3\u00b1\u00c3\u00b3nez",
+        "rojas": 1
+    },
+    "583": {
+        "faltas": 44,
+        "amarillas": 1,
+        "goles": 92,
+        "equipo": "SV Wallern",
+        "asistencias": 84,
+        "id": "583",
+        "nombre": "Andrea Ranocchia",
+        "rojas": 5
+    }
+}

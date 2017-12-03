@@ -1,0 +1,132 @@
+{
+    "764": {
+        "faltas": 15,
+        "amarillas": 6,
+        "goles": 16,
+        "equipo": "TSV Hartberg",
+        "asistencias": 265,
+        "id": "764",
+        "nombre": "DaMarcus Beasley",
+        "rojas": 7
+    },
+    "801": {
+        "faltas": 44,
+        "amarillas": 7,
+        "goles": 69,
+        "equipo": "TSV Hartberg",
+        "asistencias": 228,
+        "id": "801",
+        "nombre": "Jason Davidson",
+        "rojas": 0
+    },
+    "647": {
+        "faltas": 26,
+        "amarillas": 3,
+        "goles": 29,
+        "equipo": "TSV Hartberg",
+        "asistencias": 176,
+        "id": "647",
+        "nombre": "Virgil Misidjan",
+        "rojas": 1
+    },
+    "946": {
+        "faltas": 43,
+        "amarillas": 0,
+        "goles": 4,
+        "equipo": "TSV Hartberg",
+        "asistencias": 229,
+        "id": "946",
+        "nombre": "Mosquera",
+        "rojas": 3
+    },
+    "84": {
+        "faltas": 4,
+        "amarillas": 5,
+        "goles": 111,
+        "equipo": "TSV Hartberg",
+        "asistencias": 52,
+        "id": "84",
+        "nombre": "El Arbi Hillel Soudani",
+        "rojas": 10
+    },
+    "312": {
+        "faltas": 46,
+        "amarillas": 0,
+        "goles": 24,
+        "equipo": "TSV Hartberg",
+        "asistencias": 91,
+        "id": "312",
+        "nombre": "Adnan Januzaj",
+        "rojas": 5
+    },
+    "356": {
+        "faltas": 5,
+        "amarillas": 3,
+        "goles": 96,
+        "equipo": "TSV Hartberg",
+        "asistencias": 81,
+        "id": "356",
+        "nombre": "Marcel Schmelzer",
+        "rojas": 1
+    },
+    "924": {
+        "faltas": 1,
+        "amarillas": 5,
+        "goles": 5,
+        "equipo": "TSV Hartberg",
+        "asistencias": 27,
+        "id": "924",
+        "nombre": "Jean Beausejour",
+        "rojas": 4
+    },
+    "534": {
+        "faltas": 34,
+        "amarillas": 6,
+        "goles": 110,
+        "equipo": "TSV Hartberg",
+        "asistencias": 18,
+        "id": "534",
+        "nombre": "Panagiotis Tachtsidis",
+        "rojas": 0
+    },
+    "837": {
+        "faltas": 3,
+        "amarillas": 5,
+        "goles": 114,
+        "equipo": "TSV Hartberg",
+        "asistencias": 105,
+        "id": "837",
+        "nombre": "Gabriel Mercado",
+        "rojas": 3
+    },
+    "313": {
+        "faltas": 43,
+        "amarillas": 2,
+        "goles": 93,
+        "equipo": "TSV Hartberg",
+        "asistencias": 62,
+        "id": "313",
+        "nombre": "Romelu Lukaku",
+        "rojas": 1
+    },
+    "811": {
+        "faltas": 49,
+        "amarillas": 6,
+        "goles": 28,
+        "equipo": "TSV Hartberg",
+        "asistencias": 185,
+        "id": "811",
+        "nombre": "James Holland",
+        "rojas": 4
+    },
+    "782": {
+        "faltas": 42,
+        "amarillas": 7,
+        "goles": 3,
+        "equipo": "TSV Hartberg",
+        "asistencias": 37,
+        "id": "782",
+        "nombre": "Brad Davis",
+        "rojas": 5
+    }
+}

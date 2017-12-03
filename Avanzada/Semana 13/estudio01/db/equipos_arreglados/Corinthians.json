@@ -1,0 +1,132 @@
+{
+    "415": {
+        "faltas": 35,
+        "amarillas": 2,
+        "goles": 26,
+        "equipo": "Corinthians",
+        "asistencias": 122,
+        "id": "415",
+        "nombre": "Scott Sinclair",
+        "rojas": 0
+    },
+    "591": {
+        "faltas": 27,
+        "amarillas": 3,
+        "goles": 50,
+        "equipo": "Corinthians",
+        "asistencias": 22,
+        "id": "591",
+        "nombre": "De Rossi",
+        "rojas": 4
+    },
+    "786": {
+        "faltas": 27,
+        "amarillas": 1,
+        "goles": 8,
+        "equipo": "Corinthians",
+        "asistencias": 256,
+        "id": "786",
+        "nombre": "Clint Dempsey",
+        "rojas": 2
+    },
+    "652": {
+        "faltas": 21,
+        "amarillas": 0,
+        "goles": 88,
+        "equipo": "Corinthians",
+        "asistencias": 204,
+        "id": "652",
+        "nombre": "F\u00c3\u00a1bio Coentr\u00c3\u00a3o",
+        "rojas": 10
+    },
+    "347": {
+        "faltas": 47,
+        "amarillas": 7,
+        "goles": 92,
+        "equipo": "Corinthians",
+        "asistencias": 210,
+        "id": "347",
+        "nombre": "Miroslav Klose",
+        "rojas": 10
+    },
+    "357": {
+        "faltas": 19,
+        "amarillas": 0,
+        "goles": 9,
+        "equipo": "Corinthians",
+        "asistencias": 122,
+        "id": "357",
+        "nombre": "Kevin Gro\u00c3\u0178kreutz",
+        "rojas": 7
+    },
+    "778": {
+        "faltas": 24,
+        "amarillas": 1,
+        "goles": 107,
+        "equipo": "Corinthians",
+        "asistencias": 175,
+        "id": "778",
+        "nombre": "Kyle Beckerman",
+        "rojas": 6
+    },
+    "74": {
+        "faltas": 12,
+        "amarillas": 3,
+        "goles": 116,
+        "equipo": "Corinthians",
+        "asistencias": 106,
+        "id": "74",
+        "nombre": "Mehdi Mostefa",
+        "rojas": 9
+    },
+    "91": {
+        "faltas": 12,
+        "amarillas": 7,
+        "goles": 30,
+        "equipo": "Corinthians",
+        "asistencias": 182,
+        "id": "91",
+        "nombre": "Harrison Afful",
+        "rojas": 8
+    },
+    "1016": {
+        "faltas": 3,
+        "amarillas": 6,
+        "goles": 92,
+        "equipo": "Corinthians",
+        "asistencias": 171,
+        "id": "1016",
+        "nombre": "Jorge Fucile",
+        "rojas": 6
+    },
+    "680": {
+        "faltas": 50,
+        "amarillas": 7,
+        "goles": 62,
+        "equipo": "Corinthians",
+        "asistencias": 150,
+        "id": "680",
+        "nombre": "Vladimir Granat",
+        "rojas": 3
+    },
+    "573": {
+        "faltas": 40,
+        "amarillas": 5,
+        "goles": 81,
+        "equipo": "Corinthians",
+        "asistencias": 223,
+        "id": "573",
+        "nombre": "Marchetti",
+        "rojas": 0
+    },
+    "640": {
+        "faltas": 4,
+        "amarillas": 2,
+        "goles": 88,
+        "equipo": "Corinthians",
+        "asistencias": 82,
+        "id": "640",
+        "nombre": "Quincy Promes",
+        "rojas": 1
+    }
+}

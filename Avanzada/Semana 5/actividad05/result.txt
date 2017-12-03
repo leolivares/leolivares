@@ -1,0 +1,20 @@
+Student: Hugo Navarrete
+Gender: Masculino
+Comment: Necesito ese curso
+########################################
+Student: Bastian Mavrakis
+Gender: Reptiliano
+Comment: Necesito ese curso
+########################################
+Student: Stephanie Chau
+Gender: Femenino
+Comment: Es un curso muy dificil, casi para koreanos por lo que quiero tomarlo para demostrar que es trivial
+########################################
+Student: Fernando Pieressa
+Gender: Sin definir
+Comment: Quiero volver a tomarlo
+########################################
+Student: Hugo Navarrete
+Gender: Error 404-Not found
+Comment: Dicen que es mejor que avanzada o.o
+########################################

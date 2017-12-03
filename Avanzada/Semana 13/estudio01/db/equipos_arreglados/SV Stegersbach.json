@@ -1,0 +1,132 @@
+{
+    "602": {
+        "faltas": 3,
+        "amarillas": 7,
+        "goles": 40,
+        "equipo": "SV Stegersbach",
+        "asistencias": 270,
+        "id": "602",
+        "nombre": "Simone Padoin",
+        "rojas": 8
+    },
+    "913": {
+        "faltas": 50,
+        "amarillas": 0,
+        "goles": 92,
+        "equipo": "SV Stegersbach",
+        "asistencias": 207,
+        "id": "913",
+        "nombre": "Acevedo",
+        "rojas": 1
+    },
+    "521": {
+        "faltas": 10,
+        "amarillas": 6,
+        "goles": 114,
+        "equipo": "SV Stegersbach",
+        "asistencias": 134,
+        "id": "521",
+        "nombre": "Jos\u00c3\u00a9 Holebas",
+        "rojas": 9
+    },
+    "326": {
+        "faltas": 7,
+        "amarillas": 6,
+        "goles": 80,
+        "equipo": "SV Stegersbach",
+        "asistencias": 181,
+        "id": "326",
+        "nombre": "Fabian Sch\u00c3\u00a4r",
+        "rojas": 10
+    },
+    "729": {
+        "faltas": 38,
+        "amarillas": 5,
+        "goles": 67,
+        "equipo": "SV Stegersbach",
+        "asistencias": 136,
+        "id": "729",
+        "nombre": "F. Rodr\u00c3\u00adguez",
+        "rojas": 8
+    },
+    "339": {
+        "faltas": 20,
+        "amarillas": 3,
+        "goles": 12,
+        "equipo": "SV Stegersbach",
+        "asistencias": 156,
+        "id": "339",
+        "nombre": "Luca Zuffi",
+        "rojas": 6
+    },
+    "358": {
+        "faltas": 48,
+        "amarillas": 6,
+        "goles": 101,
+        "equipo": "SV Stegersbach",
+        "asistencias": 53,
+        "id": "358",
+        "nombre": "Bastian Schweinsteiger",
+        "rojas": 6
+    },
+    "150": {
+        "faltas": 13,
+        "amarillas": 2,
+        "goles": 68,
+        "equipo": "SV Stegersbach",
+        "asistencias": 78,
+        "id": "150",
+        "nombre": "Shola Ameobi",
+        "rojas": 9
+    },
+    "705": {
+        "faltas": 11,
+        "amarillas": 1,
+        "goles": 104,
+        "equipo": "SV Stegersbach",
+        "asistencias": 86,
+        "id": "705",
+        "nombre": "Hossein Mahini",
+        "rojas": 6
+    },
+    "723": {
+        "faltas": 38,
+        "amarillas": 0,
+        "goles": 103,
+        "equipo": "SV Stegersbach",
+        "asistencias": 60,
+        "id": "723",
+        "nombre": "Reza Norouzi",
+        "rojas": 2
+    },
+    "212": {
+        "faltas": 26,
+        "amarillas": 5,
+        "goles": 66,
+        "equipo": "SV Stegersbach",
+        "asistencias": 16,
+        "id": "212",
+        "nombre": "J\u00c3\u00banior D\u00c3\u00adaz",
+        "rojas": 4
+    },
+    "798": {
+        "faltas": 25,
+        "amarillas": 3,
+        "goles": 103,
+        "equipo": "SV Stegersbach",
+        "asistencias": 146,
+        "id": "798",
+        "nombre": "Matthew \u00c5\u00a0piranovi\u00c4\u2021",
+        "rojas": 7
+    },
+    "1024": {
+        "faltas": 7,
+        "amarillas": 7,
+        "goles": 19,
+        "equipo": "SV Stegersbach",
+        "asistencias": 120,
+        "id": "1024",
+        "nombre": "P\u00c3\u00a9rez",
+        "rojas": 0
+    }
+}

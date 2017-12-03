@@ -1,0 +1,190 @@
+------------ Consulta 1 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 2 --------------
+Emilio Gabriele
+------------ Consulta 3 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 4 --------------
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 5 --------------
+Jesús De Nazaret
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Octavio Vera
+Gabriel Lyon
+Gustavo Prudencio
+Germán Contreras
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 6 --------------
+Hakalamax Atalapastruka
+Henry Boys
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Octavio Vera
+Gabriel Lyon
+Isaac Carrera
+Gustavo Prudencio
+Germán Contreras
+Jurgen Heysen
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 7 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 8 --------------
+Albina
+------------ Consulta 9 --------------
+Albina
+------------ Consulta 10 --------------
+Sebastian Cruz
+------------ Consulta 11 --------------
+El Chuña
+------------ Consulta 12 --------------
+Blanco
+------------ Consulta 13 --------------
+Miopia
+Daltonismo
+------------ Consulta 14 --------------
+Atleta
+------------ Consulta 15 --------------
+Miopia
+Daltonismo
+------------ Consulta 1 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 2 --------------
+Emilio Gabriele
+------------ Consulta 3 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 4 --------------
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 5 --------------
+Jesús De Nazaret
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Octavio Vera
+Gabriel Lyon
+Gustavo Prudencio
+Germán Contreras
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 6 --------------
+Hakalamax Atalapastruka
+Henry Boys
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Octavio Vera
+Gabriel Lyon
+Isaac Carrera
+Gustavo Prudencio
+Germán Contreras
+Jurgen Heysen
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 7 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 8 --------------
+Albina
+------------ Consulta 9 --------------
+Albina
+------------ Consulta 10 --------------
+Sebastian Cruz
+------------ Consulta 11 --------------
+El Chuña
+------------ Consulta 12 --------------
+Blanco
+------------ Consulta 13 --------------
+Daltonismo
+Miopia
+------------ Consulta 14 --------------
+Atleta
+------------ Consulta 15 --------------
+Daltonismo
+Miopia
+------------ Consulta 16 --------------
+Bubblechart
+------------ Consulta 17 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 18 --------------
+Emilio Gabriele
+------------ Consulta 19 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 20 --------------
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 21 --------------
+Jesús De Nazaret
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Octavio Vera
+Gabriel Lyon
+Gustavo Prudencio
+Germán Contreras
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 22 --------------
+Hakalamax Atalapastruka
+Henry Boys
+El Chuña
+Sterling Archer
+fringles inthestreet
+Ivania Donoso
+Florencia Barrios
+Octavio Vera
+Gabriel Lyon
+Isaac Carrera
+Gustavo Prudencio
+Germán Contreras
+Jurgen Heysen
+Luis Leiva
+Felipe Pezoa
+------------ Consulta 23 --------------
+NotAcceptable: La consulta no arrojó resultados
+------------ Consulta 24 --------------
+Albina
+------------ Consulta 25 --------------
+Albina
+------------ Consulta 26 --------------
+Sebastian Cruz
+------------ Consulta 27 --------------
+El Chuña
+------------ Consulta 28 --------------
+Blanco
+------------ Consulta 29 --------------
+Daltonismo
+Miopia
+------------ Consulta 30 --------------
+Atleta
+------------ Consulta 31 --------------
+Daltonismo
+Miopia
+------------ Consulta 32 --------------
+Bubblechart

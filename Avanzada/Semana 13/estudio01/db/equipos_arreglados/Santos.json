@@ -1,0 +1,132 @@
+{
+    "907": {
+        "faltas": 15,
+        "amarillas": 6,
+        "goles": 73,
+        "equipo": "Santos",
+        "asistencias": 179,
+        "id": "907",
+        "nombre": "Herrera",
+        "rojas": 10
+    },
+    "142": {
+        "faltas": 15,
+        "amarillas": 7,
+        "goles": 126,
+        "equipo": "Santos",
+        "asistencias": 202,
+        "id": "142",
+        "nombre": "Ideye",
+        "rojas": 10
+    },
+    "841": {
+        "faltas": 26,
+        "amarillas": 2,
+        "goles": 37,
+        "equipo": "Santos",
+        "asistencias": 207,
+        "id": "841",
+        "nombre": "Mascherano",
+        "rojas": 4
+    },
+    "657": {
+        "faltas": 44,
+        "amarillas": 1,
+        "goles": 125,
+        "equipo": "Santos",
+        "asistencias": 35,
+        "id": "657",
+        "nombre": "Raul Meireles",
+        "rojas": 10
+    },
+    "989": {
+        "faltas": 28,
+        "amarillas": 4,
+        "goles": 101,
+        "equipo": "Santos",
+        "asistencias": 204,
+        "id": "989",
+        "nombre": "Saritama",
+        "rojas": 2
+    },
+    "568": {
+        "faltas": 4,
+        "amarillas": 3,
+        "goles": 26,
+        "equipo": "Santos",
+        "asistencias": 40,
+        "id": "568",
+        "nombre": "Nikica Jelavi\u00c4\u2021",
+        "rojas": 9
+    },
+    "556": {
+        "faltas": 47,
+        "amarillas": 1,
+        "goles": 61,
+        "equipo": "Santos",
+        "asistencias": 39,
+        "id": "556",
+        "nombre": "Ivan Rakiti\u00c4\u2021",
+        "rojas": 8
+    },
+    "284": {
+        "faltas": 40,
+        "amarillas": 4,
+        "goles": 36,
+        "equipo": "Santos",
+        "asistencias": 123,
+        "id": "284",
+        "nombre": "Tino-Sven Su\u00c5\u00a1i\u00c4\u2021",
+        "rojas": 7
+    },
+    "416": {
+        "faltas": 30,
+        "amarillas": 7,
+        "goles": 65,
+        "equipo": "Santos",
+        "asistencias": 258,
+        "id": "416",
+        "nombre": "Wayne Rooney",
+        "rojas": 3
+    },
+    "473": {
+        "faltas": 16,
+        "amarillas": 4,
+        "goles": 118,
+        "equipo": "Santos",
+        "asistencias": 129,
+        "id": "473",
+        "nombre": "Soldado",
+        "rojas": 3
+    },
+    "426": {
+        "faltas": 50,
+        "amarillas": 4,
+        "goles": 124,
+        "equipo": "Santos",
+        "asistencias": 95,
+        "id": "426",
+        "nombre": "Reina",
+        "rojas": 4
+    },
+    "949": {
+        "faltas": 40,
+        "amarillas": 0,
+        "goles": 90,
+        "equipo": "Santos",
+        "asistencias": 232,
+        "id": "949",
+        "nombre": "Z\u00c3\u00ba\u00c3\u00b1iga",
+        "rojas": 6
+    },
+    "249": {
+        "faltas": 0,
+        "amarillas": 6,
+        "goles": 94,
+        "equipo": "Santos",
+        "asistencias": 6,
+        "id": "249",
+        "nombre": "Jorge Claros",
+        "rojas": 2
+    }
+}

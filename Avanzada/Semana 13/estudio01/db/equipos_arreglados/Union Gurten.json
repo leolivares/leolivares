@@ -1,0 +1,132 @@
+{
+    "225": {
+        "faltas": 47,
+        "amarillas": 6,
+        "goles": 119,
+        "equipo": "Union Gurten",
+        "asistencias": 255,
+        "id": "225",
+        "nombre": "Jos\u00c3\u00a9 Miguel Cubero",
+        "rojas": 4
+    },
+    "370": {
+        "faltas": 6,
+        "amarillas": 6,
+        "goles": 45,
+        "equipo": "Union Gurten",
+        "asistencias": 38,
+        "id": "370",
+        "nombre": "Julian Draxler",
+        "rojas": 6
+    },
+    "545": {
+        "faltas": 26,
+        "amarillas": 2,
+        "goles": 14,
+        "equipo": "Union Gurten",
+        "asistencias": 80,
+        "id": "545",
+        "nombre": "Darijo Srna",
+        "rojas": 3
+    },
+    "588": {
+        "faltas": 15,
+        "amarillas": 7,
+        "goles": 55,
+        "equipo": "Union Gurten",
+        "asistencias": 11,
+        "id": "588",
+        "nombre": "Candreva",
+        "rojas": 0
+    },
+    "660": {
+        "faltas": 49,
+        "amarillas": 1,
+        "goles": 127,
+        "equipo": "Union Gurten",
+        "asistencias": 66,
+        "id": "660",
+        "nombre": "Miguel Veloso",
+        "rojas": 0
+    },
+    "409": {
+        "faltas": 7,
+        "amarillas": 5,
+        "goles": 118,
+        "equipo": "Union Gurten",
+        "asistencias": 267,
+        "id": "409",
+        "nombre": "Ross Barkley",
+        "rojas": 5
+    },
+    "57": {
+        "faltas": 38,
+        "amarillas": 1,
+        "goles": 62,
+        "equipo": "Union Gurten",
+        "asistencias": 32,
+        "id": "57",
+        "nombre": "Ra\u00c3\u00afs M'Bolhi",
+        "rojas": 9
+    },
+    "506": {
+        "faltas": 24,
+        "amarillas": 2,
+        "goles": 45,
+        "equipo": "Union Gurten",
+        "asistencias": 232,
+        "id": "506",
+        "nombre": "Abou Diaby",
+        "rojas": 5
+    },
+    "817": {
+        "faltas": 0,
+        "amarillas": 0,
+        "goles": 114,
+        "equipo": "Union Gurten",
+        "asistencias": 153,
+        "id": "817",
+        "nombre": "Massimo Luongo",
+        "rojas": 5
+    },
+    "704": {
+        "faltas": 32,
+        "amarillas": 4,
+        "goles": 13,
+        "equipo": "Union Gurten",
+        "asistencias": 161,
+        "id": "704",
+        "nombre": "Pejman Montazeri",
+        "rojas": 0
+    },
+    "26": {
+        "faltas": 39,
+        "amarillas": 1,
+        "goles": 122,
+        "equipo": "Union Gurten",
+        "asistencias": 142,
+        "id": "26",
+        "nombre": "Mathis Bolly",
+        "rojas": 10
+    },
+    "180": {
+        "faltas": 26,
+        "amarillas": 7,
+        "goles": 37,
+        "equipo": "Union Gurten",
+        "asistencias": 175,
+        "id": "180",
+        "nombre": "Yoshito \u00c5\u0152kubo",
+        "rojas": 7
+    },
+    "762": {
+        "faltas": 5,
+        "amarillas": 6,
+        "goles": 98,
+        "equipo": "Union Gurten",
+        "asistencias": 174,
+        "id": "762",
+        "nombre": "Brad Guzan",
+        "rojas": 0
+    }
+}

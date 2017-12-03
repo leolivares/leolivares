@@ -1,0 +1,132 @@
+{
+    "921": {
+        "faltas": 6,
+        "amarillas": 4,
+        "goles": 118,
+        "equipo": "Dorados",
+        "asistencias": 243,
+        "id": "921",
+        "nombre": "M. Fernandez",
+        "rojas": 4
+    },
+    "682": {
+        "faltas": 46,
+        "amarillas": 6,
+        "goles": 32,
+        "equipo": "Dorados",
+        "asistencias": 103,
+        "id": "682",
+        "nombre": "Andrei Semyonov",
+        "rojas": 10
+    },
+    "116": {
+        "faltas": 14,
+        "amarillas": 3,
+        "goles": 47,
+        "equipo": "Dorados",
+        "asistencias": 111,
+        "id": "116",
+        "nombre": "Daniel Akpeyi",
+        "rojas": 1
+    },
+    "425": {
+        "faltas": 46,
+        "amarillas": 2,
+        "goles": 77,
+        "equipo": "Dorados",
+        "asistencias": 62,
+        "id": "425",
+        "nombre": "V. Vald\u00c3\u00a9s",
+        "rojas": 1
+    },
+    "117": {
+        "faltas": 50,
+        "amarillas": 7,
+        "goles": 111,
+        "equipo": "Dorados",
+        "asistencias": 195,
+        "id": "117",
+        "nombre": "Oboabona",
+        "rojas": 3
+    },
+    "360": {
+        "faltas": 28,
+        "amarillas": 2,
+        "goles": 118,
+        "equipo": "Dorados",
+        "asistencias": 248,
+        "id": "360",
+        "nombre": "Sami Khedira",
+        "rojas": 0
+    },
+    "201": {
+        "faltas": 49,
+        "amarillas": 3,
+        "goles": 9,
+        "equipo": "Dorados",
+        "asistencias": 99,
+        "id": "201",
+        "nombre": "Han Kook-Young",
+        "rojas": 4
+    },
+    "961": {
+        "faltas": 21,
+        "amarillas": 0,
+        "goles": 117,
+        "equipo": "Dorados",
+        "asistencias": 28,
+        "id": "961",
+        "nombre": "Macnelly Torres",
+        "rojas": 10
+    },
+    "513": {
+        "faltas": 10,
+        "amarillas": 7,
+        "goles": 125,
+        "equipo": "Dorados",
+        "asistencias": 34,
+        "id": "513",
+        "nombre": "Yaya Sanogo",
+        "rojas": 0
+    },
+    "679": {
+        "faltas": 29,
+        "amarillas": 3,
+        "goles": 37,
+        "equipo": "Dorados",
+        "asistencias": 76,
+        "id": "679",
+        "nombre": "Aleksei Kozlov",
+        "rojas": 0
+    },
+    "659": {
+        "faltas": 44,
+        "amarillas": 4,
+        "goles": 49,
+        "equipo": "Dorados",
+        "asistencias": 217,
+        "id": "659",
+        "nombre": "Jo\u00c3\u00a3o Moutinho",
+        "rojas": 7
+    },
+    "440": {
+        "faltas": 47,
+        "amarillas": 4,
+        "goles": 29,
+        "equipo": "Dorados",
+        "asistencias": 158,
+        "id": "440",
+        "nombre": "Daniel Carvajal",
+        "rojas": 0
+    },
+    "699": {
+        "faltas": 8,
+        "amarillas": 2,
+        "goles": 70,
+        "equipo": "Dorados",
+        "asistencias": 151,
+        "id": "699",
+        "nombre": "Sosha Makani",
+        "rojas": 0
+    }
+}

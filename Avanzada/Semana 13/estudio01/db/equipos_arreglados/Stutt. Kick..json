@@ -1,0 +1,132 @@
+{
+    "451": {
+        "faltas": 2,
+        "amarillas": 7,
+        "goles": 86,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 91,
+        "id": "451",
+        "nombre": "Sergio",
+        "rojas": 2
+    },
+    "309": {
+        "faltas": 5,
+        "amarillas": 1,
+        "goles": 111,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 138,
+        "id": "309",
+        "nombre": "Steven Defour",
+        "rojas": 6
+    },
+    "908": {
+        "faltas": 13,
+        "amarillas": 1,
+        "goles": 83,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 193,
+        "id": "908",
+        "nombre": "Cristopher Toselli",
+        "rojas": 8
+    },
+    "223": {
+        "faltas": 30,
+        "amarillas": 6,
+        "goles": 110,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 198,
+        "id": "223",
+        "nombre": "Michael Barrantes",
+        "rojas": 5
+    },
+    "191": {
+        "faltas": 28,
+        "amarillas": 4,
+        "goles": 73,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 152,
+        "id": "191",
+        "nombre": "Kim Jin-Su",
+        "rojas": 8
+    },
+    "213": {
+        "faltas": 48,
+        "amarillas": 7,
+        "goles": 126,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 93,
+        "id": "213",
+        "nombre": "Roy Miller",
+        "rojas": 4
+    },
+    "825": {
+        "faltas": 4,
+        "amarillas": 3,
+        "goles": 51,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 97,
+        "id": "825",
+        "nombre": "Ori\u00c3\u00b3n",
+        "rojas": 0
+    },
+    "479": {
+        "faltas": 25,
+        "amarillas": 0,
+        "goles": 23,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 18,
+        "id": "479",
+        "nombre": "Hugo Lloris",
+        "rojas": 6
+    },
+    "656": {
+        "faltas": 48,
+        "amarillas": 6,
+        "goles": 22,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 228,
+        "id": "656",
+        "nombre": "Andr\u00c3\u00a9 Almeida",
+        "rojas": 5
+    },
+    "736": {
+        "faltas": 17,
+        "amarillas": 4,
+        "goles": 25,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 269,
+        "id": "736",
+        "nombre": "C. Salcido",
+        "rojas": 2
+    },
+    "753": {
+        "faltas": 49,
+        "amarillas": 2,
+        "goles": 57,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 137,
+        "id": "753",
+        "nombre": "A. Reyna",
+        "rojas": 1
+    },
+    "5": {
+        "faltas": 25,
+        "amarillas": 5,
+        "goles": 36,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 244,
+        "id": "5",
+        "nombre": "Didier Zokora",
+        "rojas": 9
+    },
+    "550": {
+        "faltas": 33,
+        "amarillas": 5,
+        "goles": 52,
+        "equipo": "Stutt. Kick.",
+        "asistencias": 113,
+        "id": "550",
+        "nombre": "Domagoj Vida",
+        "rojas": 8
+    }
+}

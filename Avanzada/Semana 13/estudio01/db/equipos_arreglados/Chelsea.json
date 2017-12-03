@@ -1,0 +1,132 @@
+{
+    "70": {
+        "faltas": 28,
+        "amarillas": 1,
+        "goles": 93,
+        "equipo": "Chelsea",
+        "asistencias": 74,
+        "id": "70",
+        "nombre": "Medhi Lacen",
+        "rojas": 6
+    },
+    "103": {
+        "faltas": 35,
+        "amarillas": 0,
+        "goles": 88,
+        "equipo": "Chelsea",
+        "asistencias": 36,
+        "id": "103",
+        "nombre": "Christian Atsu",
+        "rojas": 4
+    },
+    "931": {
+        "faltas": 16,
+        "amarillas": 0,
+        "goles": 86,
+        "equipo": "Chelsea",
+        "asistencias": 199,
+        "id": "931",
+        "nombre": "S\u00c3\u00a1nchez",
+        "rojas": 2
+    },
+    "668": {
+        "faltas": 17,
+        "amarillas": 0,
+        "goles": 108,
+        "equipo": "Chelsea",
+        "asistencias": 229,
+        "id": "668",
+        "nombre": "Cristiano Ronaldo",
+        "rojas": 7
+    },
+    "372": {
+        "faltas": 32,
+        "amarillas": 0,
+        "goles": 42,
+        "equipo": "Chelsea",
+        "asistencias": 176,
+        "id": "372",
+        "nombre": "Emre Can",
+        "rojas": 8
+    },
+    "943": {
+        "faltas": 35,
+        "amarillas": 6,
+        "goles": 19,
+        "equipo": "Chelsea",
+        "asistencias": 145,
+        "id": "943",
+        "nombre": "Camilo Vargas",
+        "rojas": 10
+    },
+    "396": {
+        "faltas": 17,
+        "amarillas": 4,
+        "goles": 76,
+        "equipo": "Chelsea",
+        "asistencias": 91,
+        "id": "396",
+        "nombre": "Lloyd Jones",
+        "rojas": 7
+    },
+    "464": {
+        "faltas": 24,
+        "amarillas": 3,
+        "goles": 30,
+        "equipo": "Chelsea",
+        "asistencias": 215,
+        "id": "464",
+        "nombre": "Asier Illarramendi",
+        "rojas": 7
+    },
+    "245": {
+        "faltas": 33,
+        "amarillas": 1,
+        "goles": 89,
+        "equipo": "Chelsea",
+        "asistencias": 77,
+        "id": "245",
+        "nombre": "Brayan Beckeles",
+        "rojas": 8
+    },
+    "517": {
+        "faltas": 17,
+        "amarillas": 1,
+        "goles": 13,
+        "equipo": "Chelsea",
+        "asistencias": 146,
+        "id": "517",
+        "nombre": "Vasilis Torosidis",
+        "rojas": 2
+    },
+    "497": {
+        "faltas": 43,
+        "amarillas": 6,
+        "goles": 97,
+        "equipo": "Chelsea",
+        "asistencias": 181,
+        "id": "497",
+        "nombre": "Yohan Cabaye",
+        "rojas": 4
+    },
+    "661": {
+        "faltas": 30,
+        "amarillas": 4,
+        "goles": 95,
+        "equipo": "Chelsea",
+        "asistencias": 25,
+        "id": "661",
+        "nombre": "Silvestre Varela",
+        "rojas": 4
+    },
+    "772": {
+        "faltas": 8,
+        "amarillas": 5,
+        "goles": 28,
+        "equipo": "Chelsea",
+        "asistencias": 145,
+        "id": "772",
+        "nombre": "Timothy Chandler",
+        "rojas": 0
+    }
+}

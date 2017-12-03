@@ -1,0 +1,132 @@
+{
+    "337": {
+        "faltas": 10,
+        "amarillas": 1,
+        "goles": 60,
+        "equipo": "Leicester City",
+        "asistencias": 74,
+        "id": "337",
+        "nombre": "Valentin Stocker",
+        "rojas": 8
+    },
+    "390": {
+        "faltas": 37,
+        "amarillas": 1,
+        "goles": 63,
+        "equipo": "Leicester City",
+        "asistencias": 88,
+        "id": "390",
+        "nombre": "Luke Shaw",
+        "rojas": 5
+    },
+    "780": {
+        "faltas": 20,
+        "amarillas": 5,
+        "goles": 9,
+        "equipo": "Leicester City",
+        "asistencias": 25,
+        "id": "780",
+        "nombre": "Graham Zusi",
+        "rojas": 6
+    },
+    "350": {
+        "faltas": 43,
+        "amarillas": 0,
+        "goles": 43,
+        "equipo": "Leicester City",
+        "asistencias": 172,
+        "id": "350",
+        "nombre": "Roman Weidenfeller",
+        "rojas": 3
+    },
+    "761": {
+        "faltas": 20,
+        "amarillas": 0,
+        "goles": 110,
+        "equipo": "Leicester City",
+        "asistencias": 273,
+        "id": "761",
+        "nombre": "Tim Howard",
+        "rojas": 3
+    },
+    "940": {
+        "faltas": 45,
+        "amarillas": 4,
+        "goles": 90,
+        "equipo": "Leicester City",
+        "asistencias": 212,
+        "id": "940",
+        "nombre": "Castillo",
+        "rojas": 1
+    },
+    "1022": {
+        "faltas": 2,
+        "amarillas": 0,
+        "goles": 62,
+        "equipo": "Leicester City",
+        "asistencias": 232,
+        "id": "1022",
+        "nombre": "Eguren",
+        "rojas": 3
+    },
+    "538": {
+        "faltas": 5,
+        "amarillas": 4,
+        "goles": 116,
+        "equipo": "Leicester City",
+        "asistencias": 224,
+        "id": "538",
+        "nombre": "Giorgos Samaras",
+        "rojas": 6
+    },
+    "1034": {
+        "faltas": 26,
+        "amarillas": 4,
+        "goles": 125,
+        "equipo": "Leicester City",
+        "asistencias": 153,
+        "id": "1034",
+        "nombre": "Joel Matip",
+        "rojas": 4
+    },
+    "752": {
+        "faltas": 20,
+        "amarillas": 6,
+        "goles": 21,
+        "equipo": "Leicester City",
+        "asistencias": 179,
+        "id": "752",
+        "nombre": "Jos\u00c3\u00a9 Juan V\u00c3\u00a1zquez",
+        "rojas": 10
+    },
+    "653": {
+        "faltas": 3,
+        "amarillas": 2,
+        "goles": 99,
+        "equipo": "Leicester City",
+        "asistencias": 260,
+        "id": "653",
+        "nombre": "Jo\u00c3\u00a3o Pereira",
+        "rojas": 6
+    },
+    "29": {
+        "faltas": 38,
+        "amarillas": 6,
+        "goles": 122,
+        "equipo": "Leicester City",
+        "asistencias": 113,
+        "id": "29",
+        "nombre": "Guy N'dy Assemb\u00c3\u00a9",
+        "rojas": 3
+    },
+    "75": {
+        "faltas": 45,
+        "amarillas": 6,
+        "goles": 76,
+        "equipo": "Leicester City",
+        "asistencias": 9,
+        "id": "75",
+        "nombre": "Sofiane Feghouli",
+        "rojas": 10
+    }
+}

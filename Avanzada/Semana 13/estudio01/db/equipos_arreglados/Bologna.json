@@ -1,0 +1,132 @@
+{
+    "371": {
+        "faltas": 38,
+        "amarillas": 7,
+        "goles": 32,
+        "equipo": "Bologna",
+        "asistencias": 255,
+        "id": "371",
+        "nombre": "Christoph Kramer",
+        "rojas": 9
+    },
+    "879": {
+        "faltas": 37,
+        "amarillas": 7,
+        "goles": 121,
+        "equipo": "Bologna",
+        "asistencias": 238,
+        "id": "879",
+        "nombre": "Leandro Salino",
+        "rojas": 7
+    },
+    "163": {
+        "faltas": 13,
+        "amarillas": 5,
+        "goles": 127,
+        "equipo": "Bologna",
+        "asistencias": 1,
+        "id": "163",
+        "nombre": "H. Sakai",
+        "rojas": 8
+    },
+    "346": {
+        "faltas": 3,
+        "amarillas": 1,
+        "goles": 112,
+        "equipo": "Bologna",
+        "asistencias": 119,
+        "id": "346",
+        "nombre": "Marco Streller",
+        "rojas": 3
+    },
+    "776": {
+        "faltas": 36,
+        "amarillas": 0,
+        "goles": 41,
+        "equipo": "Bologna",
+        "asistencias": 191,
+        "id": "776",
+        "nombre": "Maurice Edu",
+        "rojas": 8
+    },
+    "512": {
+        "faltas": 33,
+        "amarillas": 1,
+        "goles": 46,
+        "equipo": "Bologna",
+        "asistencias": 60,
+        "id": "512",
+        "nombre": "Kingsley Coman",
+        "rojas": 5
+    },
+    "991": {
+        "faltas": 23,
+        "amarillas": 6,
+        "goles": 95,
+        "equipo": "Bologna",
+        "asistencias": 142,
+        "id": "991",
+        "nombre": "\u00c3\u2030dison M\u00c3\u00a9ndez",
+        "rojas": 3
+    },
+    "104": {
+        "faltas": 2,
+        "amarillas": 1,
+        "goles": 21,
+        "equipo": "Bologna",
+        "asistencias": 189,
+        "id": "104",
+        "nombre": "Mohammed Rabiu",
+        "rojas": 0
+    },
+    "756": {
+        "faltas": 13,
+        "amarillas": 4,
+        "goles": 40,
+        "equipo": "Bologna",
+        "asistencias": 83,
+        "id": "756",
+        "nombre": "J. Aquino",
+        "rojas": 8
+    },
+    "410": {
+        "faltas": 20,
+        "amarillas": 7,
+        "goles": 47,
+        "equipo": "Bologna",
+        "asistencias": 72,
+        "id": "410",
+        "nombre": "Adam Lallana",
+        "rojas": 6
+    },
+    "806": {
+        "faltas": 42,
+        "amarillas": 6,
+        "goles": 60,
+        "equipo": "Bologna",
+        "asistencias": 175,
+        "id": "806",
+        "nombre": "Matt McKay",
+        "rojas": 9
+    },
+    "24": {
+        "faltas": 42,
+        "amarillas": 2,
+        "goles": 103,
+        "equipo": "Bologna",
+        "asistencias": 14,
+        "id": "24",
+        "nombre": "Jean-Daniel Akpa-Akpro",
+        "rojas": 7
+    },
+    "248": {
+        "faltas": 23,
+        "amarillas": 7,
+        "goles": 123,
+        "equipo": "Bologna",
+        "asistencias": 237,
+        "id": "248",
+        "nombre": "\u00c3\u201cscar Garc\u00c3\u00ada",
+        "rojas": 5
+    }
+}

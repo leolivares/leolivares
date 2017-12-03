@@ -1,0 +1,132 @@
+{
+    "604": {
+        "faltas": 0,
+        "amarillas": 5,
+        "goles": 12,
+        "equipo": "Cagliari",
+        "asistencias": 215,
+        "id": "604",
+        "nombre": "Balotelli",
+        "rojas": 5
+    },
+    "194": {
+        "faltas": 18,
+        "amarillas": 0,
+        "goles": 38,
+        "equipo": "Cagliari",
+        "asistencias": 274,
+        "id": "194",
+        "nombre": "Yun Suk-Young",
+        "rojas": 9
+    },
+    "367": {
+        "faltas": 41,
+        "amarillas": 0,
+        "goles": 63,
+        "equipo": "Cagliari",
+        "asistencias": 26,
+        "id": "367",
+        "nombre": "Erik Durm",
+        "rojas": 8
+    },
+    "215": {
+        "faltas": 45,
+        "amarillas": 7,
+        "goles": 93,
+        "equipo": "Cagliari",
+        "asistencias": 31,
+        "id": "215",
+        "nombre": "Johnny Acosta",
+        "rojas": 8
+    },
+    "162": {
+        "faltas": 2,
+        "amarillas": 3,
+        "goles": 41,
+        "equipo": "Cagliari",
+        "asistencias": 111,
+        "id": "162",
+        "nombre": "Kurihara",
+        "rojas": 1
+    },
+    "697": {
+        "faltas": 39,
+        "amarillas": 2,
+        "goles": 91,
+        "equipo": "Cagliari",
+        "asistencias": 175,
+        "id": "697",
+        "nombre": "Alireza Haghighi",
+        "rojas": 2
+    },
+    "594": {
+        "faltas": 2,
+        "amarillas": 2,
+        "goles": 70,
+        "equipo": "Cagliari",
+        "asistencias": 123,
+        "id": "594",
+        "nombre": "Giaccherini",
+        "rojas": 2
+    },
+    "948": {
+        "faltas": 27,
+        "amarillas": 3,
+        "goles": 13,
+        "equipo": "Cagliari",
+        "asistencias": 207,
+        "id": "948",
+        "nombre": "Armero",
+        "rojas": 3
+    },
+    "217": {
+        "faltas": 32,
+        "amarillas": 2,
+        "goles": 55,
+        "equipo": "Cagliari",
+        "asistencias": 26,
+        "id": "217",
+        "nombre": "\u00c3\u201cscar Duarte",
+        "rojas": 2
+    },
+    "240": {
+        "faltas": 30,
+        "amarillas": 3,
+        "goles": 91,
+        "equipo": "Cagliari",
+        "asistencias": 40,
+        "id": "240",
+        "nombre": "Maynor Figueroa",
+        "rojas": 2
+    },
+    "664": {
+        "faltas": 11,
+        "amarillas": 4,
+        "goles": 36,
+        "equipo": "Cagliari",
+        "asistencias": 256,
+        "id": "664",
+        "nombre": "William Carvalho",
+        "rojas": 2
+    },
+    "882": {
+        "faltas": 30,
+        "amarillas": 5,
+        "goles": 91,
+        "equipo": "Cagliari",
+        "asistencias": 24,
+        "id": "882",
+        "nombre": "Jean",
+        "rojas": 10
+    },
+    "205": {
+        "faltas": 23,
+        "amarillas": 0,
+        "goles": 5,
+        "equipo": "Cagliari",
+        "asistencias": 18,
+        "id": "205",
+        "nombre": "Ji Dong-Won",
+        "rojas": 10
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "1048": {
+        "faltas": 27,
+        "amarillas": 0,
+        "goles": 96,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 73,
+        "id": "1048",
+        "nombre": "Koo Jacheol",
+        "rojas": 7
+    },
+    "1028": {
+        "faltas": 5,
+        "amarillas": 5,
+        "goles": 84,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 22,
+        "id": "1028",
+        "nombre": "Su\u00c3\u00a1rez",
+        "rojas": 3
+    },
+    "1052": {
+        "faltas": 19,
+        "amarillas": 4,
+        "goles": 68,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 44,
+        "id": "1052",
+        "nombre": "Andre Sch\u00c3\u00bcrrle",
+        "rojas": 4
+    },
+    "15": {
+        "faltas": 33,
+        "amarillas": 6,
+        "goles": 31,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 216,
+        "id": "15",
+        "nombre": "Max Gradel",
+        "rojas": 9
+    },
+    "450": {
+        "faltas": 23,
+        "amarillas": 6,
+        "goles": 18,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 164,
+        "id": "450",
+        "nombre": "Mata",
+        "rojas": 9
+    },
+    "226": {
+        "faltas": 47,
+        "amarillas": 4,
+        "goles": 103,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 54,
+        "id": "226",
+        "nombre": "Yeltsin Tejeda",
+        "rojas": 2
+    },
+    "255": {
+        "faltas": 27,
+        "amarillas": 3,
+        "goles": 98,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 260,
+        "id": "255",
+        "nombre": "Andy Najar",
+        "rojas": 5
+    },
+    "460": {
+        "faltas": 19,
+        "amarillas": 0,
+        "goles": 68,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 135,
+        "id": "460",
+        "nombre": "Gabi",
+        "rojas": 4
+    },
+    "968": {
+        "faltas": 9,
+        "amarillas": 4,
+        "goles": 37,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 109,
+        "id": "968",
+        "nombre": "Falcao",
+        "rojas": 6
+    },
+    "366": {
+        "faltas": 11,
+        "amarillas": 0,
+        "goles": 49,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 185,
+        "id": "366",
+        "nombre": "Shkodran Mustafi",
+        "rojas": 2
+    },
+    "1039": {
+        "faltas": 15,
+        "amarillas": 2,
+        "goles": 110,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 192,
+        "id": "1039",
+        "nombre": "James Rodr\u00c3\u00adguez",
+        "rojas": 0
+    },
+    "1025": {
+        "faltas": 17,
+        "amarillas": 7,
+        "goles": 60,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 226,
+        "id": "1025",
+        "nombre": "Ar\u00c3\u00a9valo R\u00c3\u00ados",
+        "rojas": 10
+    },
+    "437": {
+        "faltas": 7,
+        "amarillas": 6,
+        "goles": 78,
+        "equipo": "Queens Park Rangers",
+        "asistencias": 15,
+        "id": "437",
+        "nombre": "Monreal",
+        "rojas": 5
+    }
+}

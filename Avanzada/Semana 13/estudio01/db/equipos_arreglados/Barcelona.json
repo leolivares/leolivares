@@ -1,0 +1,132 @@
+{
+    "6": {
+        "faltas": 29,
+        "amarillas": 7,
+        "goles": 56,
+        "equipo": "Barcelona",
+        "asistencias": 258,
+        "id": "6",
+        "nombre": "Kolo Tour\u00c3\u00a9",
+        "rojas": 10
+    },
+    "734": {
+        "faltas": 15,
+        "amarillas": 6,
+        "goles": 56,
+        "equipo": "Barcelona",
+        "asistencias": 181,
+        "id": "734",
+        "nombre": "H. Mier",
+        "rojas": 1
+    },
+    "471": {
+        "faltas": 34,
+        "amarillas": 1,
+        "goles": 84,
+        "equipo": "Barcelona",
+        "asistencias": 76,
+        "id": "471",
+        "nombre": "Torres",
+        "rojas": 1
+    },
+    "993": {
+        "faltas": 34,
+        "amarillas": 6,
+        "goles": 46,
+        "equipo": "Barcelona",
+        "asistencias": 225,
+        "id": "993",
+        "nombre": "Oswaldo Minda",
+        "rojas": 6
+    },
+    "487": {
+        "faltas": 26,
+        "amarillas": 6,
+        "goles": 53,
+        "equipo": "Barcelona",
+        "asistencias": 3,
+        "id": "487",
+        "nombre": "Rapha\u00c3\u00abl Varane",
+        "rojas": 9
+    },
+    "954": {
+        "faltas": 8,
+        "amarillas": 6,
+        "goles": 48,
+        "equipo": "Barcelona",
+        "asistencias": 98,
+        "id": "954",
+        "nombre": "\u00c3\u2030der \u00c3\u0081lvarez Balanta",
+        "rojas": 6
+    },
+    "45": {
+        "faltas": 40,
+        "amarillas": 4,
+        "goles": 75,
+        "equipo": "Barcelona",
+        "asistencias": 76,
+        "id": "45",
+        "nombre": "Pierre Web\u00c3\u00b3",
+        "rojas": 5
+    },
+    "530": {
+        "faltas": 13,
+        "amarillas": 2,
+        "goles": 90,
+        "equipo": "Barcelona",
+        "asistencias": 256,
+        "id": "530",
+        "nombre": "Alexandros Tziolis",
+        "rojas": 6
+    },
+    "392": {
+        "faltas": 24,
+        "amarillas": 2,
+        "goles": 116,
+        "equipo": "Barcelona",
+        "asistencias": 69,
+        "id": "392",
+        "nombre": "Kieran Gibbs",
+        "rojas": 1
+    },
+    "911": {
+        "faltas": 18,
+        "amarillas": 2,
+        "goles": 128,
+        "equipo": "Barcelona",
+        "asistencias": 252,
+        "id": "911",
+        "nombre": "Gonz\u00c3\u00a1lez",
+        "rojas": 1
+    },
+    "362": {
+        "faltas": 10,
+        "amarillas": 0,
+        "goles": 76,
+        "equipo": "Barcelona",
+        "asistencias": 159,
+        "id": "362",
+        "nombre": "Lukas Podolski",
+        "rojas": 6
+    },
+    "994": {
+        "faltas": 14,
+        "amarillas": 3,
+        "goles": 36,
+        "equipo": "Barcelona",
+        "asistencias": 50,
+        "id": "994",
+        "nombre": "Renato Ibarra",
+        "rojas": 4
+    },
+    "441": {
+        "faltas": 32,
+        "amarillas": 7,
+        "goles": 29,
+        "equipo": "Barcelona",
+        "asistencias": 11,
+        "id": "441",
+        "nombre": "Jes\u00c3\u00bas G\u00c3\u00a1mez",
+        "rojas": 3
+    }
+}

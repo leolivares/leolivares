@@ -1,0 +1,132 @@
+{
+    "544": {
+        "faltas": 45,
+        "amarillas": 6,
+        "goles": 108,
+        "equipo": "Internacional",
+        "asistencias": 144,
+        "id": "544",
+        "nombre": "Oliver Zelenika",
+        "rojas": 5
+    },
+    "802": {
+        "faltas": 15,
+        "amarillas": 2,
+        "goles": 52,
+        "equipo": "Internacional",
+        "asistencias": 21,
+        "id": "802",
+        "nombre": "Curtis Good",
+        "rojas": 2
+    },
+    "508": {
+        "faltas": 49,
+        "amarillas": 6,
+        "goles": 74,
+        "equipo": "Internacional",
+        "asistencias": 266,
+        "id": "508",
+        "nombre": "Samir Nasri",
+        "rojas": 6
+    },
+    "341": {
+        "faltas": 26,
+        "amarillas": 2,
+        "goles": 117,
+        "equipo": "Internacional",
+        "asistencias": 145,
+        "id": "341",
+        "nombre": "Davide Calla",
+        "rojas": 1
+    },
+    "851": {
+        "faltas": 17,
+        "amarillas": 1,
+        "goles": 90,
+        "equipo": "Internacional",
+        "asistencias": 130,
+        "id": "851",
+        "nombre": "Alejandro Dom\u00c3\u00adnguez",
+        "rojas": 9
+    },
+    "214": {
+        "faltas": 9,
+        "amarillas": 5,
+        "goles": 110,
+        "equipo": "Internacional",
+        "asistencias": 129,
+        "id": "214",
+        "nombre": "Giancarlo Gonz\u00c3\u00a1lez",
+        "rojas": 8
+    },
+    "865": {
+        "faltas": 9,
+        "amarillas": 4,
+        "goles": 13,
+        "equipo": "Internacional",
+        "asistencias": 183,
+        "id": "865",
+        "nombre": "Rubinho",
+        "rojas": 1
+    },
+    "1043": {
+        "faltas": 31,
+        "amarillas": 3,
+        "goles": 53,
+        "equipo": "Internacional",
+        "asistencias": 168,
+        "id": "1043",
+        "nombre": "Oscar Duarte",
+        "rojas": 6
+    },
+    "956": {
+        "faltas": 15,
+        "amarillas": 0,
+        "goles": 98,
+        "equipo": "Internacional",
+        "asistencias": 100,
+        "id": "956",
+        "nombre": "Guar\u00c3\u00adn",
+        "rojas": 8
+    },
+    "662": {
+        "faltas": 29,
+        "amarillas": 0,
+        "goles": 33,
+        "equipo": "Internacional",
+        "asistencias": 107,
+        "id": "662",
+        "nombre": "R\u00c3\u00baben Amorim",
+        "rojas": 7
+    },
+    "861": {
+        "faltas": 49,
+        "amarillas": 4,
+        "goles": 123,
+        "equipo": "Internacional",
+        "asistencias": 110,
+        "id": "861",
+        "nombre": "J\u00c3\u00balio C\u00c3\u00a9sar",
+        "rojas": 2
+    },
+    "630": {
+        "faltas": 27,
+        "amarillas": 3,
+        "goles": 46,
+        "equipo": "Internacional",
+        "asistencias": 240,
+        "id": "630",
+        "nombre": "Wesley Sneijder",
+        "rojas": 6
+    },
+    "25": {
+        "faltas": 2,
+        "amarillas": 1,
+        "goles": 112,
+        "equipo": "Internacional",
+        "asistencias": 40,
+        "id": "25",
+        "nombre": "Brice Dja Dj\u00c3\u00a9dj\u00c3\u00a9",
+        "rojas": 7
+    }
+}

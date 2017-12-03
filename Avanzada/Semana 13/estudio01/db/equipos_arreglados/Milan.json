@@ -1,0 +1,132 @@
+{
+    "16": {
+        "faltas": 34,
+        "amarillas": 7,
+        "goles": 100,
+        "equipo": "Milan",
+        "asistencias": 46,
+        "id": "16",
+        "nombre": "Serey Die",
+        "rojas": 9
+    },
+    "211": {
+        "faltas": 44,
+        "amarillas": 7,
+        "goles": 2,
+        "equipo": "Milan",
+        "asistencias": 187,
+        "id": "211",
+        "nombre": "Michael Uma\u00c3\u00b1a",
+        "rojas": 1
+    },
+    "889": {
+        "faltas": 41,
+        "amarillas": 6,
+        "goles": 117,
+        "equipo": "Milan",
+        "asistencias": 132,
+        "id": "889",
+        "nombre": "Lucas",
+        "rojas": 5
+    },
+    "466": {
+        "faltas": 17,
+        "amarillas": 2,
+        "goles": 112,
+        "equipo": "Milan",
+        "asistencias": 233,
+        "id": "466",
+        "nombre": "Mikel Arteta",
+        "rojas": 6
+    },
+    "613": {
+        "faltas": 21,
+        "amarillas": 7,
+        "goles": 105,
+        "equipo": "Milan",
+        "asistencias": 86,
+        "id": "613",
+        "nombre": "Ciro Immobile",
+        "rojas": 4
+    },
+    "353": {
+        "faltas": 21,
+        "amarillas": 6,
+        "goles": 57,
+        "equipo": "Milan",
+        "asistencias": 73,
+        "id": "353",
+        "nombre": "J\u00c3\u00a9r\u00c3\u00b4me Boateng",
+        "rojas": 8
+    },
+    "603": {
+        "faltas": 35,
+        "amarillas": 1,
+        "goles": 110,
+        "equipo": "Milan",
+        "asistencias": 49,
+        "id": "603",
+        "nombre": "Luca Marrone",
+        "rojas": 5
+    },
+    "672": {
+        "faltas": 15,
+        "amarillas": 1,
+        "goles": 81,
+        "equipo": "Milan",
+        "asistencias": 145,
+        "id": "672",
+        "nombre": "Igor Akinfeev",
+        "rojas": 1
+    },
+    "936": {
+        "faltas": 22,
+        "amarillas": 5,
+        "goles": 94,
+        "equipo": "Milan",
+        "asistencias": 52,
+        "id": "936",
+        "nombre": "Orellana",
+        "rojas": 9
+    },
+    "743": {
+        "faltas": 0,
+        "amarillas": 5,
+        "goles": 72,
+        "equipo": "Milan",
+        "asistencias": 112,
+        "id": "743",
+        "nombre": "P. Barrera",
+        "rojas": 5
+    },
+    "157": {
+        "faltas": 21,
+        "amarillas": 2,
+        "goles": 117,
+        "equipo": "Milan",
+        "asistencias": 223,
+        "id": "157",
+        "nombre": "Inoha",
+        "rojas": 5
+    },
+    "795": {
+        "faltas": 8,
+        "amarillas": 0,
+        "goles": 90,
+        "equipo": "Milan",
+        "asistencias": 265,
+        "id": "795",
+        "nombre": "Brad Jones",
+        "rojas": 6
+    },
+    "874": {
+        "faltas": 32,
+        "amarillas": 7,
+        "goles": 35,
+        "equipo": "Milan",
+        "asistencias": 223,
+        "id": "874",
+        "nombre": "Maxwell",
+        "rojas": 6
+    }
+}

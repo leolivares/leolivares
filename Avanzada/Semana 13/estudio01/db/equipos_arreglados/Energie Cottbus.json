@@ -1,0 +1,132 @@
+{
+    "649": {
+        "faltas": 33,
+        "amarillas": 1,
+        "goles": 74,
+        "equipo": "Energie Cottbus",
+        "asistencias": 159,
+        "id": "649",
+        "nombre": "Beto",
+        "rojas": 5
+    },
+    "950": {
+        "faltas": 0,
+        "amarillas": 7,
+        "goles": 71,
+        "equipo": "Energie Cottbus",
+        "asistencias": 139,
+        "id": "950",
+        "nombre": "Cuadrado",
+        "rojas": 8
+    },
+    "328": {
+        "faltas": 39,
+        "amarillas": 2,
+        "goles": 103,
+        "equipo": "Energie Cottbus",
+        "asistencias": 181,
+        "id": "328",
+        "nombre": "Philipp Degen",
+        "rojas": 5
+    },
+    "822": {
+        "faltas": 32,
+        "amarillas": 3,
+        "goles": 103,
+        "equipo": "Energie Cottbus",
+        "asistencias": 141,
+        "id": "822",
+        "nombre": "Adam Taggart",
+        "rojas": 9
+    },
+    "1013": {
+        "faltas": 0,
+        "amarillas": 6,
+        "goles": 92,
+        "equipo": "Energie Cottbus",
+        "asistencias": 35,
+        "id": "1013",
+        "nombre": "M. Pereira",
+        "rojas": 6
+    },
+    "561": {
+        "faltas": 32,
+        "amarillas": 5,
+        "goles": 75,
+        "equipo": "Energie Cottbus",
+        "asistencias": 52,
+        "id": "561",
+        "nombre": "Sammir",
+        "rojas": 9
+    },
+    "495": {
+        "faltas": 29,
+        "amarillas": 4,
+        "goles": 89,
+        "equipo": "Energie Cottbus",
+        "asistencias": 28,
+        "id": "495",
+        "nombre": "Franck Rib\u00c3\u00a9ry",
+        "rojas": 5
+    },
+    "818": {
+        "faltas": 29,
+        "amarillas": 5,
+        "goles": 18,
+        "equipo": "Energie Cottbus",
+        "asistencias": 26,
+        "id": "818",
+        "nombre": "Ben Halloran",
+        "rojas": 6
+    },
+    "118": {
+        "faltas": 31,
+        "amarillas": 3,
+        "goles": 21,
+        "equipo": "Energie Cottbus",
+        "asistencias": 40,
+        "id": "118",
+        "nombre": "Echi\u00c3\u00a9jil\u00c3\u00a9",
+        "rojas": 9
+    },
+    "315": {
+        "faltas": 41,
+        "amarillas": 3,
+        "goles": 23,
+        "equipo": "Energie Cottbus",
+        "asistencias": 95,
+        "id": "315",
+        "nombre": "Divock Origi",
+        "rojas": 8
+    },
+    "964": {
+        "faltas": 24,
+        "amarillas": 2,
+        "goles": 66,
+        "equipo": "Energie Cottbus",
+        "asistencias": 107,
+        "id": "964",
+        "nombre": "Elkin Soto",
+        "rojas": 1
+    },
+    "291": {
+        "faltas": 18,
+        "amarillas": 2,
+        "goles": 25,
+        "equipo": "Energie Cottbus",
+        "asistencias": 107,
+        "id": "291",
+        "nombre": "Simon Mignolet",
+        "rojas": 8
+    },
+    "43": {
+        "faltas": 9,
+        "amarillas": 4,
+        "goles": 15,
+        "equipo": "Energie Cottbus",
+        "asistencias": 234,
+        "id": "43",
+        "nombre": "Raoul Lo\u00c3\u00a9",
+        "rojas": 4
+    }
+}

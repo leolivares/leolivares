@@ -1,0 +1,132 @@
+{
+    "306": {
+        "faltas": 42,
+        "amarillas": 1,
+        "goles": 88,
+        "equipo": "Burnley",
+        "asistencias": 273,
+        "id": "306",
+        "nombre": "Axel Witsel",
+        "rojas": 10
+    },
+    "582": {
+        "faltas": 7,
+        "amarillas": 3,
+        "goles": 61,
+        "equipo": "Burnley",
+        "asistencias": 76,
+        "id": "582",
+        "nombre": "Abate",
+        "rojas": 3
+    },
+    "967": {
+        "faltas": 39,
+        "amarillas": 1,
+        "goles": 99,
+        "equipo": "Burnley",
+        "asistencias": 176,
+        "id": "967",
+        "nombre": "Juan Fernando Quintero",
+        "rojas": 6
+    },
+    "280": {
+        "faltas": 38,
+        "amarillas": 5,
+        "goles": 112,
+        "equipo": "Burnley",
+        "asistencias": 54,
+        "id": "280",
+        "nombre": "Muhamed Be\u00c5\u00a1i\u00c4\u2021",
+        "rojas": 8
+    },
+    "1008": {
+        "faltas": 17,
+        "amarillas": 3,
+        "goles": 126,
+        "equipo": "Burnley",
+        "asistencias": 199,
+        "id": "1008",
+        "nombre": "Rodrigo Mu\u00c3\u00b1oz",
+        "rojas": 8
+    },
+    "1035": {
+        "faltas": 12,
+        "amarillas": 5,
+        "goles": 56,
+        "equipo": "Burnley",
+        "asistencias": 139,
+        "id": "1035",
+        "nombre": "Andres Guardado",
+        "rojas": 9
+    },
+    "833": {
+        "faltas": 27,
+        "amarillas": 5,
+        "goles": 20,
+        "equipo": "Burnley",
+        "asistencias": 34,
+        "id": "833",
+        "nombre": "Nicol\u00c3\u00a1s Otamendi",
+        "rojas": 8
+    },
+    "781": {
+        "faltas": 35,
+        "amarillas": 3,
+        "goles": 7,
+        "equipo": "Burnley",
+        "asistencias": 1,
+        "id": "781",
+        "nombre": "Mikkel Diskerud",
+        "rojas": 2
+    },
+    "849": {
+        "faltas": 0,
+        "amarillas": 2,
+        "goles": 9,
+        "equipo": "Burnley",
+        "asistencias": 41,
+        "id": "849",
+        "nombre": "Enzo P\u00c3\u00a9rez",
+        "rojas": 0
+    },
+    "804": {
+        "faltas": 32,
+        "amarillas": 6,
+        "goles": 53,
+        "equipo": "Burnley",
+        "asistencias": 211,
+        "id": "804",
+        "nombre": "Bailey Wright",
+        "rojas": 5
+    },
+    "716": {
+        "faltas": 21,
+        "amarillas": 5,
+        "goles": 84,
+        "equipo": "Burnley",
+        "asistencias": 240,
+        "id": "716",
+        "nombre": "Ghasem Haddadifar",
+        "rojas": 7
+    },
+    "839": {
+        "faltas": 5,
+        "amarillas": 1,
+        "goles": 26,
+        "equipo": "Burnley",
+        "asistencias": 233,
+        "id": "839",
+        "nombre": "Walter Samuel",
+        "rojas": 5
+    },
+    "852": {
+        "faltas": 20,
+        "amarillas": 5,
+        "goles": 112,
+        "equipo": "Burnley",
+        "asistencias": 201,
+        "id": "852",
+        "nombre": "Roberto Pereyra",
+        "rojas": 6
+    }
+}

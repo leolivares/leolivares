@@ -1,0 +1,132 @@
+{
+    "363": {
+        "faltas": 31,
+        "amarillas": 5,
+        "goles": 15,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 262,
+        "id": "363",
+        "nombre": "Marco Reus",
+        "rojas": 10
+    },
+    "482": {
+        "faltas": 46,
+        "amarillas": 5,
+        "goles": 123,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 54,
+        "id": "482",
+        "nombre": "Patrice Evra",
+        "rojas": 7
+    },
+    "220": {
+        "faltas": 49,
+        "amarillas": 0,
+        "goles": 113,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 61,
+        "id": "220",
+        "nombre": "Waylon Francis",
+        "rojas": 8
+    },
+    "324": {
+        "faltas": 41,
+        "amarillas": 5,
+        "goles": 43,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 32,
+        "id": "324",
+        "nombre": "Reto Ziegler",
+        "rojas": 7
+    },
+    "872": {
+        "faltas": 28,
+        "amarillas": 4,
+        "goles": 72,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 240,
+        "id": "872",
+        "nombre": "R\u00c3\u00a9ver",
+        "rojas": 2
+    },
+    "1005": {
+        "faltas": 48,
+        "amarillas": 7,
+        "goles": 113,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 184,
+        "id": "1005",
+        "nombre": "Mina",
+        "rojas": 1
+    },
+    "159": {
+        "faltas": 27,
+        "amarillas": 7,
+        "goles": 91,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 256,
+        "id": "159",
+        "nombre": "Nagatomo",
+        "rojas": 8
+    },
+    "79": {
+        "faltas": 27,
+        "amarillas": 1,
+        "goles": 62,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 272,
+        "id": "79",
+        "nombre": "Yacine Brahimi",
+        "rojas": 6
+    },
+    "977": {
+        "faltas": 7,
+        "amarillas": 2,
+        "goles": 124,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 155,
+        "id": "977",
+        "nombre": "Adri\u00c3\u00a1n Bone",
+        "rojas": 1
+    },
+    "294": {
+        "faltas": 43,
+        "amarillas": 6,
+        "goles": 47,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 42,
+        "id": "294",
+        "nombre": "Daniel Van Buyten",
+        "rojas": 0
+    },
+    "771": {
+        "faltas": 3,
+        "amarillas": 0,
+        "goles": 103,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 95,
+        "id": "771",
+        "nombre": "Matt Besler",
+        "rojas": 2
+    },
+    "819": {
+        "faltas": 46,
+        "amarillas": 4,
+        "goles": 116,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 184,
+        "id": "819",
+        "nombre": "Tim Cahill",
+        "rojas": 2
+    },
+    "398": {
+        "faltas": 11,
+        "amarillas": 4,
+        "goles": 36,
+        "equipo": "Wiener Viktoria",
+        "asistencias": 114,
+        "id": "398",
+        "nombre": "Cameron Brannagan",
+        "rojas": 7
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "307": {
+        "faltas": 2,
+        "amarillas": 5,
+        "goles": 5,
+        "equipo": "Stoke City",
+        "asistencias": 135,
+        "id": "307",
+        "nombre": "Kevin Mirallas",
+        "rojas": 6
+    },
+    "971": {
+        "faltas": 24,
+        "amarillas": 1,
+        "goles": 86,
+        "equipo": "Stoke City",
+        "asistencias": 205,
+        "id": "971",
+        "nombre": "Mart\u00c3\u00adnez",
+        "rojas": 9
+    },
+    "665": {
+        "faltas": 38,
+        "amarillas": 1,
+        "goles": 78,
+        "equipo": "Stoke City",
+        "asistencias": 165,
+        "id": "665",
+        "nombre": "Rafa Silva",
+        "rojas": 9
+    },
+    "314": {
+        "faltas": 13,
+        "amarillas": 5,
+        "goles": 94,
+        "equipo": "Stoke City",
+        "asistencias": 4,
+        "id": "314",
+        "nombre": "Dries Mertens",
+        "rojas": 8
+    },
+    "724": {
+        "faltas": 44,
+        "amarillas": 1,
+        "goles": 11,
+        "equipo": "Stoke City",
+        "asistencias": 169,
+        "id": "724",
+        "nombre": "Mehdi Sharifi",
+        "rojas": 6
+    },
+    "671": {
+        "faltas": 48,
+        "amarillas": 4,
+        "goles": 67,
+        "equipo": "Stoke City",
+        "asistencias": 131,
+        "id": "671",
+        "nombre": "\u00c3\u2030der",
+        "rojas": 10
+    },
+    "563": {
+        "faltas": 36,
+        "amarillas": 3,
+        "goles": 53,
+        "equipo": "Stoke City",
+        "asistencias": 157,
+        "id": "563",
+        "nombre": "Ivan Mo\u00c4\u008dini\u00c4\u2021",
+        "rojas": 10
+    },
+    "258": {
+        "faltas": 25,
+        "amarillas": 7,
+        "goles": 80,
+        "equipo": "Stoke City",
+        "asistencias": 192,
+        "id": "258",
+        "nombre": "Jerry Palacios",
+        "rojas": 6
+    },
+    "667": {
+        "faltas": 15,
+        "amarillas": 7,
+        "goles": 2,
+        "equipo": "Stoke City",
+        "asistencias": 156,
+        "id": "667",
+        "nombre": "F\u00c3\u00a1bio Espinho",
+        "rojas": 7
+    },
+    "Id": {
+        "faltas": 10,
+        "amarillas": 5,
+        "goles": 120,
+        "equipo": "Stoke City",
+        "asistencias": 223,
+        "id": "Id",
+        "nombre": "name",
+        "rojas": 1
+    },
+    "1027": {
+        "faltas": 9,
+        "amarillas": 0,
+        "goles": 52,
+        "equipo": "Stoke City",
+        "asistencias": 37,
+        "id": "1027",
+        "nombre": "Nicol\u00c3\u00a1s Lodeiro",
+        "rojas": 2
+    },
+    "298": {
+        "faltas": 44,
+        "amarillas": 7,
+        "goles": 42,
+        "equipo": "Stoke City",
+        "asistencias": 196,
+        "id": "298",
+        "nombre": "Toby Alderweireld",
+        "rojas": 2
+    },
+    "2": {
+        "faltas": 35,
+        "amarillas": 4,
+        "goles": 54,
+        "equipo": "Stoke City",
+        "asistencias": 168,
+        "id": "2",
+        "nombre": "Didier Drogba",
+        "rojas": 8
+    }
+}
