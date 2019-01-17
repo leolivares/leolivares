@@ -1,0 +1,13 @@
+WITH RECURSIVE Alcanzo(origen, costo, destino) as
+(
+SELECT *
+FROM Caminos
+WHERE costo <= 3000
+
+UNION
+
+SELECT Cam.ciudad_origen, A.costo + Cam.costo, A.destino
+FROM Caminos Cam, Alcanzo A
+WHERE Cam.ciudad_destino = A.origen And A.costo + Cam.costo <= 3000
+)
+SELECT * FROM Alcanzo;

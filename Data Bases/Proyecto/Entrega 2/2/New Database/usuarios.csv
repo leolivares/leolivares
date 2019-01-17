@@ -1,0 +1,87 @@
+id_usuario,nombre,apellido,correo,sexo
+1,JUAN JOSÉ ARTURO,AGUILLÓN,jjaguillon@uc.cl,M
+0,RAFAEL ANTONIO,ABUSLEME,raabusleme@uc.cl,M
+8,PAULA FABIOLA,ARELLANO,pfarellano@uc.cl,M
+7,FELIPE EDUARDO,APABLAZA,feapablaza@uc.cl,F
+14,FELIPE RAÚL,BARRÍA,frbarria@uc.cl,M
+11,IGNACIA,BAEZA,ibaeza1@uc.cl,F
+15,FELIPE ANTONIO,BARRIENTOS,fnbarrientos@uc.cl,M
+18,FELIPE ALBERTO,BERRIOS,faberrios@uc.cl,M
+19,JOAQUÍN ALBERTO,BUGMANN,jabugmann@uc.cl,M
+16,JOSEFINA,BENGOA,jbengoa1@uc.cl,F
+4,TOMÁS,ÁLVAREZ,talvarez2@uc.cl,M
+17,CAMILO IGNACIO,BERRÍOS,ciberrios@uc.cl,M
+5,AUGUSTO ALEJANDRO,ALVAREZ,aaalvarez@uc.cl,M
+30,TAMARA ALEXANDRA,CUCUMIDES,tacucumides@uc.cl,F
+83,NORMAN ANDRES,OLIDEN,naoliden@uc.cl,M
+51,RODRIGO IGNACIO,HANUCH,rihanuch@uc.cl,M
+73,VICENTE TOMÁS,MELÍN,vtmelin@uc.cl,M
+38,JOAQUIN,EICHHOLZ,jeichholz3@uc.cl,M
+55,CRISTOBAL,ILABACA,cilabaca1@uc.cl,M
+108,JAVIER OMAR,TRAMON,jotramon@uc.cl,M
+118,DANIEL,ZUPEUC,dzupeuc@uc.cl,M
+9,ANDRES EMILIO,AVALOS,aeavalos@uc.cl,M
+81,JUAN JOSÉ,NESTLER,jjnestler@uc.cl,M
+3,VALENTINA JAVIERA,ÁLVAREZ,vjalvarez@uc.cl,F
+75,JAIME ANDRES,MIDDLETON,jamiddleton@uc.cl,M
+52,JORGE ESTEBAN,HARCHA,jeharcha@uc.cl,M
+39,MARCELO IGNACIO,ESCUDERO,miescudero@uc.cl,M
+80,VITO ARCANGELO,MUSSUTO,vamussuto@uc.cl,M
+32,FERNANDO ANTONIO,DE DIEGO,fadediego@uc.cl,M
+102,MARÍA IGNACIA,SÁNCHEZ,mcsanchez@uc.cl,F
+78,JEREMÍAS ANDRÉS,MOLINA,jamolina3@uc.cl,M
+62,AGUSTIN,KREBS,akrebs2@uc.cl,M
+6,KENZO,ANDRADE,kandrade@uc.cl,M
+60,VICENTE IGNACIO,JUAREZ,vijuarez@uc.cl,M
+36,FERNANDA ROCIO,DURAN,frduran@uc.cl,F
+67,VÍCTOR ARIEL,MARAMBIO,vamarambio@uc.cl,M
+31,DANIEL EDUARDO,DARRITCHON,dedarritchon@uc.cl,M
+90,SEBASTIÁN IGNACIO,POBLETE,sipoblete@uc.cl,M
+33,BENJAMÍN IGNACIO,DEL REAL,bidelreal@uc.cl,M
+87,NICOLÁS ALEJANDRO,PARRAGUEZ,nlparraguez@uc.cl,M
+23,DANIEL ROBERTO,CARRASCO,drcarrasco@uc.cl,M
+29,IGNACIO,CONTRERAS,icontreras1@uc.cl,M
+13,JAVIERA BELÉN,BAO,jbbao@uc.cl,F
+84,LEONARDO ENRIQUE,OLIVARES,leolivares@uc.cl,M
+48,NICOLÁS JORGE,GARRIDO,njgarrido@uc.cl,M
+79,JUAN PABLO,MORAGA,jomoraga@uc.cl,M
+28,DANIELA ALEJANDRA,CONCHA,daconcha@uc.cl,F
+107,DUNKAN NICOLÁS,TORRES,dntorres1@uc.cl,M
+63,CARLA DANIELA,LEPE,cdlepe@uc.cl,F
+57,ALFONSO JUAN DE DIOS,IRARRAZAVAL,auirarrazaval@uc.cl,M
+56,JAVIERA MONSERRAT,INOSTROZA,jminostroza@uc.cl,F
+21,AGUSTÍN RICARDO,CAMPENY,arcampeny@uc.cl,M
+43,IAN,FIELDHOUSE,ifieldhouse@uc.cl,M
+10,BENJAMIN EDUARDO,AYANCAN,beayancan@uc.cl,M
+94,GONZALO TOMAS,QUIROGA,gtquiroga@uc.cl,M
+117,SAMUEL EMILIO,ZÚÑIGA,sezuniga1@uc.cl,M
+111,TIEN,VILLALOBOS,tvillalobos1@uc.cl,M
+72,WILLIAMS ALEJANDRO,MEDINA,wamedina@uc.cl,M
+46,MATÍAS ANDRÉS,GABLER,mngabler@uc.cl,M
+106,FEDERICO ANDRES,TALADRIZ,fntaladriz@uc.cl,M
+58,FELIPE CARLOS,JIMÉNEZ,fcjimenez@uc.cl,M
+109,TOMÁS PATRICIO,VALENZUELA,tpvalenzuela@uc.cl,M
+82,PABLO IGNACIO,OLEA,pgolea@uc.cl,M
+22,DIEGO ANTONIO,CAROCA,dncaroca@uc.cl,M
+85,JOSE MANUEL,OPASO,jmopaso@uc.cl,M
+27,ANTONIA SOFIA,COBO,ascobo@uc.cl,F
+71,RAIMUNDO,MARTINEZ,rmartinez7@uc.cl,M
+97,SEBASTIAN,RICKE,sricke@uc.cl,M
+98,PABLO IGNACIO,RODRÍGUEZ,pcrodriguez@uc.cl,M
+112,THOMAS,WALLACE,twallace@uc.cl,M
+68,MAXIMILIANO ANDRES,MARDONES,mnmardones@uc.cl,M
+77,DIEGO,MOLINA,dmolina2@uc.cl,M
+92,PHILIPPE ANDRE,POTIN,papotin@uc.cl,M
+110,SEBASTIAN ANDRES,VELOZO,savelozo@uc.cl,M
+54,CRISTOBAL EDUARDO,HERREROS,ceherreros@uc.cl,M
+115,DINKO FERNANDO,YOMA,dfyoma@uc.cl,M
+105,JAN PAUL,SIEGEL,jasiegel@uc.cl,M
+91,CRISTÓBAL MARTÍN,POBLETE,cmpoblete@uc.cl,M
+114,JOSE MANUEL,WIELANDT,jmwielandt@uc.cl,M
+101,TOMAS IGNACIO,SALVADORES,tisalvadores@uc.cl,M
+41,SARAH VIRGINIA,EVERKE,sveverke@uc.cl,F
+103,RICARDO ESTEBAN,SCHILLING,reschilling@uc.cl,M
+65,VICENTE JOSE,LIRA,vjlira@uc.cl,M
+89,MARIA IGNACIA,PLAZA DE LOS REYES,miplazadelosreyes@uc.cl,F
+59,JEAN PAUL ANDRE,JOUBLAN,jpjoublan@uc.cl,M
+116,MATÍAS ALEJANDRO,ZENTENO,mlzenteno@uc.cl,M

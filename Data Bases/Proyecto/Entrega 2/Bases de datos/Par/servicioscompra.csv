@@ -1,0 +1,52 @@
+id_servicio,nombre,precio,descripcion,id_servicio,id_compraservicio
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,0
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,1
+6,Tres entradas con bus al paseo de la playa,"$28.812,00",sunt in culpa qui officia deserunt mollit anim id est laborum,6,2
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,3
+8,Seis noches en Puerto Varas,"$60.787,00",totam rem aperiam,8,4
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,5
+12,Curso online de Base de Datos,"$90.754,00","Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",12,6
+8,Seis noches en Puerto Varas,"$60.787,00",totam rem aperiam,8,7
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,8
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,9
+21,Un vuelo en primera clase,"$94.563,00",Et harum quidem rerum facilis est et expedita distinctio,21,10
+2,Una porción de helado,"$38.452,00",Ut enim ad minim veniam,2,11
+10,Tour por todos los campus de la PUC,"$68.037,00",Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,10,12
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,13
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,14
+8,Seis noches en Puerto Varas,"$60.787,00",totam rem aperiam,8,15
+8,Seis noches en Puerto Varas,"$60.787,00",totam rem aperiam,8,16
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,17
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,18
+2,Una porción de helado,"$38.452,00",Ut enim ad minim veniam,2,19
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,20
+2,Una porción de helado,"$38.452,00",Ut enim ad minim veniam,2,21
+13,Curso online de Windows XP,"$14.737,00","consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem",13,22
+21,Un vuelo en primera clase,"$94.563,00",Et harum quidem rerum facilis est et expedita distinctio,21,23
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,24
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,25
+15,Cualquier viaje en Cabify a $1000,"$1.000,00",nisi ut aliquid ex ea commodi consequatur,15,26
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,27
+5,Una sesión de masaje descontracturante,"$34.831,00",Excepteur sint occaecat cupidatat non proident,5,28
+7,Un viaje al centro del mundo,"$3.565,00",Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,7,29
+19,Una entrada a la Gala de Ingenieria,"$69.017,00",similique sunt in culpa qui officia deserunt mollitia animi,19,30
+13,Curso online de Windows XP,"$14.737,00","consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem",13,31
+2,Una porción de helado,"$38.452,00",Ut enim ad minim veniam,2,32
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,33
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,34
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,35
+9,Tour por el campus San Joaquín,"$58.056,00",eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo,9,36
+2,Una porción de helado,"$38.452,00",Ut enim ad minim veniam,2,37
+5,Una sesión de masaje descontracturante,"$34.831,00",Excepteur sint occaecat cupidatat non proident,5,38
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,39
+8,Seis noches en Puerto Varas,"$60.787,00",totam rem aperiam,8,40
+2,Una porción de helado,"$38.452,00",Ut enim ad minim veniam,2,41
+14,Noche + cena en hotel de Santiago,"$31.084,00","Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam",14,42
+17,Tres entradas a Fantasilandia,"$51.703,00",vel illum qui dolorem eum fugiat quo voluptas nulla pariatur,17,43
+14,Noche + cena en hotel de Santiago,"$31.084,00","Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam",14,44
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,45
+3,Tres papas crujientes,"$48.667,00",quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat,3,46
+5,Una sesión de masaje descontracturante,"$34.831,00",Excepteur sint occaecat cupidatat non proident,5,47
+0,Una cena para dos personas,"$68.350,00","Lorem ipsum dolor sit amet, consectetur adipiscing elit",0,48
+10,Tour por todos los campus de la PUC,"$68.037,00",Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,10,49
+11,Una clase de NebCoins,"$30.538,00",sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt,11,50

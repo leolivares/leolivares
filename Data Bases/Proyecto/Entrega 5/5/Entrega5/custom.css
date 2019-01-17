@@ -1,0 +1,7 @@
+.navbar-collapse.collapse.in {
+  display: block!important;
+}
+
+.jumbotron {
+  background-size: cover;
+}

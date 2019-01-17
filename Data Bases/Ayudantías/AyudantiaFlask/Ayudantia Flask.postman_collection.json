@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "2c4f9459-4cf4-4dd5-b133-1a5ae105df59",
+		"name": "Ayudantia Flask",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get messages by sender ",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "127.0.0.1:5000/sender/:user",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"sender",
+						":user"
+					],
+					"variable": [
+						{
+							"key": "user",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Remove message",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "localhost:5000/remove_message/:date",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"remove_message",
+						":date"
+					],
+					"variable": [
+						{
+							"key": "date",
+							"value": "2018-10-26"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Send message JSON",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"message\": \"Mandado por un post\",\r\n\t\"sender\": 4,\r\n\t\"receptant\": 9,\r\n\t\"date\": \"2018-10-26\"\r\n}"
+				},
+				"url": {
+					"raw": "localhost:5000/add_message/",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"add_message",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
