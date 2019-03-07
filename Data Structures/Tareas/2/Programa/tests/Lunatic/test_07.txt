@@ -1,0 +1,15 @@
+9 10
+2 5 0 0 1 4 0 0 4
+0 0 2 3 0 1 0 0 4
+0 4 0 0 0 0 0 1 0 4
+3 0 0 0 3 0 0 0 3 0
+L R L R L R L R T
+T L R L R L R T B
+B T L R L R T B T
+T B T T T T B T B
+B T B B B B T B T
+T B L R L R B T B
+B L R T L R T B T
+L R T B L R B T B
+T T B L R L R B T
+B B L R L R L R B

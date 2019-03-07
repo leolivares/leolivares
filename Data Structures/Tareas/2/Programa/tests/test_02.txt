@@ -1,0 +1,9 @@
+5 4
+0 2 0 2 0
+0 0 2 0 0
+0 1 0 2
+0 1 0 0
+T L R L R
+B T L R T
+T B L R B
+B L R L R

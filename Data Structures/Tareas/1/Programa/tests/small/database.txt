@@ -1,0 +1,12 @@
+11
+10 4 hola
+100 4 como
+11 5 estas
+11 9 hola como
+30 15 hola como estas
+13 23 se puede poner espacios
+18 57 los caracteres solo tienen letras en minuscula y espacios
+20 22 papas con papas fritas
+13 14 pure con papas
+22 20 me encanta este ramo
+10000 46 edd es el mejor ramo que alguien podria querer

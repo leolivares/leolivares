@@ -1,0 +1,12 @@
+8 7
+4 0 0 3 0 0 4 0
+0 4 0 0 3 0 0 4
+0 4 0 0 4 0 0
+0 0 0 4 0 0 4
+T L R L R T L R
+B L R T T B T T
+T L R B B T B B
+B L R L R B L R
+T T T L R T T T
+B B B L R B B B
+L R L R L R L R
