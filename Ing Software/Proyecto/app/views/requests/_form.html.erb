@@ -1,0 +1,33 @@
+<%= form_with(model: request, local: true) do |form| %>
+  <% if request.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(request.errors.count, "error") %> prohibited this request from being saved:</h2>
+
+      <ul>
+      <% request.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+
+  <%= form.hidden_field :user_id, value: current_user.id %>
+
+  <div class="field">
+    <%= form.label :country_id, "Id país"  %>
+    <%= form.text_field :country_id, id: :request_country_id %>
+  </div>
+
+<%= form.hidden_field :state, value: "Pendiente" %>
+
+
+  <div class="field">
+    <%= form.label :reason %>
+    <%= form.text_field :reason, id: :request_reason %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

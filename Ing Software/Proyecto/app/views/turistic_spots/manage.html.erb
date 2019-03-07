@@ -1,0 +1,40 @@
+<p id="notice"><%= notice %></p>
+
+
+  <div class="main-content-wrapper section-padding-50" >
+        <div class="container">
+          
+            <h1>Turistic Spots</h1>
+            <div class="row justify-content-center">
+
+                <table>
+                  <thead>
+                    <tr>
+                      <th>City</th>
+                      <th>Nombre</th>
+                      <th>Reputation</th>
+                      <th colspan="3"></th>
+                    </tr>
+                  </thead>
+
+                  <tbody>
+                    <% @turistic_spots.each do |turistic_spot| %>
+                      <tr>
+                        <td><%= turistic_spot.city.name %></td>
+                        <td><%= turistic_spot.nombre %></td>
+                        <td><%= turistic_spot.reputation %></td>
+                        <td><%= link_to 'Show', turistic_spot %></td>
+                        <td><%= link_to 'Edit', edit_turistic_spot_path(turistic_spot) %></td>
+                        <td><%= link_to 'Destroy', turistic_spot, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+                      </tr>
+                    <% end %>
+                  </tbody>
+                </table>
+
+            </div>
+        </div>
+
+    </div>
+<br>
+
+<%= link_to 'New Turistic Spot', new_turistic_spot_path %>

@@ -1,0 +1,80 @@
+<div class="main-content-wrapper section-padding-100">
+        <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-12 col-lg-8">
+                    <div class="post-content-area mb-100">
+                        <!-- Catagory Area -->
+                        <div class="world-catagory-area">
+                            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                <li class="title"><h3><%= @city.name %></h3></li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#" role="tab" aria-controls="world-tab-1" aria-selected="true">All</a>
+                                </li>
+                            </ul>
+
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="world-tab-1" role="tabpanel" aria-labelledby="tab1">
+                                  <% @posts.each do |post| %>
+                                      <!-- Single Blog Post -->
+                                      <div class="single-blog-post post-style-4 d-flex align-items-center">
+                                          <!-- Post Content -->
+                                          <div class="post-content">
+                                                <%= render 'posts/post', post: post %>
+                                          </div>
+                                      </div>
+                                    <% end %>
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-8 col-lg-4">
+                    <div class="post-sidebar-area">
+                        <!-- Widget Area -->
+                        <div class="sidebar-widget-area">
+                            <h5 class="title">New Post!</h5>
+                            <div class="world-catagory-area">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="nav-text-tab" data-toggle="tab" href="#nav-text" role="tab" aria-controls="nav-text" aria-selected="true">Texto</a>          
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="nav-post-link-tab" data-toggle="tab" href="#nav-post-link" role="tab" aria-controls="nav-post-link" aria-selected="false">Link</a>          
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="nav-image-tab" data-toggle="tab" href="#nav-image" role="tab" aria-controls="nav-image" aria-selected="false">Imagen</a>
+                                    </li>   
+                                    <li class="nav-item">    
+                                        <a class="nav-link" id="nav-poll-tab" data-toggle="tab" href="#nav-poll" role="tab" aria-controls="nav-poll" aria-selected="false">Encuesta</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="widget-content">
+                                
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav-text" role="tabpanel" aria-labelledby="nav-text-tab">
+                                        <%= render 'posts/text_post', post: @post %>
+                                    </div>
+                                    <div class="tab-pane fade" id="nav-post-link" role="tabpanel" aria-labelledby="nav-post-link-tab">
+                                        <%= render 'posts/link_form', post: @post %>
+                                    </div>
+
+                                    <div class="tab-pane fade" id="nav-image" role="tabpanel" aria-labelledby="nav-image-tab">
+                                        <%= render 'posts/image_form', post: @post %>
+                                    </div>
+                                    <div class="tab-pane fade" id="nav-poll" role="tabpanel" aria-labelledby="nav-image-tab">
+                                        <%= form_for(@post) do |f| %>
+                                            <%= render 'posts/poll_form', post: @post %>
+                                        <% end %>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+

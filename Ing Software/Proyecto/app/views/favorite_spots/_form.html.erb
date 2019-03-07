@@ -1,0 +1,27 @@
+<%= form_with(model: favorite_spot, local: true) do |form| %>
+  <% if favorite_spot.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(favorite_spot.errors.count, "error") %> prohibited this favorite_spot from being saved:</h2>
+
+      <ul>
+      <% favorite_spot.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.number_field :user_id, id: :favorite_spot_user_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :turistic_spot_id %>
+    <%= form.number_field :turistic_spot_id, id: :favorite_spot_turistic_spot_id %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

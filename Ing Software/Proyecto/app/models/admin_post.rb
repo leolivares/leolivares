@@ -1,0 +1,2 @@
+class AdminPost < ApplicationRecord
+end

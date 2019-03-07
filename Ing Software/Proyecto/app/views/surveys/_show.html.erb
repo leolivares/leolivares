@@ -1,0 +1,18 @@
+<div class="border-show-div">
+<div class="container">
+
+  
+    <% if @survey.questions.any? %>
+      <%= form_tag answers_path, method: :post do %>
+         <%= hidden_field_tag 'user_id', current_user.id %>
+         <%= hidden_field_tag 'survey_id', @survey.id %>
+        <%= render @survey.questions %>
+        <div class="btn-group-vertical" style="width: 100%;padding-bottom: 2rem;" role="group" aria-label="Basic example">
+        <%= submit_tag 'Submit Survey', class: "btn btn-info btn-md btn-block"  %>
+        <%= link_to "Resultados", {:controller => "surveys", :action => "check_result", :survey_id => @survey.id}, class: "btn btn-info btn-md btn-block"  %>
+        </div>
+        <br>
+      <% end %>
+    <% end %>
+</div>
+</div>

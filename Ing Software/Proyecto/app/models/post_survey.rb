@@ -1,0 +1,2 @@
+class PostSurvey < ApplicationRecord
+end

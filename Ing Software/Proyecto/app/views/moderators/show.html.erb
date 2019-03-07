@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= @moderator.user %>
+</p>
+
+<p>
+  <strong>Country:</strong>
+  <%= @moderator.country %>
+</p>
+
+<%= link_to 'Edit', edit_moderator_path(@moderator) %> |
+<%= link_to 'Back', moderators_path %>

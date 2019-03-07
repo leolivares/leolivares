@@ -1,0 +1,46 @@
+<section class="contact-area section-padding-100">
+    <div class="container">
+        <div class="row justify-content-center">
+            <!-- Login Form Area -->
+            <div class="col-12 col-md-10 col-lg-8">
+                <div class="contact-form">
+                    <h5>Login</h5>
+                    <!-- Login Form -->
+                      <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+                        <div class="col-12">
+                          <div class="group">
+                              <%= f.email_field :email, :required => true%>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                              <label>Email</label>
+                          </div>
+                        </div>
+                        <div class="col-12">
+                          <div class="group">
+                              <%= f.password_field :password, autocomplete: "current-password", :required => true %>
+                              <span class="highlight"></span>
+                              <span class="bar"></span>
+                              <label>Password</label>
+                          </div>
+                        </div>
+                        <% if devise_mapping.rememberable? -%>
+                          <div class="col-6">
+                              <div class="field">
+                                <%= f.check_box :remember_me %>
+                                <%= f.label :remember_me, style: "color: #8d8d8d"%>
+                            </div>
+                          </div>
+                        <% end -%>
+                        <div class="col-12">
+                            <%= f.button "Log in", class: 'btn world-btn', style: 'margin-top: 0px;'%>
+                        </div>
+                      <% end %>
+                      <div class="col-12", style="margin-top: 1rem;">
+                        <%= render "devise/shared/links" %>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

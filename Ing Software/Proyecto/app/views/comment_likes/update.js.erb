@@ -1,0 +1,20 @@
+
+var disliked = document.getElementById("<%='comment_dislike'+params[:comment_id]%>");
+var liked = document.getElementById("<%='comment_like'+params[:comment_id]%>");
+var points = document.getElementById("<%='comment_points'+params[:comment_id]%>");
+
+if (liked.style.color != 'red') {
+    liked.style.color = 'red';
+    if (disliked.style.color != 'gray') {
+    	disliked.style.color = 'gray'
+    	points.text = parseInt(points.text, 10) + 2;
+    }
+    else {
+    	points.text = parseInt(points.text, 10) + 1;
+    }
+}
+	
+else {
+	liked.style.color = 'gray';
+	points.text = parseInt(points.text, 10) - 1;
+}

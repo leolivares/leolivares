@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= @request.user.email %>
+</p>
+
+<p>
+  <strong>Country:</strong>
+  <%= @request.country.name %>
+</p>
+
+<p>
+  <strong>State:</strong>
+  <%= @request.state %>
+</p>
+
+<p>
+  <strong>Reason:</strong>
+  <%= @request.reason %>
+</p>
+
+<%= link_to 'Edit', edit_request_path(@request) %> |
+<%= link_to 'Back', requests_path %>

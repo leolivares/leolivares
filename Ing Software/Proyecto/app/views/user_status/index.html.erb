@@ -1,0 +1,23 @@
+<h1>Hello, welcome to the index page</h1>
+<p>El proposito de esta pagina es para probar el comportamiento del AUTH del usuario, en seguida, se muestran los attributos del usuario</p>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Reputacion</th>
+        <th>avatar</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><%= current_user.id %></td>
+        <td><%= current_user.name %></td>
+        <td><%= current_user.email %></td>
+        <td><%= current_user.reputation %></td>
+        <td><%= image_tag current_user.avatar.thumb.url %></td>
+      </tr>
+    </tbody>
+  </table>

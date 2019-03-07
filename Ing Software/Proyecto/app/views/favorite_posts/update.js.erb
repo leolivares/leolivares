@@ -1,0 +1,18 @@
+var fav_logo = document.getElementById("<%='fav_star'+params[:post_id]%>");
+var fav_text = document.getElementById("<%='fav_text'+params[:post_id]%>");
+console.log("hoa")
+console.log(fav_text.text)
+
+if (fav_logo.style.color == 'gold') {
+    fav_text.text = 'Favorite';
+    //fav_text.style.color = 'gray';
+    fav_logo.style.color = 'black';
+}
+else {
+    fav_text.text = 'Unfavorite';
+    //fav_text.style.color = 'gold';
+    fav_logo.style.color = 'gold';
+}
+
+
+   

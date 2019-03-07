@@ -1,0 +1,162 @@
+﻿id_usuario,apellido,nombre,correo,sexo,edad,clave
+0,ABUSLEME,RAFAEL ANTONIO,raabusleme@uc.cl,M,20,gorrlr
+1,AGUILLÓN,JUAN JOSÉ ARTURO,jjaguillon@uc.cl,M,19,uiigtk
+2,ALLIENDE,MARÍA JOSEFINA,moalliende@uc.cl,F,18,yzjxst
+3,ÁLVAREZ,VALENTINA JAVIERA,vjalvarez@uc.cl,F,23,btgofu
+4,ÁLVAREZ,TOMÁS,talvarez2@uc.cl,M,10,vgpjwq
+5,ALVAREZ,AUGUSTO ALEJANDRO,aaalvarez@uc.cl,M,14,wqofrq
+6,ANDRADE,KENZO,kandrade@uc.cl,M,28,grkadq
+7,APABLAZA,FELIPE EDUARDO,feapablaza@uc.cl,F,10,mituup
+8,ARELLANO,PAULA FABIOLA,pfarellano@uc.cl,M,10,mtxuce
+9,AVALOS,ANDRES EMILIO,aeavalos@uc.cl,M,15,weagwe
+10,AYANCAN,BENJAMIN EDUARDO,beayancan@uc.cl,M,21,xohxmz
+11,BAEZA,IGNACIA,ibaeza1@uc.cl,F,17,ilmidf
+12,BALBONTÍN,NICOLÁS FELIPE,nfbalbontin@uc.cl,M,16,qyznaz
+13,BAO,JAVIERA BELÉN,jbbao@uc.cl,F,20,eeudtc
+14,BARRÍA,FELIPE RAÚL,frbarria@uc.cl,M,27,udyrrr
+15,BARRIENTOS,FELIPE ANTONIO,fnbarrientos@uc.cl,M,21,gztosn
+16,BENGOA,JOSEFINA,jbengoa1@uc.cl,F,18,coghtc
+17,BERRÍOS,CAMILO IGNACIO,ciberrios@uc.cl,M,24,jlatsz
+18,BERRIOS,FELIPE ALBERTO,faberrios@uc.cl,M,28,hkduja
+19,BUGMANN,JOAQUÍN ALBERTO,jabugmann@uc.cl,M,22,gllyvz
+20,BUSCH,ALBERTO TOMÁS,atbusch@uc.cl,M,21,cpiaxs
+21,CAMPENY,AGUSTÍN RICARDO,arcampeny@uc.cl,M,12,gcorgq
+22,CAROCA,DIEGO ANTONIO,dncaroca@uc.cl,M,20,ajasxl
+23,CARRASCO,DANIEL ROBERTO,drcarrasco@uc.cl,M,19,piydcg
+24,CARREÑO,SEBASTIÁN IGNACIO,sgcarreno@uc.cl,M,10,uuhyrz
+25,CHÁVEZ,CAMILA SOFÍA,cschavez@uc.cl,F,10,mbxqef
+26,CHRISTENSEN,ANTONIA,achristensen1@uc.cl,F,17,xwainh
+27,COBO,ANTONIA SOFIA,ascobo@uc.cl,F,20,ptjmby
+28,CONCHA,DANIELA ALEJANDRA,daconcha@uc.cl,F,27,utvsar
+29,CONTRERAS,IGNACIO,icontreras1@uc.cl,M,27,glttfo
+30,CUCUMIDES,TAMARA ALEXANDRA,tacucumides@uc.cl,F,19,dmxsoy
+31,DARRITCHON,DANIEL EDUARDO,dedarritchon@uc.cl,M,19,cdkzyl
+32,DE DIEGO,FERNANDO ANTONIO,fadediego@uc.cl,M,27,uttrtj
+33,DEL REAL,BENJAMÍN IGNACIO,bidelreal@uc.cl,M,24,wcxupx
+34,DELGADO,FERNANDA,fdelgado@uc.cl,F,26,aggjzb
+35,DOMB,BENJAMIN IGAL,bidomb@uc.cl,M,20,pkjvjf
+36,DURAN,FERNANDA ROCIO,frduran@uc.cl,F,25,nxcsfn
+37,ECHEVERRÍA,DIEGO HERNÁN,dhecheverria@uc.cl,M,22,uozlnt
+38,EICHHOLZ,JOAQUIN,jeichholz3@uc.cl,M,18,jabfqm
+39,ESCUDERO,MARCELO IGNACIO,miescudero@uc.cl,M,29,umthdy
+40,ESPINOZA,BARBARA MARIANA,bmespinoza@uc.cl,F,11,dlgpai
+41,EVERKE,SARAH VIRGINIA,sveverke@uc.cl,F,28,rpkycu
+42,EYZAGUIRRE,RAIMUNDO,reyzaguirre1@uc.cl,M,23,mrpoam
+43,FIELDHOUSE,IAN,ifieldhouse@uc.cl,M,10,hazlfo
+44,FREY,MAXIMILIANO BENJAMÍN,mbfrey@uc.cl,M,14,lexbuv
+45,FUENTES,BENJAMIN IGNACIO,bgfuentes@uc.cl,M,21,xjrmdi
+46,GABLER,MATÍAS ANDRÉS,mngabler@uc.cl,M,28,xzaaxj
+47,GAÍNZA,CONSTANZA MIKELA,cmgainza@uc.cl,F,29,vonged
+48,GARRIDO,NICOLÁS JORGE,njgarrido@uc.cl,M,15,zjoqby
+49,GRAMSCH,LUCAS ESTEBAN,legramsch@uc.cl,M,11,xzpuhy
+50,HAEUSSLER,PABLO ANDRÉS,pahaeussler@uc.cl,M,11,uzesac
+51,HANUCH,RODRIGO IGNACIO,rihanuch@uc.cl,M,17,ckdhpt
+52,HARCHA,JORGE ESTEBAN,jeharcha@uc.cl,M,17,gectpz
+53,HERRERA,CATALINA FRANCISCA DEL CA,cfherrera@uc.cl,F,23,vxrttt
+54,HERREROS,CRISTOBAL EDUARDO,ceherreros@uc.cl,M,19,debzqy
+55,ILABACA,CRISTOBAL,cilabaca1@uc.cl,M,20,magpwj
+56,INOSTROZA,JAVIERA MONSERRAT,jminostroza@uc.cl,F,25,iuovpt
+57,IRARRAZAVAL,ALFONSO JUAN DE DIOS,auirarrazaval@uc.cl,M,26,ccwcjv
+58,JIMÉNEZ,FELIPE CARLOS,fcjimenez@uc.cl,M,12,dxpcjs
+59,JOUBLAN,JEAN PAUL ANDRE,jpjoublan@uc.cl,M,23,easydn
+60,JUAREZ,VICENTE IGNACIO,vijuarez@uc.cl,M,22,trbmbf
+61,KINAST,SANTIAGO JOSE,sjkinast@uc.cl,M,10,ogeprw
+62,KREBS,AGUSTIN,akrebs2@uc.cl,M,24,hohrmr
+63,LEPE,CARLA DANIELA,cdlepe@uc.cl,F,20,bsexle
+64,LIRA,MARTÍN IGNACIO,mglira@uc.cl,M,12,yplvzj
+65,LIRA,VICENTE JOSE,vjlira@uc.cl,M,10,hypezd
+66,LOYOLA,LUIS ALBERTO,llloyola@uc.cl,M,20,ifwmay
+67,MARAMBIO,VÍCTOR ARIEL,vamarambio@uc.cl,M,28,jvmguy
+68,MARDONES,MAXIMILIANO ANDRES,mnmardones@uc.cl,M,13,rxdvaq
+69,MARTÍNEZ,BENJAMÍN IGNACIO,bimartinez@uc.cl,M,13,sazhdz
+70,MARTÍNEZ,JUAN JOSÉ,jjmartinez1@uc.cl,M,24,poqxwn
+71,MARTINEZ,RAIMUNDO,rmartinez7@uc.cl,M,19,kracol
+72,MEDINA,WILLIAMS ALEJANDRO,wamedina@uc.cl,M,18,tqdtdt
+73,MELÍN,VICENTE TOMÁS,vtmelin@uc.cl,M,10,cdwlvk
+74,MESTRE,ESTEBAN,emestre@uc.cl,M,12,yhvuwy
+75,MIDDLETON,JAIME ANDRES,jamiddleton@uc.cl,M,16,fnoghu
+76,MINGO,MATÍAS ANDRÉS,mamingo@uc.cl,M,13,nkntrl
+77,MOLINA,DIEGO,dmolina2@uc.cl,M,15,yfkexw
+78,MOLINA,JEREMÍAS ANDRÉS,jamolina3@uc.cl,M,18,vreyfh
+79,MORAGA,JUAN PABLO,jomoraga@uc.cl,M,18,biskjd
+80,MUSSUTO,VITO ARCANGELO,vamussuto@uc.cl,M,21,lktsjw
+81,NESTLER,JUAN JOSÉ,jjnestler@uc.cl,M,25,ryvwnw
+82,OLEA,PABLO IGNACIO,pgolea@uc.cl,M,19,srczoe
+83,OLIDEN,NORMAN ANDRES,naoliden@uc.cl,M,30,svkwgc
+84,OLIVARES,LEONARDO ENRIQUE,leolivares@uc.cl,M,21,ntkfmy
+85,OPASO,JOSE MANUEL,jmopaso@uc.cl,M,18,xmrzon
+86,ORTEGA,MARIANA VALENTINA,mvortega2@uc.cl,F,11,mpalwm
+87,PARRAGUEZ,NICOLÁS ALEJANDRO,nlparraguez@uc.cl,M,24,njqkaa
+88,PLASS,ANDRES,aplass@uc.cl,M,12,cavhtt
+89,PLAZA DE LOS REYES,MARIA IGNACIA,miplazadelosreyes@uc.cl,F,28,hmjahv
+90,POBLETE,SEBASTIÁN IGNACIO,sipoblete@uc.cl,M,30,rlfrmu
+91,POBLETE,CRISTÓBAL MARTÍN,cmpoblete@uc.cl,M,15,unicnq
+92,POTIN,PHILIPPE ANDRE,papotin@uc.cl,M,20,bydqjh
+93,PRIETO,CLAUDIO JOSE,cjprieto@uc.cl,M,22,uwdmmu
+94,QUIROGA,GONZALO TOMAS,gtquiroga@uc.cl,M,25,agoxyq
+95,QUIROZ,NICOLÁS ALBERTO,naquiroz@uc.cl,M,27,myftye
+96,RAMIREZ,MARTIN,mramirez7@uc.cl,M,30,djedly
+97,RICKE,SEBASTIAN,sricke@uc.cl,M,20,ycvrfh
+98,RODRÍGUEZ,PABLO IGNACIO,pcrodriguez@uc.cl,M,24,jsiqzt
+99,ROJAS,VALENTINA,vrojas5@uc.cl,F,11,oppvpz
+100,SALDÍAS,MARCELO IGNACIO,misaldias@uc.cl,M,23,npnkkr
+101,SALVADORES,TOMAS IGNACIO,tisalvadores@uc.cl,M,19,nxknrx
+102,SÁNCHEZ,MARÍA IGNACIA,mcsanchez@uc.cl,F,28,xvxslr
+103,SCHILLING,RICARDO ESTEBAN,reschilling@uc.cl,M,15,mecwic
+104,SCHUIT,GREGORY KEES,gkschuit@uc.cl,M,13,fltmrf
+105,SIEGEL,JAN PAUL,jasiegel@uc.cl,M,20,ccinuw
+106,TALADRIZ,FEDERICO ANDRES,fntaladriz@uc.cl,M,24,ihmxts
+107,TORRES,DUNKAN NICOLÁS,dntorres1@uc.cl,M,27,zangnq
+108,TRAMON,JAVIER OMAR,jotramon@uc.cl,M,26,xqwats
+109,VALENZUELA,TOMÁS PATRICIO,tpvalenzuela@uc.cl,M,28,aernky
+110,VELOZO,SEBASTIAN ANDRES,savelozo@uc.cl,M,10,srshvb
+111,VILLALOBOS,TIEN,tvillalobos1@uc.cl,M,12,ufwslf
+112,WALLACE,THOMAS,twallace@uc.cl,M,21,wfxpqx
+113,WAUGH,ENRIQUE,ewaugh2@uc.cl,M,19,fwafnn
+114,WIELANDT,JOSE MANUEL,jmwielandt@uc.cl,M,18,dyjnxy
+115,YOMA,DINKO FERNANDO,dfyoma@uc.cl,M,30,oypjzb
+116,ZENTENO,MATÍAS ALEJANDRO,mlzenteno@uc.cl,M,27,tjjjiy
+117,ZÚÑIGA,SAMUEL EMILIO,sezuniga1@uc.cl,M,11,dpteib
+118,ZUPEUC,DANIEL,dzupeuc@uc.cl,M,13,tzzzzi
+119,S/A,Old Navy,jonadab@sbcglobal.net,No Aplica,No Aplica,No Aplica
+120,S/A,Dick's Sporting Goods,ryanvm@aol.com,No Aplica,No Aplica,No Aplica
+121,S/A,Big Bang Bicycles,mjewell@optonline.net,No Aplica,No Aplica,No Aplica
+122,S/A,American Thrift Center,pajas@comcast.net,No Aplica,No Aplica,No Aplica
+123,S/A,Cindy Esser's Floral Shop,denism@icloud.com,No Aplica,No Aplica,No Aplica
+124,S/A,Red White & Blue Thrift Store,symbolic@yahoo.ca,No Aplica,No Aplica,No Aplica
+125,S/A,Paul's Clock Repair,dkrishna@msn.com,No Aplica,No Aplica,No Aplica
+126,S/A,Falabella,tjensen@yahoo.com,No Aplica,No Aplica,No Aplica
+127,S/A,Homecenter,mhassel@mac.com,No Aplica,No Aplica,No Aplica
+128,S/A,Casa Ideas,giafly@sbcglobal.net,No Aplica,No Aplica,No Aplica
+129,S/A,Adidas,martyloo@hotmail.com,No Aplica,No Aplica,No Aplica
+130,S/A,Porto Fino,esbeck@msn.com,No Aplica,No Aplica,No Aplica
+131,S/A,Paddy's House,frostman@yahoo.com,No Aplica,No Aplica,No Aplica
+132,S/A,Nike,iapetus@sbcglobal.net,No Aplica,No Aplica,No Aplica
+133,S/A,Walmart,bjornk@hotmail.com,No Aplica,No Aplica,No Aplica
+134,S/A,Apple,scotfl@gmail.com,No Aplica,No Aplica,No Aplica
+135,S/A,Jumbo,sekiya@yahoo.ca,No Aplica,No Aplica,No Aplica
+136,S/A,Loft,catalog@gmail.com,No Aplica,No Aplica,No Aplica
+137,S/A,North Face,chaki@msn.com,No Aplica,No Aplica,No Aplica
+138,S/A,Assoto,alfred@hotmail.com,No Aplica,No Aplica,No Aplica
+139,S/A,Rapa Nui,mddallara@yahoo.com,No Aplica,No Aplica,No Aplica
+140,S/A,Hoyts Cinema,sisyphus@me.com,No Aplica,No Aplica,No Aplica
+141,S/A,Tom Bradley Airport,burns@msn.com,No Aplica,No Aplica,No Aplica
+142,S/A,Metro,brainless@live.com,No Aplica,No Aplica,No Aplica
+143,S/A,Shop 'n Save,parents@yahoo.ca,No Aplica,No Aplica,No Aplica
+144,S/A,McDonald's,webteam@live.com,No Aplica,No Aplica,No Aplica
+145,S/A,Latina Pizza,hamilton@hotmail.com,No Aplica,No Aplica,No Aplica
+146,S/A,Bellisario Pizza Shop,jimxugle@live.com,No Aplica,No Aplica,No Aplica
+147,S/A,Hunan Wok Chinese Restaurant,moonlapse@outlook.com,No Aplica,No Aplica,No Aplica
+148,S/A,Minerva Bakery,delpino@optonline.net,No Aplica,No Aplica,No Aplica
+149,S/A,Pierogies Plus,ullman@optonline.net,No Aplica,No Aplica,No Aplica
+150,S/A,Marge's Place,wkrebs@att.net,No Aplica,No Aplica,No Aplica
+151,S/A,Applebee's,nullchar@verizon.net,No Aplica,No Aplica,No Aplica
+152,S/A,R & B's Pizza Place,monkeydo@optonline.net,No Aplica,No Aplica,No Aplica
+153,S/A,Luigi's Pizzeria,mcrawfor@sbcglobal.net,No Aplica,No Aplica,No Aplica
+154,S/A,Donald's,gslondon@att.net,No Aplica,No Aplica,No Aplica
+155,S/A,China Sea Chinese Restaurant,matloff@verizon.net,No Aplica,No Aplica,No Aplica
+156,S/A,Avalon Motel,geekgrl@hotmail.com,No Aplica,No Aplica,No Aplica
+157,S/A,Star Nails,dobey@optonline.net,No Aplica,No Aplica,No Aplica
+158,S/A,Vivo,crypt@comcast.net,No Aplica,No Aplica,No Aplica
+159,S/A,Remember When,msusa@live.com,No Aplica,No Aplica,No Aplica
+160,S/A,Pistella Beer Distributors,staikos@msn.com,No Aplica,No Aplica,No Aplica

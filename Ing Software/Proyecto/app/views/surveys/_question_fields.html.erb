@@ -1,0 +1,15 @@
+<div class="nested-fields">
+  <div class="field">
+    <%= f.text_field :title, class: 'form-control'%>
+  </div>
+      <div id="responces">
+      <%= f.fields_for :responces do |responce| %>
+        <% render 'responce_fields', f: responce %>
+      <% end %>
+      <div class="links">
+          <button type="button" class="btn btn-info btn-md"><%= link_to_add_association 'add option', f, :responces %></button>
+      </div>
+    </div>
+  
+  <%= link_to_remove_association "remove responce", f %>
+</div>

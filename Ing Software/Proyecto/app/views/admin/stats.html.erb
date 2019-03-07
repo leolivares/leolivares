@@ -1,0 +1,75 @@
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <div class="card">
+                <div class="card-body">
+                    <%= line_chart @data, @options %>
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="card">
+                <div class="card-body">
+                    <%= radar_chart @data_r, @options_r %>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                <th scope="col">Foro más activo</th>
+                <th scope="col">Link</th>
+                <th scope="col">Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <th scope="row">País</th>
+                <% if @best_country then %>
+                    <td><%= link_to @best_country.name, @best_country %></td>
+                <% else %>
+                    <td>Null</td>
+                <% end %>
+                <td><%= @best_country_q %></td>
+                </tr>
+                <tr>
+                <th scope="row">Ciudad</th>
+                <% if @best_city then %>
+                    <td><%= link_to @best_city.name, @best_city %></td>
+                <% else %>
+                    <td>Null</td>
+                <% end %>
+                <td><%= @best_city_q %></td>
+                </tr>
+                <tr>
+                <th scope="row">Hotel</th>
+                <% if @best_hotel then %>
+                    <td><%= link_to @best_hotel.nombre, @best_hotel %></td>
+                <% else %>
+                    <td>Null</td>
+                <% end %>
+                <td><%= @best_hotel_q %></td>
+                </tr>
+                <th scope="row">Restaurante</th>
+                <% if @best_restaurant then %>
+                    <td><%= link_to @best_restaurant.nombre, @best_restaurant %></td>
+                <% else %>
+                    <td>Null</td>
+                <% end %>
+                <td><%= @best_restaurant_q %></td>
+                </tr>
+                 <th scope="row">Lugar Turistico</th>
+                <% if @best_poi then %>
+                    <td><%= link_to @best_poi.nombre, @best_poi %></td>
+                <% else %>
+                    <td>Null</td>
+                <% end %>
+                <td><%= @best_poi_q %></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

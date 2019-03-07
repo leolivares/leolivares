@@ -1,0 +1,88 @@
+<h1><%= @user.name %>'s Profile</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-sm-12 col-xs-12">
+      <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+          <a class="nav-item nav-link active" id="nav-post-tab" data-toggle="tab" href="#nav-post" role="tab" aria-controls="nav-post" aria-selected="true">Publicaciones</a>
+          <a class="nav-item nav-link" id="nav-saved-tab" data-toggle="tab" href="#nav-saved" role="tab" aria-controls="nav-saved" aria-selected="false">Favoritos</a>
+        </div>
+        <div class="tab-content" id="nav-tabContent">
+          <div class="tab-pane fade show active" id="nav-post" role="tabpanel" aria-labelledby="nav-post-tab">
+
+            <% @my_posts.each do |post| %>
+
+              <%= render 'posts/post', post: post %>
+
+
+            <% end %>
+            <%== pagy_nav_bootstrap(@pagy_post) %>
+          </div>
+
+
+
+          <div class="tab-pane fade" id="nav-saved" role="tabpanel" aria-labelledby="nav-saved-tab">
+
+            <% @my_favs.each do |post| %>
+              <%= render 'posts/post', post: post %>
+            <% end %>
+            <%== pagy_nav_bootstrap(@pagy_post) %>
+
+          </div>
+        </div>
+      </nav>
+    </div>
+  <div class="col-md-4 col-sm-12 col-xs-12">
+    <div class="card">
+      <%= image_tag @user.avatar.url, :class => "card-img-top" %>
+        <div class="card-body">
+          <div class="column">
+            <div class="row">
+              <h5 class="card-title"><%= @user.email %></h5>
+            </div>
+            <div class="row">
+              <p class="card-text">Reputación: <%= @reputation %></p>
+              <% for i in 1..@complete_stars %>
+                <i class="fa fa-star" style="color:gold;"></i>
+              <% end %>
+              <% for k in 1..@half_star %>
+                <i class="fa fa-star-half-o" style="color:gold;"></i>
+              <% end %>
+              <% for j in 1..@empty_stars %>
+                <i class="fa fa-star-o" style="color:gold;"></i>
+              <% end %>
+            </div>
+            <div class="row">
+              <p class="card-text">Posts: <%= @user.posts.size %></p> | <p class="card-text"> Likes: <%= @likes_p %></p> | <p class="card-text"> Dislikes: <%= @dislikes_p %></p>
+            </div>
+
+            <% if !@own_profile %>
+                <% if current_user %>
+                  <% if !@subscribed %>
+                     <%= button_to subscribe_path(@user.id), method: :post, class: "btn btn-primary", remote: true do %>
+                                  <i id="follow_button">Follow!</i>
+                              <% end %>
+                  <% else %>
+                    <%= button_to subscribe_path(@user.id), method: :post, class: "btn btn-primary", remote: true do %>
+                                  <i id="follow_button">UnFollow!</i>
+                      <% end %>
+                  <% end %>
+                <% else %>
+                  <%= button_to subscribe_path(@user.id), method: :post, class: "btn btn-primary" do %>
+                                  <i id="follow_button"> Follow! </i>
+                              <% end %>
+                <% end %>
+
+            <% end %>
+
+            <% if @own_profile %>
+              <div class="row">
+                <%= button_to 'Edit profile', edit_user_registration_path, {method: 'get', class: "btn btn-primary"} %>
+              </div>
+            <% end %>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div>

@@ -1,0 +1,515 @@
+    <div class="main-content-wrapper section-padding-50" >
+        <div class="container">
+            <div class="row justify-content-center">
+                <!-- ============= Post Content Area Start ============= -->
+                <div class="col-12 col-lg-8">
+
+                    <% if current_user %>
+                        <div class="post-content-area mb-50">
+                            <!-- Catagory Area -->
+                            <div class="world-catagory-area">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="title">Your Feed</li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="tab1" data-toggle="tab" href="#feed" role="tab" aria-controls="feed" aria-selected="true">Todos</a>
+                                    </li>
+
+                                </ul>
+
+                                <div class="tab-content" id="myTabContent">
+
+                                    <div class="tab-pane fade show active" id="feed" role="tabpanel" aria-labelledby="tab1">
+                                        <div class="row">
+                                            <div class="col-12 col-md-6">
+                                                <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                                                    <% @feed_posts_images.first(5).each do |post| %>
+                                                    <!-- Single Blog Post -->
+                                                        <div class="single-blog-post">
+                                                            <!-- Post Thumbnail -->
+                                                            <div class="post-thumbnail">
+                                                                <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                                <!-- Catagory -->
+                                                                <div class="post-cta"><a href="#">travel</a></div>
+                                                            </div>
+                                                            <!-- Post Content -->
+                                                            <div class="post-content">
+                                                                <%= link_to(post, :class => "headline") do %>
+                                                                    <h5><%= post.title %></h5>
+                                                                <% end %>
+                                                                <p></p>
+                                                                <!-- Post Meta -->
+                                                                <div class="post-meta">
+                                                                    <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    <% end %>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-12 col-md-6">
+                                                <!-- Single Blog Post -->
+                                                <% @feed_posts.first(6).each do |post| %>
+                                                    <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                        <!-- Post Content -->
+                                                        <div class="post-content">
+                                                            <%= link_to(post, :class => "headline") do %>
+                                                                <h5><%= post.title %></h5>
+                                                            <% end %>
+                                                            <!-- Post Meta -->
+                                                            <div class="post-meta">
+                                                                <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                <% end %>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                
+                                </div>
+                            </div>
+                        </div>
+                    <% end %>
+
+                    <div class="post-content-area mb-50">
+                        <!-- Catagory Area -->
+                        <div class="world-catagory-area">
+                            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                <li class="title">Don’t Miss</li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#world-tab-1" role="tab" aria-controls="world-tab-1" aria-selected="true">Todos</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#world-tab-2" role="tab" aria-controls="world-tab-2" aria-selected="false">Países</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#world-tab-3" role="tab" aria-controls="world-tab-3" aria-selected="false">Ciudades</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab4" data-toggle="tab" href="#world-tab-4" role="tab" aria-controls="world-tab-4" aria-selected="false">Hoteles</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab5" data-toggle="tab" href="#world-tab-5" role="tab" aria-controls="world-tab-5" aria-selected="false">Restaurantes</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" id="tab6" data-toggle="tab" href="#world-tab-6" role="tab" aria-controls="world-tab-6" aria-selected="false">POI</a>
+                                </li>
+
+
+                            </ul>
+
+                            <div class="tab-content" id="myTabContent">
+
+                                <div class="tab-pane fade show active" id="world-tab-1" role="tabpanel" aria-labelledby="tab1">
+                                    <div class="row">
+                                        <div class="col-12 col-md-6">
+                                            <div class="world-catagory-slider owl-carousel wow fadeInUpBig" data-wow-delay="0.1s">
+                                                <% @image_posts.first(5).each do |post| %>
+                                                <!-- Single Blog Post -->
+                                                    <div class="single-blog-post">
+                                                        <!-- Post Thumbnail -->
+                                                        <div class="post-thumbnail">
+                                                            <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                            <!-- Catagory -->
+                                                            <div class="post-cta"><a href="#">travel</a></div>
+                                                        </div>
+                                                        <!-- Post Content -->
+                                                        <div class="post-content">
+                                                            <%= link_to(post, :class => "headline") do %>
+                                                                <h5><%= post.title %></h5>
+                                                            <% end %>
+                                                            <p></p>
+                                                            <!-- Post Meta -->
+                                                            <div class="post-meta">
+                                                                <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                <% end %>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @recent_posts.first(6).each do |post| %>
+                                                <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <!-- Country tab -->
+                                <div class="tab-pane fade" id="world-tab-2" role="tabpanel" aria-labelledby="tab2">
+                                    <div class="row">
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @country_posts_images.first(1).each do |post| %>
+                                                <div class="single-blog-post">
+                                                    <!-- Post Thumbnail -->
+                                                    <div class="post-thumbnail">
+                                                        <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                        <!-- Catagory -->
+                                                        <div class="post-cta"><a href="#">travel</a></div>
+                                                    </div>
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <p></p>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @country_posts.first(6).each do |post| %>
+                                                <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- City tab -->
+                                <div class="tab-pane fade" id="world-tab-3" role="tabpanel" aria-labelledby="tab3">
+                                    <div class="row">
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @city_posts_images.first(1).each do |post| %>
+                                                <div class="single-blog-post">
+                                                    <!-- Post Thumbnail -->
+                                                    <div class="post-thumbnail">
+                                                        <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                        <!-- Catagory -->
+                                                        <div class="post-cta"><a href="#">travel</a></div>
+                                                    </div>
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <p></p>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @city_posts.first(6).each do |post| %>
+                                                <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Hotel tab -->
+                                <div class="tab-pane fade" id="world-tab-4" role="tabpanel" aria-labelledby="tab4">
+                                    <div class="row">
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @hotel_posts_images.first(1).each do |post| %>
+                                                <div class="single-blog-post">
+                                                    <!-- Post Thumbnail -->
+                                                    <div class="post-thumbnail">
+                                                        <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                        <!-- Catagory -->
+                                                        <div class="post-cta"><a href="#">travel</a></div>
+                                                    </div>
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <p></p>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @hotel_posts.first(6).each do |post| %>
+                                                <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Restaurant tab -->
+                                <div class="tab-pane fade" id="world-tab-5" role="tabpanel" aria-labelledby="tab5">
+                                    <div class="row">
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @restaurant_posts_images.first(1).each do |post| %>
+                                                <div class="single-blog-post">
+                                                    <!-- Post Thumbnail -->
+                                                    <div class="post-thumbnail">
+                                                        <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                        <!-- Catagory -->
+                                                        <div class="post-cta"><a href="#">travel</a></div>
+                                                    </div>
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <p></p>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @restaurant_posts.first(6).each do |post| %>
+                                                <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- POI tab -->
+                                <div class="tab-pane fade" id="world-tab-6" role="tabpanel" aria-labelledby="tab6">
+                                    <div class="row">
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @turistic_spot_posts_images.first(1).each do |post| %>
+                                                <div class="single-blog-post">
+                                                    <!-- Post Thumbnail -->
+                                                    <div class="post-thumbnail">
+                                                        <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                        <!-- Catagory -->
+                                                        <div class="post-cta"><a href="#">travel</a></div>
+                                                    </div>
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <p></p>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+
+                                        <div class="col-12 col-md-6">
+                                            <!-- Single Blog Post -->
+                                            <% @turistic_spot_posts.first(6).each do |post| %>
+                                                <div class="single-blog-post post-style-2 d-flex align-items-center wow fadeInUpBig" data-wow-delay="0.2s">
+                                                    <!-- Post Content -->
+                                                    <div class="post-content">
+                                                        <%= link_to(post, :class => "headline") do %>
+                                                            <h5><%= post.title %></h5>
+                                                        <% end %>
+                                                        <!-- Post Meta -->
+                                                        <div class="post-meta">
+                                                            <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            <% end %>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <!-- ========== Sidebar Area ========== -->
+                <div class="col-12 col-md-8 col-lg-4">
+                    <div class="post-sidebar-area wow fadeInUpBig" data-wow-delay="0.2s">
+                        <!-- Widget Area -->
+                        <div class="sidebar-widget-area">
+                            <h5 class="title">Sobre TripPlanner</h5>
+                            <div class="widget-content">
+                                <p>TripPlanner es una nueva plataforma para compartir sus mejores experiencias en los inolvidables viajes que haz hecho. Planifique su próxima viaje en TripPlanner basados en comentarios de nuestros usuarios.</p>
+                            </div>
+                        </div>
+                        
+                        <!-- Widget Area -->
+                        <% if @best_post %>
+                          <div class="sidebar-widget-area">
+                            <h5 class="title">Today’s Pick</h5>
+                            <div class="widget-content">
+                                <!-- Single Blog Post -->
+                                <div class="single-blog-post todays-pick">
+                                    <!-- Post Thumbnail -->
+                                    <div class="post-thumbnail">
+                                        <%= link_to(image_tag(@best_post.image.url, {:style => "height:13rem; object-fit: cover;"}), @best_post) %>
+                                    <!-- Post Content -->
+                                    <div class="post-content px-0 pb-0">
+                                        <%= link_to(@best_post, :class => 'headline') do %>
+                                            <h5><%= @best_post.title %></h5>
+                                        <% end %>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <% end %>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                            <% if @best_post %>
+                    <h5 class="title">Top Posts</h5>
+                    <div class="row justify-content-center">
+                        <% @featured_image_posts.each do |post| %>
+                            <!-- ========== Single Blog Post ========== -->
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-blog-post post-style-3 mt-50 wow fadeInUpBig" data-wow-delay="0.2s">
+                                    <!-- Post Thumbnail -->
+                                    <div class="post-thumbnail">
+                                        <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                        <!-- Post Content -->
+                                        <div class="post-content d-flex align-items-center justify-content-between">
+                                            <!-- Catagory -->
+                                            <div class="post-tag"><a href="#">travel</a></div>
+                                            <!-- Headline -->
+                                            <%= link_to(post, :class => "headline") do %>
+                                                <h5><%= post.title %></h5>
+                                            <% end %>
+
+                                            <!-- Post Meta -->
+                                            <div class="post-meta">
+                                                <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <% end %>
+                    </div>
+                <% end %>
+
+                <br>
+
+                <% if !@admin_posts.empty? %>
+                    <h5 class="title">Admin's Pick</h5>
+                        <div class="row justify-content-center">
+                            <% @admin_posts.each do |post| %>
+                                <!-- ========== Single Blog Post ========== -->
+                                <div class="col-12 col-md-6 col-lg-4">
+                                    <div class="single-blog-post post-style-3 mt-50 wow fadeInUpBig" data-wow-delay="0.2s">
+                                        <!-- Post Thumbnail -->
+                                        <div class="post-thumbnail">
+                                            <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                            <!-- Post Content -->
+                                            <div class="post-content d-flex align-items-center justify-content-between">
+                                                <!-- Catagory -->
+                                                <div class="post-tag"><a href="#">travel</a></div>
+                                                <!-- Headline -->
+                                                <%= link_to(post, :class => "headline") do %>
+                                                    <h5><%= post.title %></h5>
+                                                <% end %>
+
+                                                <!-- Post Meta -->
+                                                <div class="post-meta">
+                                                    <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <% end %>
+                        </div>
+                <% end %>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+

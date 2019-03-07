@@ -1,0 +1,63 @@
+    <section class="contact-area section-padding-100">
+        <div class="container">
+            <div class="row justify-content-center">
+                <!-- Login Form Area -->
+                <div class="col-12 col-md-10 col-lg-8">
+                    <div class="contact-form">
+                        <h5>Sign up</h5>
+                        <!-- Login Form -->
+                          <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+                            <%= devise_error_messages! %>
+                            <div class="col-12">
+                              <div class="group">
+                                  <%= f.email_field :email, :required => true%>
+                                  <span class="highlight"></span>
+                                  <span class="bar"></span>
+                                  <label>Email</label>
+                              </div>
+                            </div>
+                            <div class="col-12">
+                              <div class="group">
+                                <%= f.text_field :name, :required => true %>
+                                <span class="highlight"></span>
+                                <span class="bar"></span>
+                                <%= f.label :name %>
+                              </div>
+                            </div>
+                            <div class="col-12">
+                              <div class="group">
+                                  <%= f.password_field :password, :required => true %>
+                                  <span class="highlight"></span>
+                                  <span class="bar"></span>
+                                  <%= f.label :password %>
+                                  <% if @minimum_password_length %>
+                                  <em>(<%= @minimum_password_length %> characters minimum)</em>
+                                  <% end %>
+                              </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="group">
+                                     <%= f.password_field :password_confirmation, :required => true %>
+                                    <span class="highlight"></span>
+                                    <span class="bar"></span>
+                                    <%= f.label :password_confirmation %><br />
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <%= f.button "Sign Up", class: 'btn world-btn', style: 'margin-top: 0px;'%>
+                            </div>
+                          <% end %>
+                          <div class="col-12", style="margin-top: 1rem;">
+                            <%= render "devise/shared/links" %>
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+   

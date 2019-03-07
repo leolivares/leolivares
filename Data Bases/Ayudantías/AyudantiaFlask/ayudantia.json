@@ -1,0 +1,56 @@
+[
+    {
+      "message": "Buena! Me encanta el reggaetton. Me despido, salu3. ",
+      "sender": 1,
+      "receptant": 36,
+      "date": "2016-01-21"
+    },
+    {
+      "message": "Te cuento que: Me encanta el reggaetton. Me despido, salu3. ",
+      "sender": 1,
+      "receptant": 16,
+      "date": "2015-08-28"
+    },
+    {
+      "message": "Pasó algo. Bailé hasta muy tarde. Me despido, salu5. ",
+      "sender": 1,
+      "receptant": 14,
+      "date": "2015-07-12"
+    },
+    {
+      "message": "Tanto tiempo! Odio el reggaetton. ",
+      "sender": 1,
+      "receptant": 32,
+      "date": "2016-09-08"
+    },
+    {
+      "message": "Te cuento que: Me comí un churrasco. Espero que nos juntemos pronto. ",
+      "sender": 2,
+      "receptant": 23,
+      "date": "2015-09-24"
+    },
+    {
+      "message": "Sucede que: Me comí un completo. Me despido, salu5. ",
+      "sender": 2,
+      "receptant": 12,
+      "date": "2016-12-15"
+    },
+    {
+      "message": "Hola! Odio el reggaetton. Me despido, salu3. ",
+      "sender": 2,
+      "receptant": 9,
+      "date": "2016-04-08"
+    },
+    {
+      "message": "Buena! Palestino es muy grande. Eso me hace feliz. ",
+      "sender": 2,
+      "receptant": 20,
+      "date": "2015-08-10"
+    },
+    {
+      "message": "Te cuento que: Escuché la nueva canción de Metallica. Jajajajaja. ",
+      "sender": 3,
+      "receptant": 27,
+      "date": "2015-06-24"
+    }
+]

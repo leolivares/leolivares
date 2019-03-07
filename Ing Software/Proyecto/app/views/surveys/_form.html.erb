@@ -1,0 +1,27 @@
+<div class="border-show-div">
+  <%= form_for @survey do |f| %>
+    <% if @survey.errors.any? %>
+      <% @survey.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+    <% end %>
+
+    <div class="form-group">
+      <%= f.hidden_field :post_id, value: params[:post_id] %>
+    </div>
+
+    <h5 class="add-question">Add Questions</h5>
+
+    <div id="questions">
+      <%= f.fields_for :questions do |question| %>
+        <% render 'question_fields', f: question %>
+      <% end %>
+      <div class="links">
+          <button type="button" class="btn btn-info btn-md"><%= link_to_add_association 'add question', f, :questions %></button>
+      </div>
+    </div>
+
+    <%= f.submit class: "btn btn-info btn-block" %>
+  <% end %>
+  <p><%= link_to "Cancel", surveys_path,  class: "btn btn-secondary btn-md btn-block" %></p>
+</div>

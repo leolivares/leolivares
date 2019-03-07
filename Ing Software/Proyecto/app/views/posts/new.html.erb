@@ -1,0 +1,36 @@
+<h1>Nueva Publicación</h1>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 col-sm-12 col-xs-12">
+      <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+          <a class="nav-item nav-link active" id="nav-text-tab" data-toggle="tab" href="#nav-text" role="tab" aria-controls="nav-text" aria-selected="true">Publicación con Texto</a>          
+          <a class="nav-item nav-link" id="nav-post-link-tab" data-toggle="tab" href="#nav-post-link" role="tab" aria-controls="nav-post-link" aria-selected="false">Publicación con Link</a>          
+          <a class="nav-item nav-link" id="nav-image-tab" data-toggle="tab" href="#nav-image" role="tab" aria-controls="nav-image" aria-selected="false">Publicación con Imagen</a>
+          <a class="nav-item nav-link" id="nav-poll-tab" data-toggle="tab" href="#nav-poll" role="tab" aria-controls="nav-poll" aria-selected="false">Publicación con encuesta</a>
+        </div>
+        <div class="tab-content" id="nav-tabContent">
+          <div class="tab-pane fade show active" id="nav-text" role="tabpanel" aria-labelledby="nav-text-tab">
+            <%= render 'text_post', post: @post %>
+          </div>
+
+          <div class="tab-pane fade" id="nav-post-link" role="tabpanel" aria-labelledby="nav-post-link-tab">
+            <%= render 'link_form', post: @post %>
+            
+          </div>
+
+          <div class="tab-pane fade" id="nav-image" role="tabpanel" aria-labelledby="nav-image-tab">
+            <%= render 'image_form', post: @post %>
+          </div>
+
+          <div class="tab-pane fade" id="nav-poll" role="tabpanel" aria-labelledby="nav-image-tab">
+            <%= render 'poll_form', post: @post %>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
+
+

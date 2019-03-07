@@ -1,0 +1,21 @@
+var liked = document.getElementById("<%='like'+params[:post_id]%>");
+var disliked = document.getElementById("<%='dislike'+params[:post_id]%>");
+var points = document.getElementById("<%='points'+params[:post_id]%>");
+
+if (liked.style.color != 'red') {
+    liked.style.color = 'red';
+    if (disliked.style.color != 'gray') {
+    	disliked.style.color = 'gray'
+    	points.text = parseInt(points.text, 10) + 2;
+    }
+    else {
+    	points.text = parseInt(points.text, 10) + 1;
+    }
+}
+	
+else {
+	liked.style.color = 'gray';
+	points.text = parseInt(points.text, 10) - 1;
+}
+
+   

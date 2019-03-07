@@ -1,0 +1,58 @@
+
+<%= form_with(model: post, local: true, multipart: true) do |form| %>
+  <% if post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(post.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% post.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+<% if admin_signed_in? %>
+  <div class="field">
+    <%= form.label :user_id %>
+    <%= form.number_field :user_id, id: :post_user_id %>
+  </div>
+   <div class="field">
+    <%= form.label :image %>
+    <%= form.file_field :image %>
+  </div>
+
+  <div class="field">
+    <%= form.label :type_post %>
+    <%= form.number_field :type_post %>
+  </div>
+
+  <div class="field">
+    <%= form.label :reputation %>
+    <%= form.number_field :reputation, :step => "0.01" %>
+  </div>
+
+  <div class="field">
+    <%= form.label :created_at %>
+    <%= form.text_field :created_at %>
+  </div>
+<% end %>
+
+
+  <div class="field">
+    <%= form.label :title %>
+    <%= form.text_field :title, id: :post_title %>
+  </div>
+
+  <div class="field">
+    <%= form.label :content %>
+    <%= form.text_area :content, id: :post_content %>
+  </div>
+
+ 
+
+  <div class="actions">
+       <%= form.submit :Submit, class: 'btn world-btn', style: 'margin-top: 0px;'%>
+  </div>
+<% end %>
+
+

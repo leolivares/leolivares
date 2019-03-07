@@ -1,0 +1,87 @@
+<%= form_with(model: post, local: true, multipart: true) do |form| %>
+  <% if post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(post.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% post.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <% if user_signed_in? %>
+    <%= form.hidden_field :user_id, value: current_user.id %>
+  <% end %>
+  
+  <div class="col-12">
+    <div class="group">
+        <%= form.text_field :title, id: :post_title, :required => true %>
+        <span class="highlight"></span>
+        <span class="bar"></span>
+        <label><%= form.label :title %></label>
+    </div>
+  </div>
+
+ <div class="col-12">
+    <div class="group">
+      <div class="field">
+        <%= form.label :all_tags %>
+        <%= form.text_field :all_tags %>
+      </div>
+      </div>
+  </div>
+
+ <div class="col-12">
+  <div class="field">
+    <%= form.label :image, "Imagen para publicar", :style => 'color: #8d8d8d;font-size: 14px;font-weight: normal;font-family: "Ubuntu", sans-serif;' %>
+    <span class="btn world-btn-sec btn-file">
+        Choose File
+        <%= form.file_field :image,  id: :post_image%>
+    </span>
+    
+  </div>
+  </div>
+
+
+
+
+  <% if defined?(@country) %>
+    <%= form.hidden_field :country_id, value: @country.id %>
+    <%= form.hidden_field :info, value: "Country: " + @country.name %>
+  
+
+  <% elsif defined?(@city) %>
+    <%= form.hidden_field :city_id, value: @city.id %>
+    <%= form.hidden_field :info, value: "City: " + @city.name %>
+  
+
+  <% elsif defined?(@hotel) %>
+    <%= form.hidden_field :hotel_id, value: @hotel.id %>
+    <%= form.hidden_field :info, value: "Hotel: " + @hotel.nombre %>
+  
+
+  <% elsif defined?(@restaurant) %>
+    <%= form.hidden_field :restaurant_id, value: @restaurant.id %>
+    <%= form.hidden_field :info, value: "Restaurant: " + @restaurant.nombre %>
+  
+
+  <% elsif defined?(@turistic_spot) %>
+    <%= form.hidden_field :turistic_spot_id, value: @turistic_spot.id %>
+    <%= form.hidden_field :info, value: "POI: " + @turistic_spot.nombre %>
+
+
+  <% else %>
+    <%= form.hidden_field :info, value: "General" %>
+  <% end %>
+
+
+  <%= form.hidden_field :type_post, value: 2 %>
+
+  <%= form.hidden_field :reputation, value: 0 %>
+
+  <div class="actions">
+        <%= form.submit :Submit, class: 'btn world-btn', style: 'margin-top: 0px;'%>
+  </div>
+<% end %>

@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Restaurant Posts</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Restaurant</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @restaurant_posts.each do |restaurant_post| %>
+      <tr>
+        <td><%= restaurant_post.restaurant_id %></td>
+        <td><%= link_to 'Show', restaurant_post %></td>
+        <td><%= link_to 'Edit', edit_restaurant_post_path(restaurant_post) %></td>
+        <td><%= link_to 'Destroy', restaurant_post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Restaurant Post', new_restaurant_post_path %>

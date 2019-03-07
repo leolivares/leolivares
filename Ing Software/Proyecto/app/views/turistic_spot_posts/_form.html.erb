@@ -1,0 +1,22 @@
+<%= form_with(model: turistic_spot_post, local: true) do |form| %>
+  <% if turistic_spot_post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(turistic_spot_post.errors.count, "error") %> prohibited this turistic_spot_post from being saved:</h2>
+
+      <ul>
+      <% turistic_spot_post.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :turistic_post_id %>
+    <%= form.number_field :turistic_post_id, id: :turistic_spot_post_turistic_post_id %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,26 @@
+<div class="border-show-div">
+  <div class="container">
+
+    <h3><%= @survey.post.title %></h3>
+
+
+    <table class="table">
+    <thead>
+        <tr>
+        <th scope="col">Option</th>
+        <th scope="col">Votes</th>
+        </tr>
+    </thead>
+    <tbody>
+    <% if @survey.questions.any? %>
+        <% @responces.zip(@vote_count).each do |responce, counter| %>
+                <tr>
+                    <td><%= responce.option %></td>
+                    <td><%= counter %></td>
+                </tr>        
+          <% end %>
+    <% end %>
+      </tbody>
+</table>
+</div>
+</div>

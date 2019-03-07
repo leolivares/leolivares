@@ -1,0 +1,8 @@
+<div class="border-show-div">
+  <%= form_for([@survey, @question, @responce]) do |f| %>
+    <%= f.label :option %>:
+    <%= f.text_field :option, class: 'form-control' %><br />
+
+    <%= f.submit %>
+  <% end %>
+</div>

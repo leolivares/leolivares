@@ -1,0 +1,2 @@
+class ModifyFollower < ApplicationRecord
+end

@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<div class="main-content-wrapper section-padding-50" >
+        <div class="container">
+          <h1>Users</h1>
+            <div class="row justify-content-center">
+
+    <table class="table">
+      <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Reputacion</th>
+            <th>Avatar</th>
+            <th>Action</th>
+          <th colspan="3"></th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <% @users.each do |user| %>
+          <tr>
+            <td><%= user.id %></td>
+            <td><%= user.name %></td>
+            <td><%= user.email %></td>
+            <td><%= user.reputation %></td>
+            <td><%= image_tag user.avatar.thumb.url %></td>
+            <% if user.active == 1%>
+              <td><%= button_to ban_user_path(user.id), method: :post, class: "btn btn-primary" do%>Ban<%end%></td>
+            <% else %>
+              <td><%= button_to unban_user_path(user.id), method: :post, class: "btn btn-primary" do%>Unban<%end%></td>
+            <% end %>
+            
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+
+  </div>
+</div>
+</div>
+
+<br>
+

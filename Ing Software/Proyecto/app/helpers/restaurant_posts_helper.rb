@@ -1,0 +1,2 @@
+module RestaurantPostsHelper
+end

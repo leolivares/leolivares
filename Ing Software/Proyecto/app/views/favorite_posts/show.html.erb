@@ -1,0 +1,26 @@
+
+<p id="notice"><%= notice %></p>
+
+<h1>Favorite Posts</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>User id</th>
+      <th>Post id</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @fav_posts.each do |favorite_post| %>
+      <tr>
+        <td><%= favorite_post.user_id %></td>
+        <td><%= favorite_post.post_id %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Favorite Spot', new_favorite_spot_path %>

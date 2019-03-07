@@ -1,0 +1,9 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Hotel:</strong>
+  <%= @hotel_post.hotel_id %>
+</p>
+
+<%= link_to 'Edit', edit_hotel_post_path(@hotel_post) %> |
+<%= link_to 'Back', hotel_posts_path %>

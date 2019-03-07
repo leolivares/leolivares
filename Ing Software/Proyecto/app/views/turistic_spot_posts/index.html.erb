@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Turistic Spot Posts</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Turistic post</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @turistic_spot_posts.each do |turistic_spot_post| %>
+      <tr>
+        <td><%= turistic_spot_post.turistic_post_id %></td>
+        <td><%= link_to 'Show', turistic_spot_post %></td>
+        <td><%= link_to 'Edit', edit_turistic_spot_post_path(turistic_spot_post) %></td>
+        <td><%= link_to 'Destroy', turistic_spot_post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Turistic Spot Post', new_turistic_spot_post_path %>

@@ -1,0 +1,90 @@
+<div class="row">
+                  <div class="col-md-1">
+
+                    <% if user_signed_in? %>
+                      <% if Like.where({user_id: current_user.id, post_id: post.id}) != [] %>
+
+                        <%= link_to update_likes_path(current_user.id, "#{post.id}"), method: :post, class: "button my-button", remote: true do %>
+                            <i class="fa fa-arrow-up fa-lg" aria-hidden="true" style="color:red;" id="<%= 'like' + post.id.to_s%>"></i>
+                        <% end %>
+                        <%= link_to update_dislikes_path(current_user.id, "#{post.id}"), method: :post, class: "button my-button", remote: true do %>
+                            <i class="fa fa-arrow-down fa-lg" aria-hidden="true" style="color:gray;" id="<%= 'dislike' + post.id.to_s%>"></i>
+                        <% end %>
+
+                      <% elsif Dislike.where({user_id: current_user.id, post_id: post.id}) != [] %>
+                        <%= link_to update_likes_path(current_user.id, "#{post.id}"), method: :post, class: "button my-button", remote: true do %>
+                            <i class="fa fa-arrow-up fa-lg" aria-hidden="true" style="color:gray;" id="<%= 'like' + post.id.to_s%>"></i>
+                        <% end %>
+                        <%= link_to update_dislikes_path(current_user.id, "#{post.id}"), method: :post, class: "button my-button", remote: true do %>
+                            <i class="fa fa-arrow-down fa-lg" aria-hidden="true" style="color:blue;" id="<%= 'dislike' + post.id.to_s%>"></i>
+                        <% end %>
+
+                      <% else %>
+
+                        <%= link_to update_likes_path(current_user.id, "#{post.id}"), method: :post, class: "button my-button", remote: true do %>
+                            <i class="fa fa-arrow-up fa-lg" aria-hidden="true" style="color:gray;" id="<%='like' + post.id.to_s %>"></i>
+                        <% end %>
+                        <%= link_to update_dislikes_path(current_user.id, "#{post.id}"), method: :post, class: "button my-button", remote: true do %>
+                            <i class="fa fa-arrow-down fa-lg" aria-hidden="true" style="color:gray;" id="<%= 'dislike' + post.id.to_s%>"></i>
+                        <% end %>
+
+                        <%end%>
+
+                     <% else %>
+                        <%= link_to update_likes_path(0, "#{post.id}"), method: :post, class: "button my-button" do %>
+                            <i class="fa fa-arrow-up fa-lg" aria-hidden="true" style="color:gray;" id="<%='like' + post.id.to_s %>"></i>
+                        <% end %>
+                        <%= link_to update_dislikes_path(0, "#{post.id}"), method: :post, class: "button my-button" do %>
+                            <i class="fa fa-arrow-down fa-lg" aria-hidden="true" style="color:gray;" id="<%= 'dislike' + post.id.to_s%>"></i>
+                        <% end %>
+
+                    <% end %>
+                  </div>
+
+                  <div class="col">
+                      <div class="row">
+                          <div class="col">
+                              <%= link_to(post) do %>   
+                                <h4><%= post.title %></h4>
+                              <% end %>   
+                        </div>
+                            <p> <%= post.info %> </p>
+                      </div>
+                      <div class="row">
+                          <div class="col-md-12 post-header-line">
+                              <i class="fa fa-user"></i> by <%= link_to post.user.email, show_profile_path(post.user.id)%> |
+                              <i class="fa fa-calendar" aria-hidden="true"></i> <%= post.created_at.strftime("%F %T") %> |
+                              <% if user_signed_in? %>
+                                <% if FavoritePost.where({user_id: current_user.id, post_id: post.id}) != [] %>
+                                  <i class="fa fa-star" aria-hidden="true" style="color:gold;" id="<%= 'fav_star' + post.id.to_s%>"></i><%= link_to "Unfavorite", update_fav_path(current_user.id, post.id), id:'fav_text' + post.id.to_s , class: "text", method: :post, remote: true %> |
+                                <% else %>
+                                  <i class="fa fa-star" aria-hidden="true" style="color:gray;" id="<%= 'fav_star' + post.id.to_s%>"></i><%= link_to "Favorite", update_fav_path(current_user.id, post.id), id:'fav_text' + post.id.to_s , class: "text", method: :post, remote: true %> |
+                                <% end %>
+
+                              <% else %>
+                                <i class="fa fa-star" aria-hidden="true" style="color:gray;" id="<%= 'fav_star' + post.id.to_s%>"></i><%= link_to "Favorite", update_fav_path(0, post.id), id:'fav_text' + post.id.to_s , class: "text", method: :post %> |
+                              <% end %>
+                              <i class="fa fa-comments" aria-hidden="true"></i><a id="<%= 'comment' + post.id.to_s %>"> <%= @comments[post.id] %> </a> <a href="<%= post_path(post.id) %>"> Comments</a> |
+                              <i class="fa fa-arrows-v" aria-hidden="true"></i> Puntos: <a id="<%= 'points' + post.id.to_s%>"> <%= @points[post.id]%>  </a>
+                              <% if @moderator %>
+                               | <i class="fa fa-trash" aria-hidden="true" style="color:red;" id="trash"></i>
+                                  <%= link_to "Delete", delete_post_path("#{post.id}", @country.id), method: :post, class: "text"%>       
+                              <% end %>
+                          </div>
+                      </div>
+      <div class="row post-content">
+
+          <div class="col-md-12">
+              <p>
+              <% if post.type_post == 0 %>
+                <%= post.content %>
+              <% elsif post.type_post == 2 %>
+                <%= image_tag post.image.url, {:style => "width:8vw;"}%>
+              <% end %>
+              </p>
+          </div>
+
+      </div>
+
+  </div>
+</div>

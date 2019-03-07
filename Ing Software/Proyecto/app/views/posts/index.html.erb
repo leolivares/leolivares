@@ -1,0 +1,97 @@
+<p id="notice"><%= notice %></p>
+
+
+
+<div class="main-content-wrapper section-padding-50" >
+        <div class="container">
+          <h3 class="title">Admin's Pick</h3>
+          <div class="row justify-content-center">
+
+            <% if @admin_posts %>
+                                
+                                      <div class="row justify-content-center">
+                                          <% @admin_posts.each do |post| %>
+                                              <!-- ========== Single Blog Post ========== -->
+                                              <div class="col-12 col-md-6 col-lg-4">
+                                                  <div class="single-blog-post post-style-3 mt-50 wow fadeInUpBig" data-wow-delay="0.2s">
+                                                      <!-- Post Thumbnail -->
+                                                      <div class="post-thumbnail">
+                                                          <%= link_to(image_tag(post.image.url, {:style => "height:16rem;object-fit: cover;"}), post) %>
+                                                          <!-- Post Content -->
+                                                          <div class="post-content d-flex align-items-center justify-content-between">
+                                                              <!-- Catagory -->
+                                                              <div class="post-tag"><a href="#">travel</a></div>
+                                                              <!-- Headline -->
+                                                              <%= link_to(post, :class => "headline") do %>
+                                                                  <h5><%= post.title %></h5>
+                                                              <% end %>
+
+                                                              <!-- Post Meta -->
+                                                              <div class="post-meta">
+                                                                  <p><a href="#" class="post-author"><%= link_to post.user.email, show_profile_path(post.user.id)%></a> on <a href="#" class="post-date"><%= post.created_at.strftime("%F %T") %></a></p>
+                                                              </div>
+                                                          </div>
+                                                      </div>
+                                                  </div>
+                                              </div>
+                                          <% end %>
+                                        </div>
+                                  <% end %>  
+
+          </div>
+
+          <br>
+
+
+            <h1>Posts</h1>
+            <div class="row justify-content-center">
+
+
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>User</th>
+                    <th>Titulo</th>
+                    <th>Content</th>
+                    <th>Image</th>
+                    <th>Published</th>
+                    <th>Type</th>
+                    <th> Show </th>
+                    <th> Edit </th>
+                    <th> Delete </th>
+                    <th> Select </th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                  <% @posts.each do |post| %>
+                    <tr>
+                      <td><%= post.user.name %></td>
+                      <td><%= post.title %></td>
+                      <td><%= post.content %></td>
+                      <td><%= image_tag post.image_url.to_s %></td>
+                      <td><%= post.created_at %></td>
+                      <td><%= post.type_post %></td>
+                      <td><%= link_to 'Show', post %></td>
+                      <td><%= link_to 'Edit', edit_post_path(post) %></td>
+                      <td><%= link_to 'Delete',post, :confirm => "¿Está seguro?", :method => :delete%></td>
+                      <% if post.image? %>
+                        <td><%= button_to 'Select', admin_select_path(post.id), :method => :post, class: "btn btn-primary" %> </td>
+                      <% else %>
+                        <td> </td>
+                      <% end %>
+                    </tr>
+                  <% end %>
+                </tbody>
+              </table>
+
+            </div>
+
+        </div>
+        <%= link_to 'New Post', new_post_path %>
+      </div>
+
+
+<br>
+
+

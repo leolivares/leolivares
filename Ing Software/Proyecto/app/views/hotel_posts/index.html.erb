@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Hotel Posts</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Hotel</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @hotel_posts.each do |hotel_post| %>
+      <tr>
+        <td><%= hotel_post.hotel_id %></td>
+        <td><%= link_to 'Show', hotel_post %></td>
+        <td><%= link_to 'Edit', edit_hotel_post_path(hotel_post) %></td>
+        <td><%= link_to 'Destroy', hotel_post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Hotel Post', new_hotel_post_path %>

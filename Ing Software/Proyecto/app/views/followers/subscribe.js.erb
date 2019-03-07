@@ -1,0 +1,11 @@
+var subscribe_button = document.getElementById("<%= 'follow_button' %>");
+
+
+if (subscribe_button.innerHTML == "UnFollow!") {
+    subscribe_button.innerHTML = "Follow!"
+    console.log(1)
+}
+else {
+    subscribe_button.innerHTML = "UnFollow!"
+    console.log(2)
+}
