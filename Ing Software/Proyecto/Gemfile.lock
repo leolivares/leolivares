@@ -170,7 +170,7 @@ GEM
     popper_js (1.14.3)
     powerpack (0.1.2)
     public_suffix (3.0.3)
-    puma (3.12.0)
+    puma (3.12.3)
     rack (2.0.7)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
@@ -307,7 +307,7 @@ DEPENDENCIES
   mini_racer
   pagy (~> 0.19.4)
   pg (>= 0.18, < 2.0)
-  puma (~> 3.7)
+  puma (~> 3.12)
   rails (~> 5.1.5)
   rails-assets-tether (>= 1.1.0)!
   rspotify (~> 1.16)
